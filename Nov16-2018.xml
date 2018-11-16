@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cwrc.ca/schemas/cwrc_tei_lite.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cw="http://cwrc.ca/ns/cw#" xmlns:w="http://cwrctc.artsrn.ualberta.ca/#"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cw="http://cwrc.ca/ns/cw#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:time="http://www.w3.org/2006/time#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bibo="http://purl.org/ontology/bibo/">
+<rdf:Description rdf:about="https://cwrc-writer.cwrc.ca//editor/documents/null">
+	<cw:mode>0</cw:mode>
+	<cw:allowOverlap>false</cw:allowOverlap>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/33c377f1-21fa-4594-9b1f-93d7e387fc8a">
+	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/168ba39d-2bb9-464d-b33a-013fa630d2c1"/>
+	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://cwrc-dev-01.srv.ualberta.ca/islandora/object/73c334d3-2629-4f63-835b-23fc0a706d7c"/>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-11-16T20:46:47.005Z</oa:annotatedAt>
+	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-11-16T20:46:47.005Z</oa:serializedAt>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
+	<cw:hasCertainty xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#definite"/>
+	<cw:cwrcInfo xmlns:cw="http://cwrc.ca/ns/cw#">{"id":"http://viaf.org/viaf/39569752","name":"Brown, Miquel","repository":"viaf"}</cw:cwrcInfo>
+	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"cert":"definite","type":"real","ref":"http://viaf.org/viaf/39569752"}</cw:cwrcAttributes>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://cwrc-dev-01.srv.ualberta.ca/islandora/object/73c334d3-2629-4f63-835b-23fc0a706d7c">
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/168ba39d-2bb9-464d-b33a-013fa630d2c1">
+	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/9a813236-4b4e-4f31-b418-7a183a285b5e"/>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/6b4bbd1a-b887-498b-b5f7-be401bfcd6d9"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/6b4bbd1a-b887-498b-b5f7-be401bfcd6d9">
+	<rdf:value>xpointer(//persName[@annotationId="ent_62"])</rdf:value>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/6b44d6fb-3836-4b0f-90ab-a70f6bcc70e7">
+	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/e17e9b6c-4578-4966-b402-81cee69c303a"/>
+	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://viaf.org/viaf/3987149068449965730005/"/>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/acb99f11-433d-4aed-a0b9-38e532d183e9"/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-11-16T20:46:47.007Z</oa:annotatedAt>
+	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-11-16T20:46:47.007Z</oa:serializedAt>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
+	<cw:hasCertainty xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#definite"/>
+	<cw:cwrcInfo xmlns:cw="http://cwrc.ca/ns/cw#">{"nameType":"Personal","id":"http://viaf.org/viaf/3987149068449965730005/","uri":"http://viaf.org/viaf/3987149068449965730005/","uriForDisplay":null,"externalLink":"http://viaf.org/viaf/3987149068449965730005/","name":"Sample, James","repository":"VIAF","originalQueryString":"Sample"}</cw:cwrcInfo>
+	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"ref":"http://viaf.org/viaf/3987149068449965730005/","cert":"definite","type":"real"}</cw:cwrcAttributes>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://viaf.org/viaf/3987149068449965730005/">
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/e17e9b6c-4578-4966-b402-81cee69c303a">
+	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/84b1d5fc-d209-4046-b924-fe1984f25284"/>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/788240eb-d4a6-43ac-ad64-6e341300cb69"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/788240eb-d4a6-43ac-ad64-6e341300cb69">
+	<rdf:value>xpointer(//persName[@annotationId="ent_87"])</rdf:value>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/6c1a97c4-1c29-41ca-9793-d71820f46d5c">
+	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/9a861d6c-882b-458d-8948-5b587e702c43"/>
+	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://viaf.org/viaf/290146462598027770986/"/>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/d1538cf9-1941-4fa2-bc6d-5436900e0244"/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-11-16T20:46:47.009Z</oa:annotatedAt>
+	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-11-16T20:46:47.009Z</oa:serializedAt>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
+	<cw:hasCertainty xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#definite"/>
+	<cw:cwrcInfo xmlns:cw="http://cwrc.ca/ns/cw#">{"nameType":"Corporate","id":"http://viaf.org/viaf/290146462598027770986/","uri":"http://viaf.org/viaf/290146462598027770986/","uriForDisplay":null,"externalLink":"http://viaf.org/viaf/290146462598027770986/","name":"National Association of Letter Carriers (U.S.). Vincent R. Sombrotto Branch 36 (New York, N.Y.)","repository":"VIAF","originalQueryString":"letter"}</cw:cwrcInfo>
+	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"ref":"http://viaf.org/viaf/290146462598027770986/","cert":"definite"}</cw:cwrcAttributes>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://viaf.org/viaf/290146462598027770986/">
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/9a861d6c-882b-458d-8948-5b587e702c43">
+	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/5b9b14af-8aea-437a-b948-522b6c1dfbbd"/>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/05733741-99b8-4a5d-8687-da6d30cfc9ee"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/05733741-99b8-4a5d-8687-da6d30cfc9ee">
+	<rdf:value>xpointer(//orgName[@annotationId="ent_88"])</rdf:value>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/94df2f36-ead9-4b63-8d0d-420b49776a06">
+	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/a4de0526-b1b7-4549-974d-3fe2dbaddcef"/>
+	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://geonames.org/11494963"/>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/87c267c7-da17-407f-983d-eee81a538043"/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-11-16T20:46:47.011Z</oa:annotatedAt>
+	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-11-16T20:46:47.011Z</oa:serializedAt>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
+	<cw:hasCertainty xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#definite"/>
+	<cw:cwrcInfo xmlns:cw="http://cwrc.ca/ns/cw#">{"nameType":"place","id":"http://geonames.org/11494963","uri":"http://geonames.org/11494963","uriForDisplay":null,"externalLink":"http://geonames.org/11494963","name":"Content Westmoreland Jamaica","repository":"geonames","originalQueryString":"content","description":"second-order administrative division"}</cw:cwrcInfo>
+	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"ref":"http://geonames.org/11494963","cert":"definite"}</cw:cwrcAttributes>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://geonames.org/11494963">
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/a4de0526-b1b7-4549-974d-3fe2dbaddcef">
+	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/4f49f287-468b-4e25-8f4b-4a8cf2cd74c2"/>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/6bbecb29-67f6-47d0-b7e4-380c738e8f98"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/6bbecb29-67f6-47d0-b7e4-380c738e8f98">
+	<rdf:value>xpointer(//placeName[@annotationId="ent_89"])</rdf:value>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/61a293d1-58a8-40b0-8af2-528eedb3fc19">
+	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/cabb2083-c41f-460f-a55a-630148b36e17"/>
+	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/date/6a6a29f0-e13f-49ee-9f20-47692abbc78c"/>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/a98d89ca-b724-4667-a530-ab712e174e1d"/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-11-16T20:46:47.013Z</oa:annotatedAt>
+	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-11-16T20:46:47.013Z</oa:serializedAt>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
+	<cw:hasCertainty xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#definite"/>
+	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"when":"2018-11-14","cert":"definite"}</cw:cwrcAttributes>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/date/6a6a29f0-e13f-49ee-9f20-47692abbc78c"><xsd:date xmlns:xsd="http://www.w3.org/2001/XMLSchema#">2018-11-14</xsd:date>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
+	<rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
+	<rdf:type rdf:resource="http://www.w3.org/2006/time#TemporalEntity"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/cabb2083-c41f-460f-a55a-630148b36e17">
+	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/ea634936-77d5-42b4-9ed0-e51a3d14ebef"/>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/e7bbd0a1-f4c8-4b9e-a366-d6e713ae5382"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/e7bbd0a1-f4c8-4b9e-a366-d6e713ae5382">
+	<rdf:value>xpointer(//date[@annotationId="ent_90"])</rdf:value>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/c9d3fcc6-d0c8-428b-9428-07c86612b550">
+	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/69fb9b06-2b82-42a2-96f4-f2ff5b51a038"/>
+	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://viaf.org/viaf/9725153126250224750006/"/>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/2f4d7082-0c01-41d4-a35f-a4a881e1a797"/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-11-16T20:46:47.014Z</oa:annotatedAt>
+	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-11-16T20:46:47.014Z</oa:serializedAt>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://cwrc.ca/ns/cw#citing"/>
+	<cw:cwrcInfo xmlns:cw="http://cwrc.ca/ns/cw#">{"nameType":"UniformTitleWork","id":"http://viaf.org/viaf/9725153126250224750006/","uri":"http://viaf.org/viaf/9725153126250224750006/","uriForDisplay":null,"externalLink":"http://viaf.org/viaf/9725153126250224750006/","name":"Hirschvogel, Augustin 1503-1553 | Moses and the Crossing of the Red Sea TIB XVIII.152.1.58 (171)","repository":"VIAF","originalQueryString":"closing"}</cw:cwrcInfo>
+	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"ref":"http://viaf.org/viaf/9725153126250224750006/"}</cw:cwrcAttributes>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://viaf.org/viaf/9725153126250224750006/">
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
+	<rdf:type rdf:resource="http://purl.org/dc/terms/BibliographicResource"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/69fb9b06-2b82-42a2-96f4-f2ff5b51a038">
+	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/b2031c94-a933-45ed-9705-ee39910307c2"/>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/15f6ae22-2a30-4b84-b50a-74df5d84c57b"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/15f6ae22-2a30-4b84-b50a-74df5d84c57b">
+	<rdf:value>xpointer(//note[@annotationId="ent_111"])</rdf:value>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/e2691209-9a60-4448-b757-e2c26e30f60e">
+	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/9029a265-1f70-4b20-8756-ca24a822c7da"/>
+	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/note/f694932e-4561-4f8e-9a4d-3dde9aa06a3b"/>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/e0d393f8-da5a-41ee-b9b9-efd7427eb518"/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-11-16T20:46:47.016Z</oa:annotatedAt>
+	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-11-16T20:46:47.016Z</oa:serializedAt>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"type":"setting"}</cw:cwrcAttributes>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/note/f694932e-4561-4f8e-9a4d-3dde9aa06a3b">
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
+	<rdf:type rdf:resource="http://purl.org/ontology/bibo/Note"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/9029a265-1f70-4b20-8756-ca24a822c7da">
+	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/31346a0f-0e88-4ff3-ac50-a2d677e7b277"/>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/c27ca253-3d0e-45e3-bcb0-729e27e0c894"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/c27ca253-3d0e-45e3-bcb0-729e27e0c894">
+	<rdf:value>xpointer(//note[@annotationId="ent_132"])</rdf:value>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
+</rdf:Description>
+</rdf:RDF>
+
+	
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Sample Document Title</title>
+			</titleStmt>
+			<publicationStmt>
+				<p></p>
+			</publicationStmt>
+			<sourceDesc sameAs="http://www.cwrc.ca">
+				<p>Created from original research by members of CWRC/CS�C unless otherwise noted.</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="letter">
+				<head>
+					<title>Sample Letter Title</title>
+				</head>
+				<opener>
+					g<note annotationId="ent_132" type="setting">
+						<p xmlns="http://www.tei-c.org/ns/1.0">blah-blah</p>
+					</note>
+					<dateline>
+						<date annotationId="ent_90" when="2018-11-14" cert="definite">Some date (set date value in attribute).</date>
+					</dateline>
+					<salute>Some salutation, e.g. "Dearest <persName annotationId="ent_62" cert="definite" type="real" ref="http://viaf.org/viaf/39569752">Miquel</persName>"</salute>
+				</opener>
+				<p><persName annotationId="ent_87" ref="http://viaf.org/viaf/3987149068449965730005/" cert="definite" type="real">Sample</persName> <orgName annotationId="ent_88" ref="http://viaf.org/viaf/290146462598027770986/" cert="definite">letter</orgName>  <placeName annotationId="ent_89" ref="http://geonames.org/11494963" cert="definite">content</placeName></p><p>Some more text here.</p>
+				<closer>
+					<salute>Some closing<note annotationId="ent_111" type="citation"><bibl ref="http://viaf.org/viaf/9725153126250224750006/">my citation</bibl></note> salutation, e.g. "With love..."</salute>
+					<signed>Sender name and/or signature.</signed>
+				</closer>
+			</div>
+		</body>
+	</text>
+</TEI>
