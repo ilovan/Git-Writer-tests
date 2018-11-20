@@ -1,263 +1,396 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://cwrc.ca/schemas/cwrc_tei_lite.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cw="http://cwrc.ca/ns/cw#" xmlns:w="http://cwrctc.artsrn.ualberta.ca/#"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cw="http://cwrc.ca/ns/cw#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:time="http://www.w3.org/2006/time#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bibo="http://purl.org/ontology/bibo/">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xmlns:cw="http://cwrc.ca/ns/cw#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cw="http://cwrc.ca/ns/cw#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:cnt="http://www.w3.org/2011/content#" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#">
 <rdf:Description rdf:about="https://cwrc-writer.cwrc.ca//editor/documents/null">
 	<cw:mode>0</cw:mode>
 	<cw:allowOverlap>false</cw:allowOverlap>
 </rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/33c377f1-21fa-4594-9b1f-93d7e387fc8a">
-	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/168ba39d-2bb9-464d-b33a-013fa630d2c1"/>
-	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://cwrc-dev-01.srv.ualberta.ca/islandora/object/73c334d3-2629-4f63-835b-23fc0a706d7c"/>
-	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-11-16T22:49:05.908Z</oa:annotatedAt>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
+	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
+	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-11-20T22:08:29.421Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-11-16T22:49:05.908Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-11-20T22:08:29.421Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
-	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
-	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
-	<cw:hasCertainty xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#definite"/>
-	<cw:cwrcInfo xmlns:cw="http://cwrc.ca/ns/cw#">{"id":"http://viaf.org/viaf/39569752","name":"Brown, Miquel","repository":"viaf"}</cw:cwrcInfo>
-	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"cert":"definite","type":"real","ref":"http://viaf.org/viaf/39569752"}</cw:cwrcAttributes>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#linking"/>
+	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"target":"http://arachne.uni-koeln.de/item/buchseite/650756"}</cw:cwrcAttributes>
 </rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://cwrc-dev-01.srv.ualberta.ca/islandora/object/73c334d3-2629-4f63-835b-23fc0a706d7c">
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
-	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+	<rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
 </rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/168ba39d-2bb9-464d-b33a-013fa630d2c1">
-	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/9a813236-4b4e-4f31-b418-7a183a285b5e"/>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
+	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
-	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/6b4bbd1a-b887-498b-b5f7-be401bfcd6d9"/>
+	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 </rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/6b4bbd1a-b887-498b-b5f7-be401bfcd6d9">
-	<rdf:value>xpointer(//persName[@annotationId="ent_62"])</rdf:value>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
+	<rdf:value>xpointer(//ref[@annotationId="ent_267"])</rdf:value>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
 </rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/6b44d6fb-3836-4b0f-90ab-a70f6bcc70e7">
-	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/e17e9b6c-4578-4966-b402-81cee69c303a"/>
-	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://viaf.org/viaf/3987149068449965730005/"/>
-	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-11-16T22:49:05.909Z</oa:annotatedAt>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/a7629d2c-c8c7-47ef-aed3-d64f45d106d4">
+	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/7ce73b58-e77a-4e61-addc-9259b99a3a9d"/>
+	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://geonames.org/2525068"/>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/cfaa2f61-0485-4612-b1e1-d27824ec2eff"/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-11-20T22:08:29.422Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-11-16T22:49:05.909Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-11-20T22:08:29.422Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
 	<cw:hasCertainty xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#definite"/>
-	<cw:cwrcInfo xmlns:cw="http://cwrc.ca/ns/cw#">{"nameType":"Personal","id":"http://viaf.org/viaf/3987149068449965730005/","uri":"http://viaf.org/viaf/3987149068449965730005/","uriForDisplay":null,"externalLink":"http://viaf.org/viaf/3987149068449965730005/","name":"Sample, James","repository":"VIAF","originalQueryString":"Sample"}</cw:cwrcInfo>
-	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"ref":"http://viaf.org/viaf/3987149068449965730005/","cert":"definite","type":"real"}</cw:cwrcAttributes>
+	<cw:cwrcInfo xmlns:cw="http://cwrc.ca/ns/cw#">{"nameType":"place","id":"http://geonames.org/2525068","uri":"http://geonames.org/2525068","uriForDisplay":null,"externalLink":"http://geonames.org/2525068","name":"Catania Sicily Italy","repository":"geonames","originalQueryString":"Catania","description":"seat of a second-order administrative division"}</cw:cwrcInfo>
+	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"ref":"http://geonames.org/2525068","cert":"definite"}</cw:cwrcAttributes>
 </rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://viaf.org/viaf/3987149068449965730005/">
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
-	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/e17e9b6c-4578-4966-b402-81cee69c303a">
-	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/84b1d5fc-d209-4046-b924-fe1984f25284"/>
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
-	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/788240eb-d4a6-43ac-ad64-6e341300cb69"/>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/788240eb-d4a6-43ac-ad64-6e341300cb69">
-	<rdf:value>xpointer(//persName[@annotationId="ent_87"])</rdf:value>
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/6c1a97c4-1c29-41ca-9793-d71820f46d5c">
-	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/9a861d6c-882b-458d-8948-5b587e702c43"/>
-	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://viaf.org/viaf/290146462598027770986/"/>
-	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-11-16T22:49:05.910Z</oa:annotatedAt>
-	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-11-16T22:49:05.910Z</oa:serializedAt>
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
-	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
-	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
-	<cw:hasCertainty xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#definite"/>
-	<cw:cwrcInfo xmlns:cw="http://cwrc.ca/ns/cw#">{"nameType":"Corporate","id":"http://viaf.org/viaf/290146462598027770986/","uri":"http://viaf.org/viaf/290146462598027770986/","uriForDisplay":null,"externalLink":"http://viaf.org/viaf/290146462598027770986/","name":"National Association of Letter Carriers (U.S.). Vincent R. Sombrotto Branch 36 (New York, N.Y.)","repository":"VIAF","originalQueryString":"letter"}</cw:cwrcInfo>
-	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"ref":"http://viaf.org/viaf/290146462598027770986/","cert":"definite"}</cw:cwrcAttributes>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://viaf.org/viaf/290146462598027770986/">
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
-	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/9a861d6c-882b-458d-8948-5b587e702c43">
-	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/5b9b14af-8aea-437a-b948-522b6c1dfbbd"/>
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
-	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/05733741-99b8-4a5d-8687-da6d30cfc9ee"/>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/05733741-99b8-4a5d-8687-da6d30cfc9ee">
-	<rdf:value>xpointer(//orgName[@annotationId="ent_88"])</rdf:value>
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/94df2f36-ead9-4b63-8d0d-420b49776a06">
-	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/a4de0526-b1b7-4549-974d-3fe2dbaddcef"/>
-	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://geonames.org/11494963"/>
-	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-11-16T22:49:05.912Z</oa:annotatedAt>
-	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-11-16T22:49:05.912Z</oa:serializedAt>
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
-	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
-	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
-	<cw:hasCertainty xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#definite"/>
-	<cw:cwrcInfo xmlns:cw="http://cwrc.ca/ns/cw#">{"nameType":"place","id":"http://geonames.org/11494963","uri":"http://geonames.org/11494963","uriForDisplay":null,"externalLink":"http://geonames.org/11494963","name":"Content Westmoreland Jamaica","repository":"geonames","originalQueryString":"content","description":"second-order administrative division"}</cw:cwrcInfo>
-	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"ref":"http://geonames.org/11494963","cert":"definite"}</cw:cwrcAttributes>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://geonames.org/11494963">
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://geonames.org/2525068">
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
 	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
 </rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/a4de0526-b1b7-4549-974d-3fe2dbaddcef">
-	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/4f49f287-468b-4e25-8f4b-4a8cf2cd74c2"/>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/7ce73b58-e77a-4e61-addc-9259b99a3a9d">
+	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/ca495230-6917-40fd-b7e7-b0993b06f12d"/>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
-	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/6bbecb29-67f6-47d0-b7e4-380c738e8f98"/>
+	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/0bb00f3e-8ffc-4f3c-b18f-0e89ff9d0b1d"/>
 </rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/6bbecb29-67f6-47d0-b7e4-380c738e8f98">
-	<rdf:value>xpointer(//placeName[@annotationId="ent_89"])</rdf:value>
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/61a293d1-58a8-40b0-8af2-528eedb3fc19">
-	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/cabb2083-c41f-460f-a55a-630148b36e17"/>
-	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/date/6a6a29f0-e13f-49ee-9f20-47692abbc78c"/>
-	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-11-16T22:49:05.914Z</oa:annotatedAt>
-	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-11-16T22:49:05.914Z</oa:serializedAt>
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
-	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
-	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
-	<cw:hasCertainty xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#definite"/>
-	<cw:cwrcInfo xmlns:cw="http://cwrc.ca/ns/cw#">{}</cw:cwrcInfo>
-	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"when":"2018-11-14","cert":"definite"}</cw:cwrcAttributes>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/date/6a6a29f0-e13f-49ee-9f20-47692abbc78c"><xsd:date xmlns:xsd="http://www.w3.org/2001/XMLSchema#">2018-11-14</xsd:date>
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
-	<rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
-	<rdf:type rdf:resource="http://www.w3.org/2006/time#TemporalEntity"/>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/cabb2083-c41f-460f-a55a-630148b36e17">
-	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/ea634936-77d5-42b4-9ed0-e51a3d14ebef"/>
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
-	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/e7bbd0a1-f4c8-4b9e-a366-d6e713ae5382"/>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/e7bbd0a1-f4c8-4b9e-a366-d6e713ae5382">
-	<rdf:value>xpointer(//date[@annotationId="ent_90"])</rdf:value>
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/c9d3fcc6-d0c8-428b-9428-07c86612b550">
-	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/69fb9b06-2b82-42a2-96f4-f2ff5b51a038"/>
-	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://viaf.org/viaf/9725153126250224750006/"/>
-	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-11-16T22:49:05.916Z</oa:annotatedAt>
-	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-11-16T22:49:05.916Z</oa:serializedAt>
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
-	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://cwrc.ca/ns/cw#citing"/>
-	<cw:cwrcInfo xmlns:cw="http://cwrc.ca/ns/cw#">{"nameType":"UniformTitleWork","id":"http://viaf.org/viaf/9725153126250224750006/","uri":"http://viaf.org/viaf/9725153126250224750006/","uriForDisplay":null,"externalLink":"http://viaf.org/viaf/9725153126250224750006/","name":"Hirschvogel, Augustin 1503-1553 | Moses and the Crossing of the Red Sea TIB XVIII.152.1.58 (171)","repository":"VIAF","originalQueryString":"closing"}</cw:cwrcInfo>
-	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"ref":"http://viaf.org/viaf/9725153126250224750006/","type":"citation"}</cw:cwrcAttributes>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://viaf.org/viaf/9725153126250224750006/">
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
-	<rdf:type rdf:resource="http://purl.org/dc/terms/BibliographicResource"/>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/69fb9b06-2b82-42a2-96f4-f2ff5b51a038">
-	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/b2031c94-a933-45ed-9705-ee39910307c2"/>
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
-	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/15f6ae22-2a30-4b84-b50a-74df5d84c57b"/>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/15f6ae22-2a30-4b84-b50a-74df5d84c57b">
-	<rdf:value>xpointer(//note[@annotationId="ent_111"])</rdf:value>
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/e2691209-9a60-4448-b757-e2c26e30f60e">
-	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/9029a265-1f70-4b20-8756-ca24a822c7da"/>
-	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/note/f694932e-4561-4f8e-9a4d-3dde9aa06a3b"/>
-	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-11-16T22:49:05.918Z</oa:annotatedAt>
-	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-11-16T22:49:05.918Z</oa:serializedAt>
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
-	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#commenting"/>
-	<cw:cwrcInfo xmlns:cw="http://cwrc.ca/ns/cw#">{}</cw:cwrcInfo>
-	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"type":"setting"}</cw:cwrcAttributes>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/note/f694932e-4561-4f8e-9a4d-3dde9aa06a3b">
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
-	<rdf:type rdf:resource="http://purl.org/ontology/bibo/Note"/>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/9029a265-1f70-4b20-8756-ca24a822c7da">
-	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/31346a0f-0e88-4ff3-ac50-a2d677e7b277"/>
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
-	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/c27ca253-3d0e-45e3-bcb0-729e27e0c894"/>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/c27ca253-3d0e-45e3-bcb0-729e27e0c894">
-	<rdf:value>xpointer(//note[@annotationId="ent_132"])</rdf:value>
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/29c0c184-c7e5-43f1-ab01-83126a359bce">
-	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/bde9f44c-905a-4d51-acde-a64eb3aeff15"/>
-	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://viaf.org/viaf/9956150172740100180005/"/>
-	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-11-16T22:49:05.919Z</oa:annotatedAt>
-	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-11-16T22:49:05.919Z</oa:serializedAt>
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
-	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
-	<cw:hasCertainty xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#definite"/>
-	<cw:cwrcInfo xmlns:cw="http://cwrc.ca/ns/cw#">{"nameType":"UniformTitleWork","id":"http://viaf.org/viaf/9956150172740100180005/","uri":"http://viaf.org/viaf/9956150172740100180005/","uriForDisplay":null,"externalLink":"http://viaf.org/viaf/9956150172740100180005/","name":"Meltzer, Judy. | Transitional justice and reconciliation in post-conflict Colombia : some considerations for future Canadian engagement","repository":"VIAF","originalQueryString":"Some"}</cw:cwrcInfo>
-	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"ref":"http://viaf.org/viaf/9956150172740100180005/","level":"m","cert":"definite"}</cw:cwrcAttributes>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://viaf.org/viaf/9956150172740100180005/"><cw:pubType xmlns:cw="http://cwrc.ca/ns/cw#">m</cw:pubType>
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
-	<rdf:type rdf:resource="http://purl.org/dc/terms/BibliographicResource"/>
-	<rdf:type rdf:resource="http://purl.org/dc/terms/title"/>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/bde9f44c-905a-4d51-acde-a64eb3aeff15">
-	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/b9d11654-af3f-413e-b649-2ed4b07a27f6"/>
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
-	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/491803c1-eb07-4df9-93cc-fe13dfe9d28e"/>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/491803c1-eb07-4df9-93cc-fe13dfe9d28e">
-	<rdf:value>xpointer(//title[@annotationId="ent_166"])</rdf:value>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/0bb00f3e-8ffc-4f3c-b18f-0e89ff9d0b1d">
+	<rdf:value>xpointer(//placeName[@annotationId="ent_480"])</rdf:value>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
 </rdf:Description>
 </rdf:RDF>
 
-
-
-	
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>Sample Document Title</title>
-			</titleStmt>
-			<publicationStmt>
-				<p></p>
-			</publicationStmt>
-			<sourceDesc sameAs="http://www.cwrc.ca">
-				<p>Created from original research by members of CWRC/CS�C unless otherwise noted.</p>
-			</sourceDesc>
-		</fileDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<div type="letter">
-				<head>
-					<title>Sample Letter Title</title>
-				</head>
-				<opener>
-					g<note annotationId="ent_132" type="setting">
-						<p xmlns="http://www.tei-c.org/ns/1.0">blah-blah</p>
-					</note>
-					<dateline>
-						<date annotationId="ent_90" when="2018-11-14" cert="definite">Some date (set date value in attribute).</date>
-					</dateline>
-					<salute>Some salutation, e.g. "Dearest <persName annotationId="ent_62" cert="definite" type="real" ref="http://viaf.org/viaf/39569752">Miquel</persName>"</salute>
-				</opener>
-				<p><persName annotationId="ent_87" ref="http://viaf.org/viaf/3987149068449965730005/" cert="definite" type="real">Sample</persName> <orgName annotationId="ent_88" ref="http://viaf.org/viaf/290146462598027770986/" cert="definite">letter</orgName>  <placeName annotationId="ent_89" ref="http://geonames.org/11494963" cert="definite">content</placeName></p><p><title annotationId="ent_166" ref="http://viaf.org/viaf/9956150172740100180005/" level="m" cert="definite">Some</title> <choice sicText="more" corrText="smore"><sic>more</sic><corr>smore</corr></choice> text here.</p>
-				<closer>
-					<salute>Some closing<note annotationId="ent_111" type="citation"><bibl ref="http://viaf.org/viaf/9725153126250224750006/">my citation</bibl></note> salutation, e.g. "With love..."</salute>
-					<signed>Sender name and/or signature.</signed>
-				</closer>
-			</div>
-		</body>
-	</text>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>
+<seg xml:lang="en">Dedication to the Genius of the city of Catania</seg>
+</title>
+<editor ref="#JP">Jonathan Prag</editor>
+<principal ref="#JP">Jonathan Prag</principal>
+<funder>John Fell OUP Research Fund</funder>
+<respStmt>
+<name xml:id="JP" ref="http://orcid.org/0000-0003-3819-8537">Jonathan Prag</name>
+<resp>original data collection and editing</resp>
+</respStmt>
+<respStmt>
+<name xml:id="JCu" ref="http://orcid.org/0000-0002-6686-3728">James Cummings</name>
+<resp>conversion to EpiDoc</resp>
+</respStmt>
+<respStmt>
+<name xml:id="JCh" ref="http://orcid.org/0000-0001-6823-0265">James Chartrand</name>
+<resp>site construction and encoding</resp>
+</respStmt>
+<respStmt>
+<name xml:id="VV" ref="http://orcid.org/0000-0002-9695-0240">Valeria Vitale</name>
+<resp>editing of geo data</resp>
+</respStmt>
+<respStmt>
+<name xml:id="MM">Michael Metcalfe</name>
+<resp>museum data collection</resp>
+</respStmt>
+<respStmt>
+<name xml:id="SA">Serena Agodi</name>
+<resp>Italian translation</resp>
+</respStmt>
+</titleStmt>
+<publicationStmt>
+<authority>I.Sicily</authority>
+<idno type="filename">ISic0298</idno>
+<idno type="TM">175826</idno>
+<idno type="EDR">074187</idno>
+<idno type="EDH"></idno>
+<idno type="EDCS"></idno>
+<idno type="PHI"></idno>
+<availability>
+<licence target="http://creativecommons.org/licenses/by/4.0/">
+Licensed under a Creative Commons-Attribution 4.0 licence.
+</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<country>Italy</country>
+<region>Sicily</region>
+<settlement>Catania</settlement>
+<repository role="museum" ref="http://sicily.classics.ox.ac.uk/museum/018">
+Museo Civico di Catania
+</repository>
+<idno type="inventory">2</idno>
+<altIdentifier>
+<settlement></settlement>
+<repository></repository>
+<idno type="old"></idno>
+</altIdentifier>
+</msIdentifier>
+<msContents>
+<textLang mainLang="la">
+<seg xml:lang="en">Latin</seg>
+</textLang>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support>
+<material n="marble" ref="http://www.eagle-network.eu/voc/material/lod/48.html">
+<seg xml:lang="en">marble (white)</seg>
+</material>
+<objectType n="tabula" ref="http://www.eagle-network.eu/voc/objtyp/lod/257">
+<seg xml:lang="en">tablet</seg>
+</objectType>
+<p>
+<seg xml:lang="en">
+A tablet of white marble, smooth on the sides and the reverse, with the remains of a raised border (a moulding?) on the right side. The front face is lightly convex.
+</seg>
+</p>
+<dimensions>
+<height unit="cm">62</height>
+<width unit="cm">58</width>
+<depth unit="cm">4.5-6.0</depth>
+</dimensions>
+</support>
+</supportDesc>
+<layoutDesc>
+<layout>
+<rs type="execution" ref="http://www.eagle-network.eu/voc/writing/lod/1">
+<seg xml:lang="en">Engraved</seg>
+</rs>
+<seg xml:lang="en">
+The text is preserved intact, over seven lines, although the edge of the surviving stone clips the tops of the letters of the first line. The letters diminish in size over the first four lines, with a vacat in the second half of line four; the final three lines are larger again. The left margin of the text is maintained regularly, the right margin varies from line to line.
+</seg>
+</layout>
+</layoutDesc>
+</objectDesc>
+<handDesc>
+<handNote>
+<seg xml:lang="en">
+The letters are deeply but somewhat irregularly cut, with some internal variation (e.g. A appears with both broken and straight bar; E appears both as a tall narrow standard E and as a vertical stroke with a single horizontal bar across the middle; V appears both as V and as Y). Interpuncts are mostly absent, except after VC and CONS in the final two lines.
+</seg>
+<locus from="line1" to="line1">Line 1</locus>
+<dimensions type="letterHeight">
+<height unit="mm">60-80</height>
+</dimensions>
+<locus from="line2" to="line4">Line 2-4</locus>
+<dimensions type="letterHeight">
+<height unit="mm">40-60</height>
+</dimensions>
+<locus from="line5" to="line7">Line 5-7</locus>
+<dimensions type="letterHeight">
+<height unit="mm">50-70</height>
+</dimensions>
+<locus from="line1" to="line2"></locus>
+<dimensions type="interlinear">
+<height unit="mm"></height>
+</dimensions>
+</handNote>
+</handDesc>
+</physDesc>
+<history>
+<origin>
+<origPlace datingMethod="#julian">
+<placeName type="ancient" ref="http://pleiades.stoa.org/places/462270">
+Catina
+<geo>37.49223, 15.07041</geo>
+</placeName>
+<placeName type="modern" ref="http://sws.geonames.org/2525068">Catania </placeName>
+</origPlace>
+<origDate n="Lb" notBefore-custom="0337" notAfter-custom="0421">
+<seg xml:lang="en">
+Munatidius is not otherwise known; the mention of three Domini requires one of the periods 337-340, 367-378, 379-383, 388-395, 402-408, and 421. A precise choice is not possible, but the consensus amongst scholars is for a date in the fourth century rather than later.
+</seg>
+</origDate>
+</origin>
+<provenance type="found">
+<seg xml:lang="en">
+Found 18 May 1770 in excavations in the ancient theatre of Catania
+<geo> 37.502748, 15.083639</geo>
+, by the Principe di Biscari
+</seg>
+</provenance>
+<provenance type="observed" subtype="autopsied" resp="#JP">2016.05.13</provenance>
+<acquisition>Catania, Museo Civico di Catania no. 2</acquisition>
+</history>
+<additional>
+<adminInfo>
+<note type="location">Display, Voci di pietra no.12</note>
+</adminInfo>
+</additional>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<calendarDesc>
+<calendar xml:id="julian">
+<p>Julian Calendar</p>
+</calendar>
+</calendarDesc>
+<langUsage>
+<language ident="en">English</language>
+<language ident="it">Italian</language>
+<language ident="la">Latin</language>
+</langUsage>
+<textClass>
+<keywords scheme="http://www.eagle-network.eu/voc/typeins.html">
+<term n="dedication" ref="http://www.eagle-network.eu/voc/typeins/lod/88.html">
+<seg xml:lang="en">dedication</seg>
+</term>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc status="edited">
+<listChange>
+<change when="2016-12-03" who="#JC">
+James Cummings autogenerated EpiDoc output from database
+</change>
+<change when="2016-12-23" who="#JP">
+Jonathan Prag checked and revised the initial EpiDoc
+</change>
+<change when="2017-06-06" who="#JP">
+Jonathan Prag added Italian translation (by Serena Agodi), additional images (Liceo Lazzaro) and made minor edits
+</change>
+</listChange>
+</revisionDesc>
+</teiHeader>
+<facsimile>
+<surface type="front">
+<graphic n="screen" url="ISic0298_tiled.tif" height="4192px" width="3680px">
+<desc>Photograph of front face by J. Prag</desc>
+</graphic>
+<graphic n="print" url="ISic0298.jpg" height="4192px" width="3680px">
+<desc>Photograph of front face by J. Prag</desc>
+</graphic>
+<graphic n="screen" url="ISic0298_alt_tiled.tif" height="2856px" width="4272px">
+<desc>Photograph of front face by Liceo M.M. Lazzaro</desc>
+</graphic>
+<graphic n="print" url="ISic0298_alt.jpg" height="2856px" width="4272px">
+<desc>Photograph of front face by Liceo M.M. Lazzaro</desc>
+</graphic>
+</surface>
+<surface type="threequarter">
+<graphic n="screen" url="ISic0298_threequarter_tiled.tif" height="2856px" width="4272px">
+<desc>Photograph by Liceo M.M. Lazzaro</desc>
+</graphic>
+<graphic n="print" url="ISic0298_threequarter.jpg" height="2856px" width="4272px">
+<desc>Photograph by Liceo M.M. Lazzaro</desc>
+</graphic>
+</surface>
+</facsimile>
+<text>
+<body>
+<div type="edition" xml:lang="la">
+<ab>
+<lb n="1"></lb>
+Vernantibus
+<lb n="2"></lb>
+saeculis
+<expan>
+<abbr>
+d
+<am>dd</am>
+</abbr>
+<ex>ominorum</ex>
+</expan>
+<expan>
+<abbr>
+n
+<am>nn</am>
+</abbr>
+<ex>ostrorum</ex>
+</expan>
+<lb n="3"></lb>
+Genio splendidae ur
+<lb n="4" break="no"></lb>
+bis
+<placeName>Catinae</placeName>
+<lb n="5"></lb>
+<persName>
+<name>Facundus</name>
+<name>Porfyrius</name>
+<lb n="6"></lb>
+<name>Mynatidius</name>
+</persName>
+<expan>
+<abbr>v</abbr>
+<ex>ir</ex>
+</expan>
+<expan>
+<abbr>c</abbr>
+<ex>larissimus</ex>
+</expan>
+<g type="interpunct">·</g>
+<lb n="7"></lb>
+<expan>
+<abbr>cons</abbr>
+<ex>ularis</ex>
+</expan>
+<g type="interpunct">·</g>
+eiusdem
+</ab>
+</div>
+<div type="apparatus">
+<p></p>
+</div>
+<div type="translation" xml:lang="en" resp="#JP">
+<p>
+At the dawn of the new age of our threefold lordship, (dedicated) to the Genius of the splendid city of Catania. Facundus Porfyrius Mynatidius, vir clarissimus, consular governor of the same (city?) (set this up).
+</p>
+</div>
+<div type="translation" xml:lang="it" resp="#SA">
+<p>
+Nel rifiorire dell'era dei nostri tre signori, al genio della splendida città di Catania Facundio Porfirio Munatidio, senatore (vir clarissimus) governatore consolare della stessa (città?) (dedicò).
+</p>
+</div>
+<div type="commentary" xml:lang="en">
+<p>
+The text (on imported marble) would have been fixed to the base of a statue of the Genius of the city of <placeName annotationId="ent_480" ref="http://geonames.org/2525068" cert="definite">Catania</placeName>, probably erected on the stage-building of the theatre. The Genius was the protective spirit of a person or a thing. Dedications to the Genius of the Emperor were common, but also to cities (e.g. both a statue and temple of the Genius of the city of Lilybaeum = Marsala are mentioned in other inscriptions). Facundus Porfyrius is not otherwise known. The precise significance of 'cons eiusdem' in line 7 is extensively debated and several alternatives have been suggested: the most likely interpretation is 'consularis eiusdem', signifying consularis of the same city, i.e. Catania, and so by extension / implication the province of Sicily.
+</p>
+</div>
+<div type="bibliography">
+<listBibl>
+<bibl type="CIL">
+<citedRange>
+<ref annotationId="ent_267" target="http://arachne.uni-koeln.de/item/buchseite/650756">10.7014</ref>
+</citedRange>
+<ptr target="https://www.zotero.org/groups/382445/items/GQN8UZSI"></ptr>
+</bibl>
+<bibl type="AE">
+<citedRange>1959.0022</citedRange>
+<ptr target="http://zotero.org/groups/382445/items/R46KDTZX"></ptr>
+</bibl>
+<bibl type="IMusCatania">
+<citedRange>7</citedRange>
+<ptr target="https://www.zotero.org/groups/382445/items/2EUC82DH"></ptr>
+</bibl>
+<bibl type="ILS">
+<citedRange>3778</citedRange>
+<ptr target="https://www.zotero.org/groups/382445/items/XHMS9K6S"></ptr>
+</bibl>
+<bibl>
+<author>Holm</author>
+<date>1925</date>
+<citedRange>43-44</citedRange>
+<ptr target="http://zotero.org/groups/382445/items/7VWTI6D2"></ptr>
+</bibl>
+<bibl>
+<author>Manganaro</author>
+<date>1958-1959</date>
+<citedRange>5-10 fig.1</citedRange>
+<ptr target="http://zotero.org/groups/382445/items/BVD8KVF7"></ptr>
+</bibl>
+<bibl>
+<author>Wilson</author>
+<date>1990</date>
+<citedRange>187 fig.156.b</citedRange>
+<ptr target="https://www.zotero.org/groups/382445/items/VF9MMBI9"></ptr>
+</bibl>
+<bibl>
+<author>Manganaro</author>
+<date>1993</date>
+<citedRange>560, 583 fig.19</citedRange>
+<ptr target="https://www.zotero.org/groups/382445/items/JBI7CI5R"></ptr>
+</bibl>
+</listBibl>
+</div>
+</body>
+</text>
 </TEI>
