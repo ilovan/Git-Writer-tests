@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://cwrc.ca/schemas/cwrc_tei_lite.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xmlns:cw="http://cwrc.ca/ns/cw#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cw="http://cwrc.ca/ns/cw#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:cnt="http://www.w3.org/2011/content#">
-<rdf:Description rdf:about="https://cwrc-writer.cwrc.ca//editor/documents/null">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xmlns:cw="http://cwrc.ca/ns/cw#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<teiHeader>
+<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cw="http://cwrc.ca/ns/cw#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:cnt="http://www.w3.org/2011/content#">
+<rdf:Description rdf:about="https://dev-cwrc-writer.cwrc.ca//editor/documents/null">
 	<cw:mode>0</cw:mode>
 	<cw:allowOverlap>false</cw:allowOverlap>
 </rdf:Description>
@@ -10,12 +13,12 @@
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-11-22T15:23:15.502Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-11-28T20:20:36.025Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-11-22T15:23:15.502Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-11-28T20:20:36.025Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#linking"/>
-	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"target":"http://arachne.uni-koeln.de/item/buchseite/650756"}</cw:cwrcAttributes>
+	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"ana":"ent_1232","target":"http://arachne.uni-koeln.de/item/buchseite/650756"}</cw:cwrcAttributes>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
@@ -27,12 +30,10 @@
 	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
-	<rdf:value>xpointer(//ref[@annotationId="ent_1547"])</rdf:value>
+	<rdf:value>xpointer(//ref[@ana="ent_1445"])</rdf:value>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
-</rdf:Description>
-</rdf:RDF>
+</rdf:Description></rdf:RDF></xenoData>
 
-<teiHeader>
 <fileDesc>
 <titleStmt>
 <title>
@@ -322,7 +323,7 @@ The text (on imported marble) would have been fixed to the base of a statue of t
 <listBibl>
 <bibl type="CIL">
 <citedRange>
-<ref annotationId="ent_1547" target="http://arachne.uni-koeln.de/item/buchseite/650756">10.7014</ref>
+<ref ana="ent_1445" ana="ent_1232" target="http://arachne.uni-koeln.de/item/buchseite/650756">10.7014</ref>
 </citedRange>
 <ptr target="https://www.zotero.org/groups/382445/items/GQN8UZSI"></ptr>
 </bibl>
