@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cwrc.ca/schemas/cwrc_tei_lite.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?>
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude" xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cw="http://cwrc.ca/ns/cw#" xmlns:w="http://cwrctc.artsrn.ualberta.ca/#">
+	
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Sample Document Title</title>
+				<editor sameAs="www.cwrc.ca/person/someID">Editor name</editor>
+			</titleStmt>
+			<publicationStmt>
+				<p></p>
+			</publicationStmt>
+			<sourceDesc sameAs="http://www.cwrc.ca">
+				<p>Created by members of CWRC/CSÉC unless otherwise noted.</p>
+			</sourceDesc>
+		</fileDesc><xenoData>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cw="http://cwrc.ca/ns/cw#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:time="http://www.w3.org/2006/time#" xmlns:cnt="http://www.w3.org/2011/content#" xmlns:bibo="http://purl.org/ontology/bibo/">
+<rdf:Description rdf:about="https://dev-cwrc-writer.cwrc.ca//editor/documents/null">
+	<cw:mode>0</cw:mode>
+	<cw:allowOverlap>false</cw:allowOverlap>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/08a1a247-7cd6-48e8-ace1-b32830462a37">
+	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/7a900218-79b7-4a5e-826c-82efac89046a"/>
+	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/person/d3402880-7759-4f7b-a68e-acdcc203f336"/>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-10T16:41:33.958Z</oa:annotatedAt>
+	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-10T16:41:33.958Z</oa:serializedAt>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
+	<cw:hasCertainty xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#definite"/>
+	<cw:cwrcInfo xmlns:cw="http://cwrc.ca/ns/cw#">{"id":"http://viaf.org/viaf/78272387","name":"McLaren, Floris Clark","repository":"viaf"}</cw:cwrcInfo>
+	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"cert":"definite","type":"real","ref":"http://viaf.org/viaf/78272387"}</cw:cwrcAttributes>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/person/d3402880-7759-4f7b-a68e-acdcc203f336">
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/7a900218-79b7-4a5e-826c-82efac89046a">
+	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/544a2030-091a-4a2d-8ec9-5214a292fa87"/>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/a8e62cfe-f02e-4f9a-bac3-9d95600cbbe8"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/a8e62cfe-f02e-4f9a-bac3-9d95600cbbe8">
+	<rdf:value>xpointer(/TEI/text/body/div[2]/docAuthor/persName)</rdf:value>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/0f115702-876a-46dc-8d86-4d0e657a9b9f">
+	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/893fb41d-4ebc-4645-b542-f54f460f214d"/>
+	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/date/a5fc91f1-8ff5-4980-95e8-b43de8b3c640"/>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-10T16:41:33.960Z</oa:annotatedAt>
+	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-10T16:41:33.960Z</oa:serializedAt>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
+	<cw:hasCertainty xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#definite"/>
+	<cw:cwrcInfo xmlns:cw="http://cwrc.ca/ns/cw#">{}</cw:cwrcInfo>
+	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"cert":"definite","when":"1936"}</cw:cwrcAttributes>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/date/a5fc91f1-8ff5-4980-95e8-b43de8b3c640"><xsd:date xmlns:xsd="http://www.w3.org/2001/XMLSchema#">1936</xsd:date>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
+	<rdf:type rdf:resource="http://www.w3.org/2006/time#Instant"/>
+	<rdf:type rdf:resource="http://www.w3.org/2006/time#TemporalEntity"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/893fb41d-4ebc-4645-b542-f54f460f214d">
+	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/214c7faa-123d-4c5a-8094-ece0c5237774"/>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/9b7ae7c4-1262-41d9-a53d-1782396944fd"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/9b7ae7c4-1262-41d9-a53d-1782396944fd">
+	<rdf:value>xpointer(/TEI/text/body/div[2]/note/date)</rdf:value>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/3ee4a19a-e777-468b-8751-301e90676fdc">
+	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/1426c9f1-1823-48c6-b1c8-a4c055617e4f"/>
+	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/link/a16b4d67-a038-4c98-9af8-cdf1c5bc01d5"/>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/95dd4e6f-bdd6-47dd-8050-d4c5c4e38d6a"/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-10T16:41:33.962Z</oa:annotatedAt>
+	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-10T16:41:33.962Z</oa:serializedAt>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#linking"/>
+	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"target":"http://cufts2.lib.sfu.ca/CRDB4/BVAS/resource/5724"}</cw:cwrcAttributes>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/link/a16b4d67-a038-4c98-9af8-cdf1c5bc01d5">
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
+	<rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/1426c9f1-1823-48c6-b1c8-a4c055617e4f">
+	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/52e7e736-b233-4c2c-8bbc-65903517c5b4"/>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/55f9add4-b880-45ba-b7d8-559a89ef87e5"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/55f9add4-b880-45ba-b7d8-559a89ef87e5">
+	<rdf:value>xpointer(/TEI/text/body/div[2]/note[3]/ref)</rdf:value>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/25813e58-0995-4313-830a-d9b373d080a2">
+	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/86b5ec67-47db-4378-bc5e-aaacc4495e7c"/>
+	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/note/d1d21078-1728-4816-834b-2d319a296925"/>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/dd4a9489-40e6-4563-9f54-843c976b056c"/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-10T16:41:33.963Z</oa:annotatedAt>
+	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-12-10T16:41:33.963Z</oa:serializedAt>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"type":"researchNote"}</cw:cwrcAttributes>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/note/d1d21078-1728-4816-834b-2d319a296925">
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
+	<rdf:type rdf:resource="http://purl.org/ontology/bibo/Note"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/86b5ec67-47db-4378-bc5e-aaacc4495e7c">
+	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/20c1cc54-f299-4458-889b-90e2a525a286"/>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/cdd3f9bb-dce9-4ab9-8ce9-32a07335be76"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/cdd3f9bb-dce9-4ab9-8ce9-32a07335be76">
+	<rdf:value>xpointer(/TEI/text/body/div[2]/lg/l[3]/note)</rdf:value>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
+</rdf:Description></rdf:RDF></xenoData>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="poem">
+				<head type="poem">
+					<title level="a">Sample Poem Title</title>
+					<title type="subtitle">Sample Subtitle</title>
+				</head>
+				<lg>
+					<l>Verse line</l><l>Verse line</l><l>Verse line</l>
+				</lg>
+				<lg>
+					<l>Verse line</l><l>Verse line</l><l>Verse line</l>
+				</lg>
+			</div>
+			<div type="poem">
+				<head type="poem">Glimpse </head>
+				<byline>Sample Poem</byline>
+				<docAuthor>by <persName cert="definite" type="real" ref="http://viaf.org/viaf/78272387">Floris Clark McLaren</persName></docAuthor>
+				<lg>
+					<l>Against the blue of spruce, and the gray</l><l>Of bare-boughed poplar, suddenly</l><l>As though a snowdrift<note type="researchNote">test <persName xmlns="http://www.tei-c.org/ns/1.0" ref="http://viaf.org/viaf/428150323644209970058/">note</persName></note> burst in scattering fragments,</l><l>Ptarmigan rise with heavy whir of wings,</l><l>Show for a moment clear among the branches,</l><l>Then disappear,</l><l>White lost on white again.</l>
+				</lg>
+				<note>McLaren, Floris Clark. Glimpse. Canadian Poetry Magazine1.1(<date cert="definite" when="1936">1936</date>):23</note>
+				<note type="researchNote">This poem has a suggestion of the magical imagery of Kenneth Leslie's By Stubborn Stars.</note>
+				<note type="link">Poem featured in <ref target="http://cufts2.lib.sfu.ca/CRDB4/BVAS/resource/5724">Canada's Early Women Writers</ref>
+				</note>
+			</div>
+		</body>
+	</text>
+</TEI>
