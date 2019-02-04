@@ -29,9 +29,9 @@
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/1e7c9ad5-358f-4c7f-90e3-0515a05b5558"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/person/56c9f7fe-d0ef-4c18-9563-e26272f9ee29"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-02-04T20:32:27.303Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-02-04T21:30:07.055Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-02-04T20:32:27.303Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-02-04T21:30:07.055Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
@@ -56,9 +56,9 @@
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/ecbe1288-d75c-46e6-889b-4d4e07b91da7"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://viaf.org/viaf/59208470/"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-02-04T20:32:27.304Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-02-04T21:30:07.056Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-02-04T20:32:27.304Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-02-04T21:30:07.056Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
@@ -83,9 +83,9 @@
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/7408304a-6179-49d5-8feb-72616e7ad4af"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/note/3953dcf0-9de1-43f9-a666-99c0b632fe35"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/6f8b460b-cb35-441e-a33b-9cd2732fa3c7"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-02-04T20:32:27.304Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-02-04T21:30:07.056Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-02-04T20:32:27.304Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-02-04T21:30:07.056Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#commenting"/>
 	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"type":"scholarNote"}</cw:cwrcAttributes>
@@ -107,9 +107,9 @@
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/5f67c84f-872c-4f93-bc0c-319946262eba"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://viaf.org/viaf/9888153063184119320002/"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/d678aeae-dfd4-4e28-9244-00778f8c6b8a"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-02-04T20:32:27.305Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-02-04T21:30:07.057Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-02-04T20:32:27.305Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-02-04T21:30:07.057Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
 	<cw:hasCertainty xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#definite"/>
@@ -134,9 +134,9 @@
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/789184bc-ce85-4bd0-a280-eb3fad614032"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://dbpedia.org/resource/Henry_Ford"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/3528af0c-b1c4-402d-b8b9-b63f2b565f6b"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-02-04T20:32:27.306Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-02-04T21:30:07.058Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-02-04T20:32:27.306Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-02-04T21:30:07.058Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
@@ -161,9 +161,9 @@
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/6009b959-3fe8-40ac-b194-c0cb42a1afc5"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://dbpedia.org/resource/The_Orator"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/ce10d478-cbe2-49cf-b19a-5740b946a8e7"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-02-04T20:32:27.306Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-02-04T21:30:07.058Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-02-04T20:32:27.306Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-02-04T21:30:07.058Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://cwrc.ca/ns/cw#citing"/>
 	<cw:cwrcInfo xmlns:cw="http://cwrc.ca/ns/cw#">{"nameType":"work","id":"http://dbpedia.org/resource/The_Orator","uri":"http://dbpedia.org/resource/The_Orator","uriForDisplay":"https://dbpedia.lookup.services.cwrc.ca/resource/The_Orator","name":"The Orator","repository":"dbpedia","originalQueryString":"The Orator ","description":"The Orator (Samoan: O Le Tulafale) is a 2011 Samoan and New Zealand film written and directed by Tusi Tamasese. It is the first ever Samoan feature film, \"entirely shot in Samoa, in the Samoan language, with a Samoan cast and story\". The film was selected as the New Zealand entry for the Best Foreign Language Film at the 84th Academy Awards, but it did not make the final shortlist. It is the first time New Zealand have submitted a film in this category."}</cw:cwrcInfo>
@@ -186,9 +186,9 @@
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/3220fc55-6272-4f50-9d46-9b03cdd88ef5"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/link/e1f75bb2-a113-4905-97bb-344c6b9077bd"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/c567f0a1-7f93-4b7a-b0cc-e1048cddc118"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-02-04T20:32:27.307Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-02-04T21:30:07.058Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-02-04T20:32:27.307Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-02-04T21:30:07.058Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#linking"/>
 	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"target":"https://beta.cwrc.ca"}</cw:cwrcAttributes>
@@ -205,6 +205,136 @@
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/57647b10-7783-4774-889a-056974955963">
 	<rdf:value>xpointer(/TEI/text/body/div/lg[6]/l[3]/note/bibl/ref[2])</rdf:value>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/6483c9e8-7395-4865-8803-027eef7b9ee7">
+	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/05886af1-45dd-4d87-8b7c-da5449879486"/>
+	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/note/a869d446-96b5-49d1-91aa-d1ee37548015"/>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/817c3b18-2122-454e-8e8c-0ccdd9ec63a4"/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-02-04T21:30:07.059Z</oa:annotatedAt>
+	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-02-04T21:30:07.059Z</oa:serializedAt>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"type":"researchNote"}</cw:cwrcAttributes>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/note/a869d446-96b5-49d1-91aa-d1ee37548015">
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
+	<rdf:type rdf:resource="http://purl.org/ontology/bibo/Note"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/05886af1-45dd-4d87-8b7c-da5449879486">
+	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/73e1e73c-a673-45b8-9965-61da342cd7a7"/>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/de7cd3ab-c4d9-4748-9448-02c36f1d9dd3"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/de7cd3ab-c4d9-4748-9448-02c36f1d9dd3">
+	<rdf:value>xpointer(/TEI/text/body/div/lg[3]/l[3]/note)</rdf:value>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/37999816-bbff-4af0-bcdc-556fdbd4aa85">
+	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/309c0902-e811-4f81-a784-38a90bd19ccd"/>
+	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://viaf.org/viaf/9862148997666959870007/"/>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/597dc035-e3a1-456e-b2af-e64f484d7c5d"/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-02-04T21:30:07.060Z</oa:annotatedAt>
+	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-02-04T21:30:07.060Z</oa:serializedAt>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
+	<cw:hasCertainty xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#definite"/>
+	<cw:cwrcInfo xmlns:cw="http://cwrc.ca/ns/cw#">{"nameType":"Personal","id":"http://viaf.org/viaf/9862148997666959870007/","uri":"http://viaf.org/viaf/9862148997666959870007/","uriForDisplay":null,"externalLink":"http://viaf.org/viaf/9862148997666959870007/","name":"Person, Michael","repository":"VIAF","originalQueryString":"person"}</cw:cwrcInfo>
+	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"ref":"http://viaf.org/viaf/9862148997666959870007/","cert":"definite","type":"real"}</cw:cwrcAttributes>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://viaf.org/viaf/9862148997666959870007/">
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/309c0902-e811-4f81-a784-38a90bd19ccd">
+	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/65c5b5b7-f5c9-45c6-9fd7-c610bebf156a"/>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/c6003b5a-508d-40cd-a40d-bd5cbfd775cd"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/c6003b5a-508d-40cd-a40d-bd5cbfd775cd">
+	<rdf:value>xpointer(/TEI/text/body/div/lg[3]/l[3]/note/persName)</rdf:value>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/35c6995a-71ae-4043-b8d7-a1fc8c128aee">
+	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/43dfa297-fd76-4c02-88b4-4e58087f99a4"/>
+	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://dbpedia.org/resource/Maria_Sharapova"/>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/e1d44282-bc1b-4b46-91da-2e4e4b31c6bd"/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-02-04T21:30:07.060Z</oa:annotatedAt>
+	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-02-04T21:30:07.060Z</oa:serializedAt>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
+	<cw:hasCertainty xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#definite"/>
+	<cw:cwrcInfo xmlns:cw="http://cwrc.ca/ns/cw#">{"nameType":"person","id":"http://dbpedia.org/resource/Maria_Sharapova","uri":"http://dbpedia.org/resource/Maria_Sharapova","uriForDisplay":"https://dbpedia.lookup.services.cwrc.ca/resource/Maria_Sharapova","name":"Maria Sharapova","repository":"dbpedia","originalQueryString":"citation","description":"Maria Yuryevna Sharapova is a Russian professional tennis player and former world no.  1. A United States resident since 1994, Sharapova has won 26 WTA singles titles, including three Grand Slam singles titles at the 2004 Wimbledon, 2006 US Open and 2008 Australian Open. She has also won the year-end WTA Tour Championships in 2004. The Women's Tennis Association has ranked Sharapova world no. 1 in singles on four separate occasions. She became the world no."}</cw:cwrcInfo>
+	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"ref":"http://dbpedia.org/resource/Maria_Sharapova","cert":"definite","type":"real"}</cw:cwrcAttributes>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dbpedia.org/resource/Maria_Sharapova">
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/43dfa297-fd76-4c02-88b4-4e58087f99a4">
+	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/f216a163-fd4b-4a69-a009-e105ff97ca81"/>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/ce0fc381-58a4-4011-9a37-aab62e3db55d"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/ce0fc381-58a4-4011-9a37-aab62e3db55d">
+	<rdf:value>xpointer(/TEI/text/body/div/lg[6]/l[3]/note/bibl/persName)</rdf:value>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/cd9a1678-cdbc-43ab-965a-61108d19ae20">
+	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/13c141bc-dad6-4c38-8a77-607c1931f9df"/>
+	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://viaf.org/viaf/9868151475051300490000/"/>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/70d3a4b7-7e86-43ea-939b-d5863cd2c89c"/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-02-04T21:30:07.061Z</oa:annotatedAt>
+	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-02-04T21:30:07.061Z</oa:serializedAt>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://cwrc.ca/ns/cw#citing"/>
+	<cw:cwrcInfo xmlns:cw="http://cwrc.ca/ns/cw#">{"nameType":"UniformTitleWork","id":"http://viaf.org/viaf/9868151475051300490000/","uri":"http://viaf.org/viaf/9868151475051300490000/","uriForDisplay":null,"externalLink":"http://viaf.org/viaf/9868151475051300490000/","name":"Kuncl, Tom. | Ladies who kill","repository":"VIAF","originalQueryString":"ladies;"}</cw:cwrcInfo>
+	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"ref":"http://viaf.org/viaf/9868151475051300490000/","type":"citation"}</cw:cwrcAttributes>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://viaf.org/viaf/9868151475051300490000/">
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
+	<rdf:type rdf:resource="http://purl.org/dc/terms/BibliographicResource"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/13c141bc-dad6-4c38-8a77-607c1931f9df">
+	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/dac2220b-a652-45bb-930e-11cfc5f1f746"/>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/c96b3db2-467f-4797-bf95-e5fb9a57b9bb"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/c96b3db2-467f-4797-bf95-e5fb9a57b9bb">
+	<rdf:value>xpointer(/TEI/text/body/div/lg[9]/l/note)</rdf:value>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/a33c37d8-ca55-4ff1-beb6-e5cf67836253">
+	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/8bbaeafd-2d53-4deb-912c-0cb54f507b64"/>
+	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://dbpedia.org/resource/Saint_Andrew"/>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/72ba42ce-c13c-4c67-a272-d9107b8eb005"/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-02-04T21:30:07.061Z</oa:annotatedAt>
+	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-02-04T21:30:07.061Z</oa:serializedAt>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
+	<cw:hasCertainty xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#definite"/>
+	<cw:cwrcInfo xmlns:cw="http://cwrc.ca/ns/cw#">{"nameType":"person","id":"http://dbpedia.org/resource/Saint_Andrew","uri":"http://dbpedia.org/resource/Saint_Andrew","uriForDisplay":"https://dbpedia.lookup.services.cwrc.ca/resource/Saint_Andrew","name":"Saint Andrew","repository":"dbpedia","originalQueryString":"jesus","description":"Saint Andrew (Greek: Ἀνδρέας, Andreas; from the early 1st century—mid to late 1st century), called in the Orthodox tradition Prōtoklētos, or the First-called, is a Christian Apostle and the brother of Saint Peter. The name \"Andrew\", like other Greek names, appears to have been common among the Jews, Christians, and other Hellenized peoples of the region. No Hebrew or Aramaic name is recorded for him."}</cw:cwrcInfo>
+	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"ref":"http://dbpedia.org/resource/Saint_Andrew","cert":"definite","type":"real"}</cw:cwrcAttributes>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dbpedia.org/resource/Saint_Andrew">
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/8bbaeafd-2d53-4deb-912c-0cb54f507b64">
+	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/7c063330-4540-4e72-9e15-15691b1c189f"/>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/6df13573-5271-4707-9ce7-6298d3c9c2bb"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/6df13573-5271-4707-9ce7-6298d3c9c2bb">
+	<rdf:value>xpointer(/TEI/text/body/div/lg[9]/l/note/bibl/persName)</rdf:value>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
 </rdf:Description></rdf:RDF></xenoData></teiHeader>
 	<text>
 		<body>
@@ -218,7 +348,7 @@
 					<l>Here all are laic; the skirted brothers have gone.</l><l>Still, their equivocal absence is felt, like a breeze</l><l>that gives curtains the sounds of surplices.</l>
 				</lg>
 				<lg>
-					<l>The hall is yellow<note type="scholarNote">This is going to be my note, with a <title ref="http://viaf.org/viaf/9888153063184119320002/" level="m" cert="definite">title</title> and <persName ref="http://dbpedia.org/resource/Henry_Ford" cert="definite" type="real">person</persName> entity </note> with light, and jocular;</l><l>suddenly some one lets loose upon the air</l><l>the ritual bird which the crowd in snares of singing</l>
+					<l>The hall is yellow<note type="scholarNote">This is going to be my note, with a <title ref="http://viaf.org/viaf/9888153063184119320002/" level="m" cert="definite">title</title> and <persName ref="http://dbpedia.org/resource/Henry_Ford" cert="definite" type="real">person</persName> entity </note> with light, and jocular;</l><l>suddenly some one lets loose upon the air</l><l>the ritual bird<note type="researchNote">a second note, saved after the first, also with a <persName ref="http://viaf.org/viaf/9862148997666959870007/" cert="definite" type="real">person</persName> entity</note> which the crowd in snares of singing</l>
 				</lg>
 				<lg>
 					<l>catches and plucks, throat, wings, and little limbs.</l><l>Fall the feathers of sound, like <foreign>alouette</foreign>'s.</l><l>The chairman, now, is charming, full of asides and wit,</l>
@@ -227,7 +357,7 @@
 					<l>building his orators, and chipping off</l><l>the heckling gargoyles popping in the hall.</l><l>(Outside, in the dark, the street is body-tall,</l>
 				</lg>
 				<lg>
-					<l>flowered with faces intent on the scarecrow thing</l><l>that shouts to thousands the echoing</l><l>of their own wishes.) The Orator has risen!<note type="citation"><bibl><ref target="http://dbpedia.org/resource/The_Orator"/>some interesting citation with an embedded <ref target="https://beta.cwrc.ca">link</ref></bibl></note></l>
+					<l>flowered with faces intent on the scarecrow thing</l><l>that shouts to thousands the echoing</l><l>of their own wishes.) The Orator has risen!<note type="citation"><bibl><ref target="http://dbpedia.org/resource/The_Orator"/>some interesting <persName ref="http://dbpedia.org/resource/Maria_Sharapova" cert="definite" type="real">citation</persName> with an embedded <ref target="https://beta.cwrc.ca">link</ref></bibl></note></l>
 				</lg>
 				<lg>
 					<l>Worshipped and loved, their favourite visitor,</l><l>a country uncle with sunflower seeds in his pockets,</l><l>full of wonderful moods, tricks, imitative talk,</l>
@@ -237,7 +367,7 @@
 					</l><l>Intimate, informal, he makes bear's compliments</l>
 				</lg>
 				<lg>
-					<l>to the ladies; is gallant; and grins;</l><l>goes for the balloon, his opposition, with pins;</l><l>jokes also on himself, speaks of himself</l>
+					<l>to the ladies;<note type="citation"><bibl><ref target="http://viaf.org/viaf/9868151475051300490000/"/>Another "killer" <persName ref="http://dbpedia.org/resource/Saint_Andrew" cert="definite" type="real">citation</persName> :)</bibl></note> is gallant; and grins;</l><l>goes for the balloon, his opposition, with pins;</l><l>jokes also on himself, speaks of himself</l>
 				</lg>
 				<lg>
 					<l>in the third person, slings slang, and winks with folklore;</l><l>and knows now that he has them, kith and kin.</l><l>Calmly, therefore, he begins to speak of war,</l>
