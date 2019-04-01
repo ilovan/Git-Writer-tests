@@ -171,40 +171,34 @@ Found 18 May 1770 in excavations in the ancient theatre of Catania
 <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
 {
 	"@context": "http://www.w3.org/ns/oa/oa.ttl",
-	"@id": "http://id.cwrc.ca/annotation/a7629d2c-c8c7-47ef-aed3-d64f45d106d4",
 	"@type": "oa:Annotation",
 	"motivatedBy": [
 		"oa:tagging",
 		"oa:identifying"
 	],
-	"annotatedAt": "2019-04-01T21:16:39.150Z",
+	"annotatedAt": "2019-04-01T21:28:54.069Z",
 	"annotatedBy": {
-		"@id": "",
 		"@type": "foaf:Person",
 		"mbox": {
 			"@id": ""
 		},
 		"name": ""
 	},
-	"serializedAt": "2019-04-01T21:16:39.150Z",
+	"serializedAt": "2019-04-01T21:28:54.069Z",
 	"serializedBy": "",
 	"hasBody": {
-		"@id": "http://geonames.org/2525068",
 		"@type": [
 			"geo:SpatialThing",
 			"oa:SemanticTag"
 		]
 	},
 	"hasTarget": {
-		"@id": "http://id.cwrc.ca/doc/ca495230-6917-40fd-b7e7-b0993b06f12d",
 		"@type": "oa:SpecificResource",
 		"hasSource": {
-			"@id": "http://id.cwrc.ca/doc/ca495230-6917-40fd-b7e7-b0993b06f12d",
 			"@type": "dctypes:Text",
 			"format": "text/xml"
 		},
 		"hasSelector": {
-			"@id": "http://id.cwrc.ca/selector/0bb00f3e-8ffc-4f3c-b18f-0e89ff9d0b1d",
 			"@type": "oa:FragmentSelector",
 			"dcterms:conformsTo": "http://tools.ietf.org/rfc/rfc3023",
 			"rdf:value": "xpointer(/TEI/text/body/div[5]/p/placeName)"
@@ -233,9 +227,10 @@ Found 18 May 1770 in excavations in the ancient theatre of Catania
 	"@context": "http://www.w3.org/ns/oa/oa.ttl",
 	"@type": "oa:Annotation",
 	"motivatedBy": [
-		"oa:linking"
+		"oa:tagging",
+		"oa:identifying"
 	],
-	"annotatedAt": "2019-04-01T21:16:39.153Z",
+	"annotatedAt": "2019-04-01T21:28:54.070Z",
 	"annotatedBy": {
 		"@type": "foaf:Person",
 		"mbox": {
@@ -243,7 +238,46 @@ Found 18 May 1770 in excavations in the ancient theatre of Catania
 		},
 		"name": ""
 	},
-	"serializedAt": "2019-04-01T21:16:39.153Z",
+	"serializedAt": "2019-04-01T21:28:54.070Z",
+	"serializedBy": "",
+	"hasBody": {
+		"@type": [
+			"foaf:Person",
+			"oa:SemanticTag"
+		]
+	},
+	"hasTarget": {
+		"@type": "oa:SpecificResource",
+		"hasSource": {
+			"@type": "dctypes:Text",
+			"format": "text/xml"
+		},
+		"hasSelector": {
+			"@type": "oa:FragmentSelector",
+			"dcterms:conformsTo": "http://tools.ietf.org/rfc/rfc3023",
+			"rdf:value": "xpointer(/TEI/text/body/div/ab/persName)"
+		}
+	},
+	"cwrcInfo": {},
+	"cwrcAttributes": {}
+}
+]]></rdf:Description>
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+{
+	"@context": "http://www.w3.org/ns/oa/oa.ttl",
+	"@type": "oa:Annotation",
+	"motivatedBy": [
+		"oa:linking"
+	],
+	"annotatedAt": "2019-04-01T21:28:54.072Z",
+	"annotatedBy": {
+		"@type": "foaf:Person",
+		"mbox": {
+			"@id": ""
+		},
+		"name": ""
+	},
+	"serializedAt": "2019-04-01T21:28:54.072Z",
 	"serializedBy": "",
 	"hasBody": {
 		"@type": [
@@ -265,6 +299,66 @@ Found 18 May 1770 in excavations in the ancient theatre of Catania
 	},
 	"cwrcAttributes": {
 		"target": "http://arachne.uni-koeln.de/item/buchseite/650756"
+	}
+}
+]]></rdf:Description>
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+{
+	"@context": "http://www.w3.org/ns/oa/oa.ttl",
+	"@id": "http://id.cwrc.ca/annotation/3a0fc037-0a73-4c79-93cb-d1ac17b769db",
+	"@type": "oa:Annotation",
+	"motivatedBy": [
+		"oa:tagging",
+		"oa:identifying"
+	],
+	"annotatedAt": "2019-04-01T21:28:54.072Z",
+	"annotatedBy": {
+		"@id": "http://id.cwrc.ca/user/75bfe239-e38c-4b72-8b37-b823aaf4106b",
+		"@type": "foaf:Person",
+		"mbox": {
+			"@id": ""
+		},
+		"name": ""
+	},
+	"serializedAt": "2019-04-01T21:28:54.072Z",
+	"serializedBy": "",
+	"hasBody": {
+		"@id": "http://id.cwrc.ca/place/43191424-e8a6-4670-9ea7-496f79e9b251",
+		"@type": [
+			"geo:SpatialThing",
+			"oa:SemanticTag"
+		]
+	},
+	"hasTarget": {
+		"@id": "http://id.cwrc.ca/doc/66255a86-fd58-4f16-950e-eb8951c39ea5",
+		"@type": "oa:SpecificResource",
+		"hasSource": {
+			"@id": "http://id.cwrc.ca/doc/66255a86-fd58-4f16-950e-eb8951c39ea5",
+			"@type": "dctypes:Text",
+			"format": "text/xml"
+		},
+		"hasSelector": {
+			"@id": "http://id.cwrc.ca/selector/f0273d6c-bc95-4682-aa60-8a76e97ee679",
+			"@type": "oa:FragmentSelector",
+			"dcterms:conformsTo": "http://tools.ietf.org/rfc/rfc3023",
+			"rdf:value": "xpointer(/TEI/text/body/div[5]/p/placeName[2])"
+		}
+	},
+	"hasCertainty": "cw:definite",
+	"cwrcInfo": {
+		"nameType": "place",
+		"id": "http://geonames.org/2525068",
+		"uri": "http://geonames.org/2525068",
+		"uriForDisplay": null,
+		"externalLink": "http://geonames.org/2525068",
+		"name": "Catania Sicily Italy",
+		"repository": "geonames",
+		"originalQueryString": "Catania",
+		"description": "seat of a second-order administrative division"
+	},
+	"cwrcAttributes": {
+		"ref": "http://geonames.org/2525068",
+		"cert": "definite"
 	}
 }
 ]]></rdf:Description></rdf:RDF></xenoData><profileDesc>
@@ -353,10 +447,10 @@ bis
 <placeName>Catinae</placeName>
 <lb n="5"></lb>
 <persName>
-<name>Facundus</name>
-<name>Porfyrius</name>
-<lb n="6"></lb>
-<name>Mynatidius</name>
+
+
+
+
 </persName>
 <expan>
 <abbr>v</abbr>
@@ -391,7 +485,7 @@ Nel rifiorire dell'era dei nostri tre signori, al genio della splendida città d
 </div>
 <div type="commentary" xml:lang="en">
 <p>
-The text (on imported marble) would have been fixed to the base of a statue of the Genius of the city of <placeName ref="http://geonames.org/2525068" cert="definite">Catania</placeName>, probably erected on the stage-building of the theatre. The Genius was the protective spirit of a person or a thing. Dedications to the Genius of the Emperor were common, but also to cities (e.g. both a statue and temple of the Genius of the city of Lilybaeum = Marsala are mentioned in other inscriptions). Facundus Porfyrius is not otherwise known. The precise significance of 'cons eiusdem' in line 7 is extensively debated and several alternatives have been suggested: the most likely interpretation is 'consularis eiusdem', signifying consularis of the same city, i.e. Catania, and so by extension / implication the province of Sicily.
+The text (on imported marble) would have been fixed to the base of a statue of the Genius of the city of <placeName ref="http://geonames.org/2525068" cert="definite">Catania</placeName>, probably erected on the stage-building of the theatre. The Genius was the protective spirit of a person or a thing. Dedications to the Genius of the Emperor were common, but also to cities (e.g. both a statue and temple of the Genius of the city of Lilybaeum = Marsala are mentioned in other inscriptions). Facundus Porfyrius is not otherwise known. The precise significance of 'cons eiusdem' in line 7 is extensively debated and several alternatives have been suggested: the most likely interpretation is 'consularis eiusdem', signifying consularis of the same city, i.e. <placeName ref="http://geonames.org/2525068" cert="definite">Catania</placeName>, and so by extension / implication the province of Sicily.
 </p>
 </div>
 <div type="bibliography">
