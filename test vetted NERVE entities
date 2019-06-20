@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cwrc.ca/schemas/cwrc_tei_lite.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cw="http://cwrc.ca/ns/cw#" xmlns:w="http://cwrctc.artsrn.ualberta.ca/#">
+
+	
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Sample Document Title</title>
+			</titleStmt>
+			<publicationStmt>
+				<p></p>
+			</publicationStmt>
+			<sourceDesc sameAs="http://www.cwrc.ca">
+				<p>Created from original research by members of CWRC/CSÉC unless otherwise noted.</p>
+			</sourceDesc>
+		</fileDesc>
+	<xenoData>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cw="http://cwrc.ca/ns/cw#">
+<rdf:Description rdf:about="https://cwrc-writer.cwrc.ca//editor/documents/null">
+	<cw:mode>0</cw:mode>
+	<cw:allowOverlap>false</cw:allowOverlap>
+</rdf:Description>
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+{
+	"@context": "http://www.w3.org/ns/oa/oa.ttl",
+	"@id": "http://id.cwrc.ca/annotation/7ac11a10-3082-4721-8de4-3dde0049bd87",
+	"@type": "oa:Annotation",
+	"motivatedBy": [
+		"oa:editing"
+	],
+	"annotatedAt": "2019-06-20T22:04:11.265Z",
+	"annotatedBy": {
+		"@id": "http://id.cwrc.ca/user/ac10ea0b-0ffc-4fb2-b604-5eb2332c961d",
+		"@type": "foaf:Person",
+		"mbox": {
+			"@id": ""
+		},
+		"name": ""
+	},
+	"serializedAt": "2019-06-20T22:04:11.265Z",
+	"serializedBy": "",
+	"hasBody": {
+		"@id": "http://id.cwrc.ca/correction/67e1d6ec-e53e-42af-bfc9-3d042c7a5774",
+		"@type": [
+			"cnt:ContentAsText",
+			"oa:SemanticTag"
+		],
+		"cnt:chars": "when"
+	},
+	"hasTarget": {
+		"@id": "http://id.cwrc.ca/doc/203f8480-0faf-4fd6-8e04-64c2a32a5f30",
+		"@type": "oa:SpecificResource",
+		"hasSource": {
+			"@id": "http://id.cwrc.ca/doc/203f8480-0faf-4fd6-8e04-64c2a32a5f30",
+			"@type": "dctypes:Text",
+			"format": "text/xml"
+		},
+		"hasSelector": {
+			"@id": "http://id.cwrc.ca/selector/dcef6d95-5e1f-4cc6-97b9-4f84fa238b9d",
+			"@type": "oa:FragmentSelector",
+			"dcterms:conformsTo": "http://tools.ietf.org/rfc/rfc3023",
+			"rdf:value": "xpointer(TEI/text/body/div/p[2]/choice)"
+		}
+	},
+	"cwrcInfo": {},
+	"cwrcAttributes": {}
+}
+]]></rdf:Description>
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+{
+	"@context": "http://www.w3.org/ns/oa/oa.ttl",
+	"@id": "http://id.cwrc.ca/annotation/f1c8378f-c9e9-429d-a1aa-71ca271aa247",
+	"@type": "oa:Annotation",
+	"motivatedBy": [
+		"oa:tagging",
+		"oa:identifying"
+	],
+	"annotatedAt": "2019-06-20T22:04:11.265Z",
+	"annotatedBy": {
+		"@id": "http://id.cwrc.ca/user/3666de43-635b-4f76-b777-0ffa5104a9a7",
+		"@type": "foaf:Person",
+		"mbox": {
+			"@id": ""
+		},
+		"name": ""
+	},
+	"serializedAt": "2019-06-20T22:04:11.265Z",
+	"serializedBy": "",
+	"hasBody": {
+		"@id": "http://id.cwrc.ca/date/9c5021bf-deb9-4a52-9866-641ab94dd652",
+		"@type": [
+			"time:Instant",
+			"time:TemporalEntity",
+			"oa:SemanticTag"
+		],
+		"xsd:date": "1935-10-21"
+	},
+	"hasTarget": {
+		"@id": "http://id.cwrc.ca/doc/c408c04d-b602-471b-9884-b961615ff01a",
+		"@type": "oa:SpecificResource",
+		"hasSource": {
+			"@id": "http://id.cwrc.ca/doc/c408c04d-b602-471b-9884-b961615ff01a",
+			"@type": "dctypes:Text",
+			"format": "text/xml"
+		},
+		"hasSelector": {
+			"@id": "http://id.cwrc.ca/selector/02818a79-2e29-422e-8f6b-340f28dec27a",
+			"@type": "oa:FragmentSelector",
+			"dcterms:conformsTo": "http://tools.ietf.org/rfc/rfc3023",
+			"rdf:value": "xpointer(TEI/text/body/div/opener/dateline/date)"
+		}
+	},
+	"cwrcInfo": {},
+	"cwrcAttributes": {
+		"cert": "definite",
+		"when": "1935-10-21"
+	}
+}
+]]></rdf:Description>
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+{
+	"@context": "http://www.w3.org/ns/oa/oa.ttl",
+	"@id": "http://id.cwrc.ca/annotation/541bc5f6-70d5-428a-834e-53ad8c50f608",
+	"@type": "oa:Annotation",
+	"motivatedBy": [
+		"oa:tagging",
+		"oa:identifying"
+	],
+	"annotatedAt": "2019-06-20T22:04:11.265Z",
+	"annotatedBy": {
+		"@id": "http://id.cwrc.ca/user/44c2f13d-82e1-410b-aee3-a977e75fe552",
+		"@type": "foaf:Person",
+		"mbox": {
+			"@id": ""
+		},
+		"name": ""
+	},
+	"serializedAt": "2019-06-20T22:04:11.265Z",
+	"serializedBy": "",
+	"hasBody": {
+		"@id": "279399399",
+		"@type": [
+			"foaf:Person",
+			"oa:SemanticTag"
+		]
+	},
+	"hasTarget": {
+		"@id": "http://id.cwrc.ca/doc/2249f9bb-6ded-4f1e-ae11-3aed6e06d541",
+		"@type": "oa:SpecificResource",
+		"hasSource": {
+			"@id": "http://id.cwrc.ca/doc/2249f9bb-6ded-4f1e-ae11-3aed6e06d541",
+			"@type": "dctypes:Text",
+			"format": "text/xml"
+		},
+		"hasSelector": {
+			"@id": "http://id.cwrc.ca/selector/7ad192c9-38ae-4621-8308-e0333fd10e62",
+			"@type": "oa:FragmentSelector",
+			"dcterms:conformsTo": "http://tools.ietf.org/rfc/rfc3023",
+			"rdf:value": "xpointer(TEI/text/body/div/head/title/persName)"
+		}
+	},
+	"hasCertainty": "cw:probable",
+	"cwrcInfo": {
+		"uri": "279399399"
+	},
+	"cwrcAttributes": {
+		"cert": "probable",
+		"ref": "279399399"
+	}
+}
+]]></rdf:Description>
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+{
+	"@context": "http://www.w3.org/ns/oa/oa.ttl",
+	"@id": "http://id.cwrc.ca/annotation/f43352c5-b76e-4e54-b531-5faaba85d7ec",
+	"@type": "oa:Annotation",
+	"motivatedBy": [
+		"oa:tagging",
+		"oa:identifying"
+	],
+	"annotatedAt": "2019-06-20T22:04:11.265Z",
+	"annotatedBy": {
+		"@id": "http://id.cwrc.ca/user/b022ee67-1713-4216-95e6-764b9513d33a",
+		"@type": "foaf:Person",
+		"mbox": {
+			"@id": ""
+		},
+		"name": ""
+	},
+	"serializedAt": "2019-06-20T22:04:11.265Z",
+	"serializedBy": "",
+	"hasBody": {
+		"@id": "http://viaf.org/viaf/36924137",
+		"@type": [
+			"foaf:Person",
+			"oa:SemanticTag"
+		]
+	},
+	"hasTarget": {
+		"@id": "http://id.cwrc.ca/doc/d43cba57-1a46-44a3-a8bb-39c3a956a76c",
+		"@type": "oa:SpecificResource",
+		"hasSource": {
+			"@id": "http://id.cwrc.ca/doc/d43cba57-1a46-44a3-a8bb-39c3a956a76c",
+			"@type": "dctypes:Text",
+			"format": "text/xml"
+		},
+		"hasSelector": {
+			"@id": "http://id.cwrc.ca/selector/4067512c-eb99-4be1-b80d-6f5d0ee43385",
+			"@type": "oa:FragmentSelector",
+			"dcterms:conformsTo": "http://tools.ietf.org/rfc/rfc3023",
+			"rdf:value": "xpointer(TEI/text/body/div/closer/signed/persName/persName)"
+		}
+	},
+	"hasCertainty": "cw:definite",
+	"cwrcInfo": {
+		"uri": "http://viaf.org/viaf/36924137"
+	},
+	"cwrcAttributes": {
+		"cert": "definite",
+		"type": "real",
+		"ref": "http://viaf.org/viaf/36924137"
+	}
+}
+]]></rdf:Description>
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+{
+	"@context": "http://www.w3.org/ns/oa/oa.ttl",
+	"@id": "http://id.cwrc.ca/annotation/60a0c59f-0055-42de-a514-260c3c4f7186",
+	"@type": "oa:Annotation",
+	"motivatedBy": [
+		"oa:tagging",
+		"oa:identifying"
+	],
+	"annotatedAt": "2019-06-20T22:04:11.265Z",
+	"annotatedBy": {
+		"@id": "http://id.cwrc.ca/user/a41ff0cd-48f4-4321-895c-426df92d47af",
+		"@type": "foaf:Person",
+		"mbox": {
+			"@id": ""
+		},
+		"name": ""
+	},
+	"serializedAt": "2019-06-20T22:04:11.265Z",
+	"serializedBy": "",
+	"hasBody": {
+		"@id": "http://www.geonames.org/6453366",
+		"@type": [
+			"geo:SpatialThing",
+			"oa:SemanticTag"
+		]
+	},
+	"hasTarget": {
+		"@id": "http://id.cwrc.ca/doc/fa50a6cc-5742-4054-822d-365f33593149",
+		"@type": "oa:SpecificResource",
+		"hasSource": {
+			"@id": "http://id.cwrc.ca/doc/fa50a6cc-5742-4054-822d-365f33593149",
+			"@type": "dctypes:Text",
+			"format": "text/xml"
+		},
+		"hasSelector": {
+			"@id": "http://id.cwrc.ca/selector/dee17a46-1c59-4601-9f11-7b409e99631b",
+			"@type": "oa:FragmentSelector",
+			"dcterms:conformsTo": "http://tools.ietf.org/rfc/rfc3023",
+			"rdf:value": "xpointer(TEI/text/body/div/opener/note/p[3]/placeName)"
+		}
+	},
+	"hasCertainty": "cw:definite",
+	"cwrcInfo": {
+		"uri": "http://www.geonames.org/6453366"
+	},
+	"cwrcAttributes": {
+		"cert": "definite",
+		"ref": "http://www.geonames.org/6453366"
+	}
+}
+]]></rdf:Description>
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+{
+	"@context": "http://www.w3.org/ns/oa/oa.ttl",
+	"@id": "http://id.cwrc.ca/annotation/7618152d-abcd-4dfb-a5eb-b0330a1357e0",
+	"@type": "oa:Annotation",
+	"motivatedBy": [
+		"oa:tagging",
+		"oa:identifying"
+	],
+	"annotatedAt": "2019-06-20T22:04:11.265Z",
+	"annotatedBy": {
+		"@id": "http://id.cwrc.ca/user/82c79c69-7c86-40a6-8484-80b817098491",
+		"@type": "foaf:Person",
+		"mbox": {
+			"@id": ""
+		},
+		"name": ""
+	},
+	"serializedAt": "2019-06-20T22:04:11.265Z",
+	"serializedBy": "",
+	"hasBody": {
+		"@id": "http://www.geonames.org/6548528",
+		"@type": [
+			"geo:SpatialThing",
+			"oa:SemanticTag"
+		]
+	},
+	"hasTarget": {
+		"@id": "http://id.cwrc.ca/doc/391cc8ed-a842-4978-9802-fe48d2d2ee3c",
+		"@type": "oa:SpecificResource",
+		"hasSource": {
+			"@id": "http://id.cwrc.ca/doc/391cc8ed-a842-4978-9802-fe48d2d2ee3c",
+			"@type": "dctypes:Text",
+			"format": "text/xml"
+		},
+		"hasSelector": {
+			"@id": "http://id.cwrc.ca/selector/e1cd1244-9e1a-4b34-b49b-a383735992c5",
+			"@type": "oa:FragmentSelector",
+			"dcterms:conformsTo": "http://tools.ietf.org/rfc/rfc3023",
+			"rdf:value": "xpointer(TEI/text/body/div/p[2]/placeName[3])"
+		}
+	},
+	"hasCertainty": "cw:definite",
+	"cwrcInfo": {
+		"uri": "http://www.geonames.org/6548528"
+	},
+	"cwrcAttributes": {
+		"cert": "definite",
+		"ref": "http://www.geonames.org/6548528"
+	}
+}
+]]></rdf:Description>
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+{
+	"@context": "http://www.w3.org/ns/oa/oa.ttl",
+	"@id": "http://id.cwrc.ca/annotation/32426e70-afb7-472a-af3f-e5c36e6e520f",
+	"@type": "oa:Annotation",
+	"motivatedBy": [
+		"oa:tagging",
+		"oa:identifying"
+	],
+	"annotatedAt": "2019-06-20T22:04:11.265Z",
+	"annotatedBy": {
+		"@id": "http://id.cwrc.ca/user/8183019b-a140-470d-8d72-1e4d656f2794",
+		"@type": "foaf:Person",
+		"mbox": {
+			"@id": ""
+		},
+		"name": ""
+	},
+	"serializedAt": "2019-06-20T22:04:11.265Z",
+	"serializedBy": "",
+	"hasBody": {
+		"@id": "http://www.geonames.org/2673722",
+		"@type": [
+			"geo:SpatialThing",
+			"oa:SemanticTag"
+		]
+	},
+	"hasTarget": {
+		"@id": "http://id.cwrc.ca/doc/8106bf64-d846-4970-a2b0-acee6e51d01d",
+		"@type": "oa:SpecificResource",
+		"hasSource": {
+			"@id": "http://id.cwrc.ca/doc/8106bf64-d846-4970-a2b0-acee6e51d01d",
+			"@type": "dctypes:Text",
+			"format": "text/xml"
+		},
+		"hasSelector": {
+			"@id": "http://id.cwrc.ca/selector/64dc959c-762e-4d91-b169-99a4e73a2e44",
+			"@type": "oa:FragmentSelector",
+			"dcterms:conformsTo": "http://tools.ietf.org/rfc/rfc3023",
+			"rdf:value": "xpointer(TEI/text/body/div/p/placeName)"
+		}
+	},
+	"hasCertainty": "cw:definite",
+	"cwrcInfo": {
+		"uri": "http://www.geonames.org/2673722"
+	},
+	"cwrcAttributes": {
+		"cert": "definite",
+		"ref": "http://www.geonames.org/2673722"
+	}
+}
+]]></rdf:Description>
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+{
+	"@context": "http://www.w3.org/ns/oa/oa.ttl",
+	"@id": "http://id.cwrc.ca/annotation/e7528d4b-44ad-4e14-a157-46a97dea850e",
+	"@type": "oa:Annotation",
+	"motivatedBy": [
+		"oa:tagging",
+		"oa:identifying"
+	],
+	"annotatedAt": "2019-06-20T22:04:11.265Z",
+	"annotatedBy": {
+		"@id": "http://id.cwrc.ca/user/dc312471-16e8-4953-a30c-7744d05132c6",
+		"@type": "foaf:Person",
+		"mbox": {
+			"@id": ""
+		},
+		"name": ""
+	},
+	"serializedAt": "2019-06-20T22:04:11.265Z",
+	"serializedBy": "",
+	"hasBody": {
+		"@id": "http://id.cwrc.ca/place/e674cd06-14ed-47d5-b16d-317f0287a5b1",
+		"@type": [
+			"geo:SpatialThing",
+			"oa:SemanticTag"
+		]
+	},
+	"hasTarget": {
+		"@id": "http://id.cwrc.ca/doc/90769eb0-70eb-49ad-818c-9f66c76557bb",
+		"@type": "oa:SpecificResource",
+		"hasSource": {
+			"@id": "http://id.cwrc.ca/doc/90769eb0-70eb-49ad-818c-9f66c76557bb",
+			"@type": "dctypes:Text",
+			"format": "text/xml"
+		},
+		"hasSelector": {
+			"@id": "http://id.cwrc.ca/selector/7bda46c6-440a-4a56-b333-2ef1999b9b93",
+			"@type": "oa:FragmentSelector",
+			"dcterms:conformsTo": "http://tools.ietf.org/rfc/rfc3023",
+			"rdf:value": "xpointer(TEI/text/body/div/p[2]/placeName[4])"
+		}
+	},
+	"cwrcInfo": {
+		"uri": "http://dbpedia.org/resource/Oslo",
+		"name": "Oslo"
+	},
+	"cwrcAttributes": {
+		"ref": "http://dbpedia.org/resource/Oslo",
+		"key": "Oslo"
+	}
+}
+]]></rdf:Description>
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+{
+	"@context": "http://www.w3.org/ns/oa/oa.ttl",
+	"@id": "http://id.cwrc.ca/annotation/eb787eb3-2b06-458d-8dc2-1cbed6b3d0c8",
+	"@type": "oa:Annotation",
+	"motivatedBy": [
+		"oa:tagging",
+		"oa:identifying"
+	],
+	"annotatedAt": "2019-06-20T22:04:11.265Z",
+	"annotatedBy": {
+		"@id": "http://id.cwrc.ca/user/b718f121-ea66-4ece-9f75-10e263750747",
+		"@type": "foaf:Person",
+		"mbox": {
+			"@id": ""
+		},
+		"name": ""
+	},
+	"serializedAt": "2019-06-20T22:04:11.265Z",
+	"serializedBy": "",
+	"hasBody": {
+		"@id": "http://id.cwrc.ca/place/1fa6196b-6ea2-448c-bc19-d585aa48f458",
+		"@type": [
+			"geo:SpatialThing",
+			"oa:SemanticTag"
+		]
+	},
+	"hasTarget": {
+		"@id": "http://id.cwrc.ca/doc/f372ac68-9961-47a1-8af8-2de4d29fd01d",
+		"@type": "oa:SpecificResource",
+		"hasSource": {
+			"@id": "http://id.cwrc.ca/doc/f372ac68-9961-47a1-8af8-2de4d29fd01d",
+			"@type": "dctypes:Text",
+			"format": "text/xml"
+		},
+		"hasSelector": {
+			"@id": "http://id.cwrc.ca/selector/cc9b6cab-c8f1-4d4b-8623-b76bc9e5a697",
+			"@type": "oa:FragmentSelector",
+			"dcterms:conformsTo": "http://tools.ietf.org/rfc/rfc3023",
+			"rdf:value": "xpointer(TEI/text/body/div/p[2]/placeName[2])"
+		}
+	},
+	"cwrcInfo": {
+		"uri": "http://dbpedia.org/resource/Oslo",
+		"name": "Oslo"
+	},
+	"cwrcAttributes": {
+		"ref": "http://dbpedia.org/resource/Oslo",
+		"key": "Oslo"
+	}
+}
+]]></rdf:Description>
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+{
+	"@context": "http://www.w3.org/ns/oa/oa.ttl",
+	"@id": "http://id.cwrc.ca/annotation/e14703fb-65dc-41ed-917f-b26cd8ee6441",
+	"@type": "oa:Annotation",
+	"motivatedBy": [
+		"oa:tagging",
+		"oa:identifying"
+	],
+	"annotatedAt": "2019-06-20T22:04:11.265Z",
+	"annotatedBy": {
+		"@id": "http://id.cwrc.ca/user/3aa63d39-a779-477d-8ab6-53d03c766bb2",
+		"@type": "foaf:Person",
+		"mbox": {
+			"@id": ""
+		},
+		"name": ""
+	},
+	"serializedAt": "2019-06-20T22:04:11.265Z",
+	"serializedBy": "",
+	"hasBody": {
+		"@id": "http://id.cwrc.ca/place/0a832136-e447-4d63-81e5-aab7ba4aa38b",
+		"@type": [
+			"geo:SpatialThing",
+			"oa:SemanticTag"
+		]
+	},
+	"hasTarget": {
+		"@id": "http://id.cwrc.ca/doc/7277e34a-0178-495a-a6af-81ea2bcba351",
+		"@type": "oa:SpecificResource",
+		"hasSource": {
+			"@id": "http://id.cwrc.ca/doc/7277e34a-0178-495a-a6af-81ea2bcba351",
+			"@type": "dctypes:Text",
+			"format": "text/xml"
+		},
+		"hasSelector": {
+			"@id": "http://id.cwrc.ca/selector/4a250d2d-6fd5-4a1a-8c98-0642bd0cd13b",
+			"@type": "oa:FragmentSelector",
+			"dcterms:conformsTo": "http://tools.ietf.org/rfc/rfc3023",
+			"rdf:value": "xpointer(TEI/text/body/div/p[2]/placeName)"
+		}
+	},
+	"cwrcInfo": {
+		"uri": "http://dbpedia.org/resource/Oslo",
+		"name": "Oslo"
+	},
+	"cwrcAttributes": {
+		"ref": "http://dbpedia.org/resource/Oslo",
+		"key": "Oslo"
+	}
+}
+]]></rdf:Description></rdf:RDF></xenoData></teiHeader>
+	<text>
+		<body>
+			<div type="letter">
+				<head>
+					<title>Sample Letter - Bertrand Russell to <persName cert="probable" ref="279399399">Patricia Spence</persName> - October 21, 1935</title>
+				</head>
+				<opener>
+					<note>
+						<p>Bad writing due to shaky train</p><p>In train</p><p>
+							<placeName cert="definite" ref="http://www.geonames.org/6453366">Oslo</placeName> to Bergen</p>
+					</note>
+					<dateline>
+						<date cert="definite" when="1935-10-21">21.10.35</date>
+					</dateline>
+					<salute>Dearest -</salute>
+				</opener><p>I have had no letter from you since I left <placeName cert="definite" ref="http://www.geonames.org/2673722">Stockholm</placeName>, but I had a nice one from John in an envelope you had sent him. I had sent him one addressed to Copenhagen but he hadn't used it.</p><p>When I reached <placeName ref="http://dbpedia.org/resource/Oslo" key="Oslo">Oslo</placeName> yesterday evening, Brynjulf Bull should have been there to meet me, but wasn't. He is not on the telephone, so I took a taxi to his address, which turned out to be a students' club with no one about on Sundays, so I went to a hotel feeling rather non-plussed. But presently he turned up. He had got the <pb n="2"></pb> time of my arrival wrong, and 
+						<choice><sic>when</sic><corr>when</corr></choice>
+					he had found he had missed me he phoned to every hotel in <placeName ref="http://dbpedia.org/resource/Oslo" key="Oslo">Oslo</placeName> till he hit on the right one. He left me at 10, and then I had to do a Sunday Referee article. Today my journey lasts from 9 till 9 - fortunately one of the most beautiful railway journeys in the world. Tomorrow I lecture at <placeName cert="definite" ref="http://www.geonames.org/6548528">Bergen</placeName> to the Anglo-Norwegian Society. Next day I go back to <placeName ref="http://dbpedia.org/resource/Oslo" key="Oslo">Oslo</placeName>, lecture there Fri. and Sat. and then start for home via Bergen.</p>
+				<pb n="3"></pb>
+				<p>Bull is a nice young man but incompetent - can't quite stand the communists, but finds the socialists too mild.</p><p>I am unhappily wondering what you are feeling about me.</p>
+				<closer>
+					<salute>I love you very much -</salute>
+					<signed>
+						<persName sameAs="http://www.freebase.com/view/en/bertrand_russell">
+							<persName cert="definite" type="real" ref="http://viaf.org/viaf/36924137">B</persName>
+						</persName>
+					</signed>
+				</closer>
+			</div>
+		</body>
+	</text>
+</TEI>
