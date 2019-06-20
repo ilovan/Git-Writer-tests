@@ -20,192 +20,566 @@
 			</sourceDesc>
 		</fileDesc>
 	<xenoData>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cw="http://cwrc.ca/ns/cw#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:dcterms="http://purl.org/dc/terms/">
-<rdf:Description rdf:about="https://dev-cwrc-writer.cwrc.ca//editor/documents/null">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cw="http://cwrc.ca/ns/cw#">
+<rdf:Description rdf:about="https://cwrc-writer.cwrc.ca//editor/documents/null">
 	<cw:mode>0</cw:mode>
 	<cw:allowOverlap>false</cw:allowOverlap>
 </rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/6a82d26e-b059-4e25-88c0-35fd00085709">
-	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/1e7c9ad5-358f-4c7f-90e3-0515a05b5558"/>
-	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/person/56c9f7fe-d0ef-4c18-9563-e26272f9ee29"/>
-	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-02-04T23:45:21.443Z</oa:annotatedAt>
-	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-02-04T23:45:21.443Z</oa:serializedAt>
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
-	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
-	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
-	<cw:hasCertainty xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#reasonable"/>
-	<cw:cwrcInfo xmlns:cw="http://cwrc.ca/ns/cw#">{"id":"42172560","name":"Houde, Camillien","repository":"viaf"}</cw:cwrcInfo>
-	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"cert":"reasonably certain","ref":"42172560"}</cw:cwrcAttributes>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/person/56c9f7fe-d0ef-4c18-9563-e26272f9ee29">
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
-	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/1e7c9ad5-358f-4c7f-90e3-0515a05b5558">
-	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/690e168d-a5fc-4339-9772-66fd5b2cc315"/>
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
-	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/e2c48327-c2cf-4731-ae6d-6ba0f352c546"/>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/e2c48327-c2cf-4731-ae6d-6ba0f352c546">
-	<rdf:value>xpointer(/TEI/text/body/div/head/persName)</rdf:value>
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/f18bc81c-28ef-4a31-94f6-c40326f078f9">
-	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/ecbe1288-d75c-46e6-889b-4d4e07b91da7"/>
-	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://viaf.org/viaf/59208470/"/>
-	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-02-04T23:45:21.444Z</oa:annotatedAt>
-	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-02-04T23:45:21.444Z</oa:serializedAt>
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
-	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
-	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
-	<cw:hasCertainty xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#definite"/>
-	<cw:cwrcInfo xmlns:cw="http://cwrc.ca/ns/cw#">{"nameType":"Personal","id":"http://viaf.org/viaf/110146998373218941066/","uri":"http://viaf.org/viaf/110146998373218941066/","uriForDisplay":"https://viaf.org/viaf/110146998373218941066/","name":"Klein, A. M. (Abraham Moses)","repository":"VIAF","originalQueryString":"A.M. Klein"}</cw:cwrcInfo>
-	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"ref":"http://viaf.org/viaf/110146998373218941066/","cert":"definite","type":"real"}</cw:cwrcAttributes>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://viaf.org/viaf/59208470/">
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
-	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/ecbe1288-d75c-46e6-889b-4d4e07b91da7">
-	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/97b071b4-cd66-47a9-89b1-559b81106d49"/>
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
-	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/64b9588c-a0a2-4301-a833-e339db08664f"/>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/64b9588c-a0a2-4301-a833-e339db08664f">
-	<rdf:value>xpointer(/TEI/text/body/div/docAuthor/persName)</rdf:value>
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/69e7bb00-d340-445d-aca4-6ee7260c520f">
-	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/7408304a-6179-49d5-8feb-72616e7ad4af"/>
-	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/note/3953dcf0-9de1-43f9-a666-99c0b632fe35"/>
-	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-02-04T23:45:21.444Z</oa:annotatedAt>
-	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-02-04T23:45:21.444Z</oa:serializedAt>
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
-	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#commenting"/>
-	<cw:cwrcInfo xmlns:cw="http://cwrc.ca/ns/cw#">{}</cw:cwrcInfo>
-	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"type":"scholarNote"}</cw:cwrcAttributes>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/note/3953dcf0-9de1-43f9-a666-99c0b632fe35">
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
-	<rdf:type rdf:resource="http://purl.org/ontology/bibo/Note"/>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/7408304a-6179-49d5-8feb-72616e7ad4af">
-	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/197073b4-31f0-4e96-91ec-f880bec6df88"/>
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
-	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/e08c8246-7c0c-4722-9835-58b5f26d455d"/>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/e08c8246-7c0c-4722-9835-58b5f26d455d">
-	<rdf:value>xpointer(/TEI/text/body/div/lg[3]/l/note)</rdf:value>
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/59839441-1028-4cba-85fb-1bad32e0d3b6">
-	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/789184bc-ce85-4bd0-a280-eb3fad614032"/>
-	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://dbpedia.org/resource/Henry_Ford"/>
-	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-02-04T23:45:21.444Z</oa:annotatedAt>
-	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-02-04T23:45:21.444Z</oa:serializedAt>
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
-	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
-	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
-	<cw:hasCertainty xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#definite"/>
-	<cw:cwrcInfo xmlns:cw="http://cwrc.ca/ns/cw#">{"nameType":"person","id":"http://dbpedia.org/resource/Henry_Ford","uri":"http://dbpedia.org/resource/Henry_Ford","uriForDisplay":"https://dbpedia.lookup.services.cwrc.ca/resource/Henry_Ford","name":"Henry Ford","repository":"dbpedia","originalQueryString":"person","description":"Henry Ford (July 30, 1863 – April 7, 1947) was an American industrialist, the founder of the Ford Motor Company, and sponsor of the development of the assembly line technique of mass production. His introduction of the Model T automobile revolutionized transportation and American industry. As owner of the Ford Motor Company, he became one of the richest and best-known people in the world. Ford spent most of his life making headlines, good, bad, but never indifferent."}</cw:cwrcInfo>
-	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"ref":"http://dbpedia.org/resource/Henry_Ford","cert":"definite","type":"real"}</cw:cwrcAttributes>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dbpedia.org/resource/Henry_Ford">
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
-	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/789184bc-ce85-4bd0-a280-eb3fad614032">
-	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/e7b04580-5bbe-4557-852d-417df37d28d5"/>
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
-	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/6195bcf6-112d-46f6-b5d0-5ed03bf185a6"/>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/6195bcf6-112d-46f6-b5d0-5ed03bf185a6">
-	<rdf:value>xpointer(/TEI/text/body/div/lg[3]/l[3]/note/persName)</rdf:value>
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/1977df1e-9eb2-47af-ab49-54a5245106cd">
-	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/6009b959-3fe8-40ac-b194-c0cb42a1afc5"/>
-	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://dbpedia.org/resource/The_Orator"/>
-	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-02-04T23:45:21.446Z</oa:annotatedAt>
-	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-02-04T23:45:21.446Z</oa:serializedAt>
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
-	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://cwrc.ca/ns/cw#citing"/>
-	<cw:cwrcInfo xmlns:cw="http://cwrc.ca/ns/cw#">{"nameType":"work","id":"http://dbpedia.org/resource/The_Orator","uri":"http://dbpedia.org/resource/The_Orator","uriForDisplay":"https://dbpedia.lookup.services.cwrc.ca/resource/The_Orator","name":"The Orator","repository":"dbpedia","originalQueryString":"The Orator ","description":"The Orator (Samoan: O Le Tulafale) is a 2011 Samoan and New Zealand film written and directed by Tusi Tamasese. It is the first ever Samoan feature film, \"entirely shot in Samoa, in the Samoan language, with a Samoan cast and story\". The film was selected as the New Zealand entry for the Best Foreign Language Film at the 84th Academy Awards, but it did not make the final shortlist. It is the first time New Zealand have submitted a film in this category."}</cw:cwrcInfo>
-	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"ref":"http://dbpedia.org/resource/The_Orator","type":"citation"}</cw:cwrcAttributes>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dbpedia.org/resource/The_Orator">
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
-	<rdf:type rdf:resource="http://purl.org/dc/terms/BibliographicResource"/>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/6009b959-3fe8-40ac-b194-c0cb42a1afc5">
-	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/0256b047-2f90-47cd-bdbe-0683cea0e535"/>
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
-	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/3bcf392a-12ac-40ad-8333-567745c4b482"/>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/3bcf392a-12ac-40ad-8333-567745c4b482">
-	<rdf:value>xpointer(/TEI/text/body/div/lg[6]/l[3]/note)</rdf:value>
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/6483c9e8-7395-4865-8803-027eef7b9ee7">
-	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/05886af1-45dd-4d87-8b7c-da5449879486"/>
-	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/note/a869d446-96b5-49d1-91aa-d1ee37548015"/>
-	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-02-04T23:45:21.446Z</oa:annotatedAt>
-	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-02-04T23:45:21.446Z</oa:serializedAt>
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
-	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#commenting"/>
-	<cw:cwrcInfo xmlns:cw="http://cwrc.ca/ns/cw#">{}</cw:cwrcInfo>
-	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"type":"researchNote"}</cw:cwrcAttributes>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/note/a869d446-96b5-49d1-91aa-d1ee37548015">
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
-	<rdf:type rdf:resource="http://purl.org/ontology/bibo/Note"/>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/05886af1-45dd-4d87-8b7c-da5449879486">
-	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/73e1e73c-a673-45b8-9965-61da342cd7a7"/>
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
-	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/de7cd3ab-c4d9-4748-9448-02c36f1d9dd3"/>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/de7cd3ab-c4d9-4748-9448-02c36f1d9dd3">
-	<rdf:value>xpointer(/TEI/text/body/div/lg[3]/l[3]/note)</rdf:value>
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/cd9a1678-cdbc-43ab-965a-61108d19ae20">
-	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/13c141bc-dad6-4c38-8a77-607c1931f9df"/>
-	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://viaf.org/viaf/9868151475051300490000/"/>
-	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-02-04T23:45:21.446Z</oa:annotatedAt>
-	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-02-04T23:45:21.446Z</oa:serializedAt>
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
-	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://cwrc.ca/ns/cw#citing"/>
-	<cw:cwrcInfo xmlns:cw="http://cwrc.ca/ns/cw#">{"nameType":"UniformTitleWork","id":"http://viaf.org/viaf/9868151475051300490000/","uri":"http://viaf.org/viaf/9868151475051300490000/","uriForDisplay":null,"externalLink":"http://viaf.org/viaf/9868151475051300490000/","name":"Kuncl, Tom. | Ladies who kill","repository":"VIAF","originalQueryString":"ladies;"}</cw:cwrcInfo>
-	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"ref":"http://viaf.org/viaf/9868151475051300490000/","type":"citation"}</cw:cwrcAttributes>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://viaf.org/viaf/9868151475051300490000/">
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
-	<rdf:type rdf:resource="http://purl.org/dc/terms/BibliographicResource"/>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/13c141bc-dad6-4c38-8a77-607c1931f9df">
-	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/dac2220b-a652-45bb-930e-11cfc5f1f746"/>
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
-	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/c96b3db2-467f-4797-bf95-e5fb9a57b9bb"/>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/c96b3db2-467f-4797-bf95-e5fb9a57b9bb">
-	<rdf:value>xpointer(/TEI/text/body/div/lg[9]/l/note)</rdf:value>
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
-</rdf:Description></rdf:RDF></xenoData></teiHeader>
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+{
+	"@context": "http://www.w3.org/ns/oa/oa.ttl",
+	"@id": "http://id.cwrc.ca/annotation/385d91bf-8227-4c9c-bdef-592afe140190",
+	"@type": "oa:Annotation",
+	"motivatedBy": [
+		"oa:tagging",
+		"oa:identifying"
+	],
+	"annotatedAt": "2019-06-20T18:00:54.606Z",
+	"annotatedBy": {
+		"@id": "http://id.cwrc.ca/user/11a349d7-56c2-4903-a7ae-c7020dd5336c",
+		"@type": "foaf:Person",
+		"mbox": {
+			"@id": ""
+		},
+		"name": ""
+	},
+	"serializedAt": "2019-06-20T18:00:54.606Z",
+	"serializedBy": "",
+	"hasBody": {
+		"@id": "42172560",
+		"@type": [
+			"foaf:Person",
+			"oa:SemanticTag"
+		]
+	},
+	"hasTarget": {
+		"@id": "http://id.cwrc.ca/doc/b4f7c608-08ca-435c-87ff-228ce1d45a0e",
+		"@type": "oa:SpecificResource",
+		"hasSource": {
+			"@id": "http://id.cwrc.ca/doc/b4f7c608-08ca-435c-87ff-228ce1d45a0e",
+			"@type": "dctypes:Text",
+			"format": "text/xml"
+		},
+		"hasSelector": {
+			"@id": "http://id.cwrc.ca/selector/7970a065-f317-43e4-bd4b-4bd5aa4b5091",
+			"@type": "oa:FragmentSelector",
+			"dcterms:conformsTo": "http://tools.ietf.org/rfc/rfc3023",
+			"rdf:value": "xpointer(TEI/text/body/div/head/persName)"
+		}
+	},
+	"hasCertainty": "cw:reasonably certain",
+	"cwrcInfo": {
+		"uri": "42172560"
+	},
+	"cwrcAttributes": {
+		"cert": "reasonably certain",
+		"ref": "42172560"
+	}
+}
+]]></rdf:Description>
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+{
+	"@context": "http://www.w3.org/ns/oa/oa.ttl",
+	"@id": "http://id.cwrc.ca/annotation/583a801b-edb1-4b92-8cb3-3ab5bca6e932",
+	"@type": "oa:Annotation",
+	"motivatedBy": [
+		"oa:tagging",
+		"oa:identifying"
+	],
+	"annotatedAt": "2019-06-20T18:00:54.606Z",
+	"annotatedBy": {
+		"@id": "http://id.cwrc.ca/user/489a63e9-49fc-4d44-b175-ba18f3a1f6cf",
+		"@type": "foaf:Person",
+		"mbox": {
+			"@id": ""
+		},
+		"name": ""
+	},
+	"serializedAt": "2019-06-20T18:00:54.606Z",
+	"serializedBy": "",
+	"hasBody": {
+		"@id": "http://viaf.org/viaf/110146998373218941066/",
+		"@type": [
+			"foaf:Person",
+			"oa:SemanticTag"
+		]
+	},
+	"hasTarget": {
+		"@id": "http://id.cwrc.ca/doc/f684439b-d865-4b92-8fe5-04ef081918ac",
+		"@type": "oa:SpecificResource",
+		"hasSource": {
+			"@id": "http://id.cwrc.ca/doc/f684439b-d865-4b92-8fe5-04ef081918ac",
+			"@type": "dctypes:Text",
+			"format": "text/xml"
+		},
+		"hasSelector": {
+			"@id": "http://id.cwrc.ca/selector/56998e20-8141-4666-956d-91c9909ee300",
+			"@type": "oa:FragmentSelector",
+			"dcterms:conformsTo": "http://tools.ietf.org/rfc/rfc3023",
+			"rdf:value": "xpointer(TEI/text/body/div/docAuthor/persName)"
+		}
+	},
+	"hasCertainty": "cw:definite",
+	"cwrcInfo": {
+		"uri": "http://viaf.org/viaf/110146998373218941066/"
+	},
+	"cwrcAttributes": {
+		"ref": "http://viaf.org/viaf/110146998373218941066/",
+		"cert": "definite",
+		"type": "real"
+	}
+}
+]]></rdf:Description>
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+{
+	"@context": "http://www.w3.org/ns/oa/oa.ttl",
+	"@id": "http://id.cwrc.ca/annotation/7bdde963-1a02-40c8-bca3-5f560128819d",
+	"@type": "oa:Annotation",
+	"motivatedBy": [
+		"oa:tagging",
+		"oa:identifying"
+	],
+	"annotatedAt": "2019-06-20T18:00:54.606Z",
+	"annotatedBy": {
+		"@id": "http://id.cwrc.ca/user/16f32e4f-66c9-4ba7-b1d1-a5a823729327",
+		"@type": "foaf:Person",
+		"mbox": {
+			"@id": ""
+		},
+		"name": ""
+	},
+	"serializedAt": "2019-06-20T18:00:54.606Z",
+	"serializedBy": "",
+	"hasBody": {
+		"@id": "http://id.cwrc.ca/note/5db43b52-5ade-462b-9644-792c5a7885ec",
+		"@type": [
+			"bibo:Note",
+			"oa:SemanticTag"
+		]
+	},
+	"hasTarget": {
+		"@id": "http://id.cwrc.ca/doc/19fa158f-db72-4e59-9bf7-076554f5f43a",
+		"@type": "oa:SpecificResource",
+		"hasSource": {
+			"@id": "http://id.cwrc.ca/doc/19fa158f-db72-4e59-9bf7-076554f5f43a",
+			"@type": "dctypes:Text",
+			"format": "text/xml"
+		},
+		"hasSelector": {
+			"@id": "http://id.cwrc.ca/selector/60e9bef3-5086-4eab-99c8-08a114ab3c31",
+			"@type": "oa:FragmentSelector",
+			"dcterms:conformsTo": "http://tools.ietf.org/rfc/rfc3023",
+			"rdf:value": "xpointer(TEI/text/body/div/lg[3]/l/note)"
+		}
+	},
+	"cwrcInfo": {},
+	"cwrcAttributes": {
+		"type": "scholarNote"
+	}
+}
+]]></rdf:Description>
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+{
+	"@context": "http://www.w3.org/ns/oa/oa.ttl",
+	"@id": "http://id.cwrc.ca/annotation/7d374e44-b760-466d-a049-dab3b83c0d86",
+	"@type": "oa:Annotation",
+	"motivatedBy": [
+		"oa:tagging",
+		"oa:identifying"
+	],
+	"annotatedAt": "2019-06-20T18:00:54.606Z",
+	"annotatedBy": {
+		"@id": "http://id.cwrc.ca/user/06662666-5d83-46cb-b1c1-b2d2a8986772",
+		"@type": "foaf:Person",
+		"mbox": {
+			"@id": ""
+		},
+		"name": ""
+	},
+	"serializedAt": "2019-06-20T18:00:54.606Z",
+	"serializedBy": "",
+	"hasBody": {
+		"@id": "http://dbpedia.org/resource/Henry_Ford",
+		"@type": [
+			"foaf:Person",
+			"oa:SemanticTag"
+		]
+	},
+	"hasTarget": {
+		"@id": "http://id.cwrc.ca/doc/8f74fe55-acd0-40df-9bbd-54a54bcbd216",
+		"@type": "oa:SpecificResource",
+		"hasSource": {
+			"@id": "http://id.cwrc.ca/doc/8f74fe55-acd0-40df-9bbd-54a54bcbd216",
+			"@type": "dctypes:Text",
+			"format": "text/xml"
+		},
+		"hasSelector": {
+			"@id": "http://id.cwrc.ca/selector/14bb46de-eea9-477f-8cda-59127aef85ff",
+			"@type": "oa:FragmentSelector",
+			"dcterms:conformsTo": "http://tools.ietf.org/rfc/rfc3023",
+			"rdf:value": "xpointer(TEI/text/body/div/lg[3]/l[3]/note/persName)"
+		}
+	},
+	"hasCertainty": "cw:definite",
+	"cwrcInfo": {
+		"uri": "http://dbpedia.org/resource/Henry_Ford"
+	},
+	"cwrcAttributes": {
+		"ref": "http://dbpedia.org/resource/Henry_Ford",
+		"cert": "definite",
+		"type": "real"
+	}
+}
+]]></rdf:Description>
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+{
+	"@context": "http://www.w3.org/ns/oa/oa.ttl",
+	"@id": "http://id.cwrc.ca/annotation/5f4edc15-4c21-4083-bb09-a786502c580a",
+	"@type": "oa:Annotation",
+	"motivatedBy": [
+		"oa:tagging",
+		"oa:identifying"
+	],
+	"annotatedAt": "2019-06-20T18:00:54.606Z",
+	"annotatedBy": {
+		"@id": "http://id.cwrc.ca/user/33a5987e-63aa-40f2-9643-af108bba2ad8",
+		"@type": "foaf:Person",
+		"mbox": {
+			"@id": ""
+		},
+		"name": ""
+	},
+	"serializedAt": "2019-06-20T18:00:54.606Z",
+	"serializedBy": "",
+	"hasBody": {
+		"@id": "http://dbpedia.org/resource/The_Orator",
+		"@type": [
+			"dcterms:BibliographicResource",
+			"oa:SemanticTag"
+		]
+	},
+	"hasTarget": {
+		"@id": "http://id.cwrc.ca/doc/a082c4fa-dee6-43b0-ae53-d29986fb6c52",
+		"@type": "oa:SpecificResource",
+		"hasSource": {
+			"@id": "http://id.cwrc.ca/doc/a082c4fa-dee6-43b0-ae53-d29986fb6c52",
+			"@type": "dctypes:Text",
+			"format": "text/xml"
+		},
+		"hasSelector": {
+			"@id": "http://id.cwrc.ca/selector/bd6b8341-9bb7-4cda-bd74-d13649cd6814",
+			"@type": "oa:FragmentSelector",
+			"dcterms:conformsTo": "http://tools.ietf.org/rfc/rfc3023",
+			"rdf:value": "xpointer(TEI/text/body/div/lg[6]/l[3]/note)"
+		}
+	},
+	"cwrcInfo": {
+		"uri": "http://viaf.org/viaf/9991152503075310800005/",
+		"name": "Jones, Sandy, 1943-. | Crying baby, sleepless nights"
+	},
+	"cwrcAttributes": {
+		"type": "citation"
+	}
+}
+]]></rdf:Description>
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+{
+	"@context": "http://www.w3.org/ns/oa/oa.ttl",
+	"@id": "http://id.cwrc.ca/annotation/f66b5c5d-47da-4d55-9880-f9450df1b39e",
+	"@type": "oa:Annotation",
+	"motivatedBy": [
+		"oa:tagging",
+		"oa:identifying"
+	],
+	"annotatedAt": "2019-06-20T18:00:54.606Z",
+	"annotatedBy": {
+		"@id": "http://id.cwrc.ca/user/4a86be20-8d3b-45a2-9b62-8c99f76fd8b1",
+		"@type": "foaf:Person",
+		"mbox": {
+			"@id": ""
+		},
+		"name": ""
+	},
+	"serializedAt": "2019-06-20T18:00:54.606Z",
+	"serializedBy": "",
+	"hasBody": {
+		"@id": "http://id.cwrc.ca/note/5ca287b8-512e-4e6f-bcc6-bafd2f988995",
+		"@type": [
+			"bibo:Note",
+			"oa:SemanticTag"
+		]
+	},
+	"hasTarget": {
+		"@id": "http://id.cwrc.ca/doc/447c4421-824b-4337-b580-f027eb0ea85d",
+		"@type": "oa:SpecificResource",
+		"hasSource": {
+			"@id": "http://id.cwrc.ca/doc/447c4421-824b-4337-b580-f027eb0ea85d",
+			"@type": "dctypes:Text",
+			"format": "text/xml"
+		},
+		"hasSelector": {
+			"@id": "http://id.cwrc.ca/selector/bf81c923-6a40-43d2-a0fe-094250ae11f0",
+			"@type": "oa:FragmentSelector",
+			"dcterms:conformsTo": "http://tools.ietf.org/rfc/rfc3023",
+			"rdf:value": "xpointer(TEI/text/body/div/lg[3]/l[3]/note)"
+		}
+	},
+	"cwrcInfo": {},
+	"cwrcAttributes": {
+		"type": "researchNote"
+	}
+}
+]]></rdf:Description>
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+{
+	"@context": "http://www.w3.org/ns/oa/oa.ttl",
+	"@id": "http://id.cwrc.ca/annotation/c62112d9-7307-40db-a3e1-e8d1ad98f864",
+	"@type": "oa:Annotation",
+	"motivatedBy": [
+		"oa:tagging",
+		"oa:identifying"
+	],
+	"annotatedAt": "2019-06-20T18:00:54.606Z",
+	"annotatedBy": {
+		"@id": "http://id.cwrc.ca/user/00dc1535-9079-4df7-b1bb-068f6849a5b8",
+		"@type": "foaf:Person",
+		"mbox": {
+			"@id": ""
+		},
+		"name": ""
+	},
+	"serializedAt": "2019-06-20T18:00:54.606Z",
+	"serializedBy": "",
+	"hasBody": {
+		"@id": "http://viaf.org/viaf/9868151475051300490000/",
+		"@type": [
+			"dcterms:BibliographicResource",
+			"oa:SemanticTag"
+		]
+	},
+	"hasTarget": {
+		"@id": "http://id.cwrc.ca/doc/0159ea5c-7d68-45af-8520-5dc4c7ba6487",
+		"@type": "oa:SpecificResource",
+		"hasSource": {
+			"@id": "http://id.cwrc.ca/doc/0159ea5c-7d68-45af-8520-5dc4c7ba6487",
+			"@type": "dctypes:Text",
+			"format": "text/xml"
+		},
+		"hasSelector": {
+			"@id": "http://id.cwrc.ca/selector/99f4525d-f402-4389-a834-37538915cc22",
+			"@type": "oa:FragmentSelector",
+			"dcterms:conformsTo": "http://tools.ietf.org/rfc/rfc3023",
+			"rdf:value": "xpointer(TEI/text/body/div/lg[9]/l/note)"
+		}
+	},
+	"cwrcInfo": {
+		"uri": "http://viaf.org/viaf/9868151475051300490000/"
+	},
+	"cwrcAttributes": {
+		"type": "citation"
+	}
+}
+]]></rdf:Description>
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+{
+	"@context": "http://www.w3.org/ns/oa/oa.ttl",
+	"@id": "http://id.cwrc.ca/annotation/2a0e6528-ae04-45ee-afcd-757acd7a56f9",
+	"@type": "oa:Annotation",
+	"motivatedBy": [
+		"oa:tagging",
+		"oa:identifying"
+	],
+	"annotatedAt": "2019-06-20T18:00:54.606Z",
+	"annotatedBy": {
+		"@id": "http://id.cwrc.ca/user/2ef65299-0c8d-44c1-b30f-300eba714e62",
+		"@type": "foaf:Person",
+		"mbox": {
+			"@id": ""
+		},
+		"name": ""
+	},
+	"serializedAt": "2019-06-20T18:00:54.606Z",
+	"serializedBy": "",
+	"hasBody": {
+		"@id": "http://dbpedia.org/resource/Maria_Sharapova",
+		"@type": [
+			"foaf:Person",
+			"oa:SemanticTag"
+		]
+	},
+	"hasTarget": {
+		"@id": "http://id.cwrc.ca/doc/7a0023e3-586b-4328-b35d-0d1a558f00cb",
+		"@type": "oa:SpecificResource",
+		"hasSource": {
+			"@id": "http://id.cwrc.ca/doc/7a0023e3-586b-4328-b35d-0d1a558f00cb",
+			"@type": "dctypes:Text",
+			"format": "text/xml"
+		},
+		"hasSelector": {
+			"@id": "http://id.cwrc.ca/selector/a239ccff-50fb-4b79-b0ba-a1515c8ccb71",
+			"@type": "oa:FragmentSelector",
+			"dcterms:conformsTo": "http://tools.ietf.org/rfc/rfc3023",
+			"rdf:value": "xpointer(TEI/text/body/div/lg[6]/l[3]/note/bibl/bibl/bibl[2]/persName)"
+		}
+	},
+	"hasCertainty": "cw:definite",
+	"cwrcInfo": {
+		"uri": "http://dbpedia.org/resource/Maria_Sharapova"
+	},
+	"cwrcAttributes": {
+		"ref": "http://dbpedia.org/resource/Maria_Sharapova",
+		"cert": "definite",
+		"type": "real"
+	}
+}
+]]></rdf:Description>
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+{
+	"@context": "http://www.w3.org/ns/oa/oa.ttl",
+	"@id": "http://id.cwrc.ca/annotation/d8fb5891-df6f-4ee5-891c-58fbdcb80ff2",
+	"@type": "oa:Annotation",
+	"motivatedBy": [
+		"oa:linking"
+	],
+	"annotatedAt": "2019-06-20T18:00:54.606Z",
+	"annotatedBy": {
+		"@id": "http://id.cwrc.ca/user/95aebf05-dac3-4aa0-b341-5d1adf4ac46f",
+		"@type": "foaf:Person",
+		"mbox": {
+			"@id": ""
+		},
+		"name": ""
+	},
+	"serializedAt": "2019-06-20T18:00:54.606Z",
+	"serializedBy": "",
+	"hasBody": {
+		"@id": "http://id.cwrc.ca/link/111aa97c-72b3-4470-949e-9c79c37fa283",
+		"@type": [
+			"cnt:ContentAsText",
+			"oa:SemanticTag"
+		]
+	},
+	"hasTarget": {
+		"@id": "http://id.cwrc.ca/doc/79ea2584-b495-4233-888c-595d1883443c",
+		"@type": "oa:SpecificResource",
+		"hasSource": {
+			"@id": "http://id.cwrc.ca/doc/79ea2584-b495-4233-888c-595d1883443c",
+			"@type": "dctypes:Text",
+			"format": "text/xml"
+		},
+		"hasSelector": {
+			"@id": "http://id.cwrc.ca/selector/98f65384-160d-469d-85ef-bbba3eb2177a",
+			"@type": "oa:FragmentSelector",
+			"dcterms:conformsTo": "http://tools.ietf.org/rfc/rfc3023",
+			"rdf:value": "xpointer(TEI/text/body/div/lg[6]/l[3]/note/bibl/bibl/bibl/ref)"
+		}
+	},
+	"cwrcInfo": {},
+	"cwrcAttributes": {
+		"target": "http://dbpedia.org/resource/The_Orator"
+	}
+}
+]]></rdf:Description>
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+{
+	"@context": "http://www.w3.org/ns/oa/oa.ttl",
+	"@id": "http://id.cwrc.ca/annotation/b446aadd-175c-4f7b-ae12-ce5ebf91e42b",
+	"@type": "oa:Annotation",
+	"motivatedBy": [
+		"oa:tagging",
+		"oa:identifying"
+	],
+	"annotatedAt": "2019-06-20T18:00:54.606Z",
+	"annotatedBy": {
+		"@id": "http://id.cwrc.ca/user/78693cdd-90af-471d-bc95-b125030f3b1d",
+		"@type": "foaf:Person",
+		"mbox": {
+			"@id": ""
+		},
+		"name": ""
+	},
+	"serializedAt": "2019-06-20T18:00:54.606Z",
+	"serializedBy": "",
+	"hasBody": {
+		"@id": "http://id.cwrc.ca/note/4a7ab5cd-ca26-43f1-ba4f-c50d3121d2a0",
+		"@type": [
+			"bibo:Note",
+			"oa:SemanticTag"
+		]
+	},
+	"hasTarget": {
+		"@id": "http://id.cwrc.ca/doc/1cd6bef3-9d5e-4ea0-af9d-8d60a0e8fa6d",
+		"@type": "oa:SpecificResource",
+		"hasSource": {
+			"@id": "http://id.cwrc.ca/doc/1cd6bef3-9d5e-4ea0-af9d-8d60a0e8fa6d",
+			"@type": "dctypes:Text",
+			"format": "text/xml"
+		},
+		"hasSelector": {
+			"@id": "http://id.cwrc.ca/selector/7b333af9-03cd-4754-8426-2d1c7933df4f",
+			"@type": "oa:FragmentSelector",
+			"dcterms:conformsTo": "http://tools.ietf.org/rfc/rfc3023",
+			"rdf:value": "xpointer(TEI/text/body/div/lg[7]/l[2]/note)"
+		}
+	},
+	"cwrcInfo": {},
+	"cwrcAttributes": {
+		"type": "typeAnnotation"
+	}
+}
+]]></rdf:Description>
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+{
+	"@context": "http://www.w3.org/ns/oa/oa.ttl",
+	"@id": "http://id.cwrc.ca/annotation/afaeba7f-0267-4edd-8614-f2ac6724eab1",
+	"@type": "oa:Annotation",
+	"motivatedBy": [
+		"oa:tagging",
+		"oa:identifying"
+	],
+	"annotatedAt": "2019-06-20T18:00:54.606Z",
+	"annotatedBy": {
+		"@id": "http://id.cwrc.ca/user/652fb6db-db96-4fbe-86d1-2b0b7eb949f7",
+		"@type": "foaf:Person",
+		"mbox": {
+			"@id": ""
+		},
+		"name": ""
+	},
+	"serializedAt": "2019-06-20T18:00:54.606Z",
+	"serializedBy": "",
+	"hasBody": {
+		"@id": "http://id.cwrc.ca/person/2c279d03-34df-4c64-92c2-c47a0f4f2754",
+		"@type": [
+			"foaf:Organization",
+			"oa:SemanticTag"
+		]
+	},
+	"hasTarget": {
+		"@id": "http://id.cwrc.ca/doc/8459e674-1419-4704-8a32-8789fdcbd5b4",
+		"@type": "oa:SpecificResource",
+		"hasSource": {
+			"@id": "http://id.cwrc.ca/doc/8459e674-1419-4704-8a32-8789fdcbd5b4",
+			"@type": "dctypes:Text",
+			"format": "text/xml"
+		},
+		"hasSelector": {
+			"@id": "http://id.cwrc.ca/selector/35eae634-5ba4-444e-be35-d4c7b2cd915b",
+			"@type": "oa:FragmentSelector",
+			"dcterms:conformsTo": "http://tools.ietf.org/rfc/rfc3023",
+			"rdf:value": "xpointer(TEI/text/body/div/lg[11]/l/foreign/orgName)"
+		}
+	},
+	"cwrcInfo": {
+		"uri": "http://www.wikidata.org/entity/Q188143",
+		"name": "Montreal Canadiens"
+	},
+	"cwrcAttributes": {
+		"ref": "http://www.wikidata.org/entity/Q188143",
+		"key": "Montreal Canadiens"
+	}
+}
+]]></rdf:Description></rdf:RDF></xenoData></teiHeader>
 	<text>
 		<body>
 			<div type="poem" subtype="terzarima">
@@ -227,23 +601,23 @@
 					<l>building his orators, and chipping off</l><l>the heckling gargoyles popping in the hall.</l><l>(Outside, in the dark, the street is body-tall,</l>
 				</lg>
 				<lg>
-					<l>flowered with faces intent on the scarecrow thing</l><l>that shouts to thousands the echoing</l><l>of their own wishes.) The Orator has risen!<note type="citation"><bibl><ref target="http://dbpedia.org/resource/The_Orator"/><bibl><ref target="http://dbpedia.org/resource/The_Orator"></ref>some interesting, kind of scary</bibl><bibl> <persName ref="http://dbpedia.org/resource/Maria_Sharapova" cert="definite" type="real">citation</persName> with an embedded <ref target="https://beta.cwrc.ca">link</ref></bibl></bibl></note></l>
+					<l>flowered with faces intent on the scarecrow thing</l><l>that shouts to thousands the echoing</l><l>of their own wishes.) The Orator has risen!<note type="citation"><bibl><ref target="http://viaf.org/viaf/9991152503075310800005/"/><bibl><bibl><ref target="http://dbpedia.org/resource/The_Orator"></ref>some interesting, kind of scary</bibl><bibl> <persName ref="http://dbpedia.org/resource/Maria_Sharapova" cert="definite" type="real">citation</persName> with an embedded <ref target="https://beta.cwrc.ca">link</ref></bibl></bibl></bibl></note></l>
 				</lg>
 				<lg>
-					<l>Worshipped and loved, their favourite visitor,</l><l>a country uncle with sunflower seeds in his pockets,</l><l>full of wonderful moods, tricks, imitative talk,</l>
+					<l>Worshipped and loved, their favourite visitor,</l><l>a country uncle with sunflower<note type="typeAnnotation">some note</note> seeds in his pockets,</l><l>full of wonderful moods, <note type="personal">tricks</note>, imitative talk,</l>
 				</lg>
 				<lg>
 					<l>he is their idol: like themselves, not handsome,</l><l>not snobbish, not of the <foreign>Grande Allée! Un homme!</foreign>
 					</l><l>Intimate, informal, he makes bear's compliments</l>
 				</lg>
 				<lg>
-					<l>to the ladies;<note type="citation"><bibl><ref target="http://viaf.org/viaf/9868151475051300490000/"/><bibl><ref target="http://viaf.org/viaf/9868151475051300490000/"></ref>Another "killer" <persName ref="http://dbpedia.org/resource/Saint_Andrew" cert="definite" type="real">citation</persName> :)</bibl></bibl></note> is gallant; and grins;</l><l>goes for the balloon, his opposition, with pins;</l><l>jokes also on himself, speaks of himself</l>
+					<l>to the ladies;<note type="citation"><bibl><ref target="http://viaf.org/viaf/9868151475051300490000/"/><bibl><bibl><ref target="http://viaf.org/viaf/9868151475051300490000/">  </ref>Another "killer" <persName ref="http://dbpedia.org/resource/Saint_Andrew" cert="definite" type="real">citation</persName> :)</bibl></bibl></bibl></note> is gallant; and grins;</l><l>goes for the balloon, his opposition, with pins;</l><l>jokes also on himself, speaks of himself</l>
 				</lg>
 				<lg>
 					<l>in the third person, slings slang, and winks with folklore;</l><l>and knows now that he has them, kith and kin.</l><l>Calmly, therefore, he begins to speak of war,</l>
 				</lg>
 				<lg>
-					<l>praises the virtue of being <foreign>Canadien</foreign>,</l><l>of being at peace, of faith, of family,</l><l>and suddenly his other voice: <emph>Where are your sons?</emph>
+					<l>praises the virtue of being <foreign><orgName ref="http://www.wikidata.org/entity/Q188143" key="Montreal Canadiens">Canadien</orgName></foreign>,</l><l>of being at peace, of faith, of family,</l><l>and suddenly his other voice: <emph>Where are your sons?</emph>
 					</l>
 				</lg>
 				<lg>
