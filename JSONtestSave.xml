@@ -187,10 +187,10 @@ Found 18 May 1770 in excavations in the ancient theatre of Catania
 		},
 		"@language": "en"
 	},
-	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-tests/master/JSONtestSave.xml?TEI/text/body/div[5]/p/placeName_20190401172854",
+	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-tests/master/JSONtestSave.xml?TEI/text/body/div[5]/p/placeName_20190709150155",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2019-04-01T21:28:54.069Z",
-	"dcterms:issued": "2019-07-09T18:53:58.755Z",
+	"dcterms:created": "2019-07-09T19:01:55.118Z",
+	"dcterms:issued": "2019-07-09T19:02:05.510Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ajmacdonald",
 		"@type": [
@@ -202,7 +202,7 @@ Found 18 May 1770 in excavations in the ancient theatre of Catania
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-tests/master/JSONtestSave.xml?TEI/text/body/div[5]/p/placeName_20190401172854#Target",
+		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-tests/master/JSONtestSave.xml?TEI/text/body/div[5]/p/placeName_20190709150155#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-tests/master/JSONtestSave.xml",
@@ -216,7 +216,7 @@ Found 18 May 1770 in excavations in the ancient theatre of Catania
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-tests/master/JSONtestSave.xml?TEI/text/body/div[5]/p/placeName_20190401172854#Selector",
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-tests/master/JSONtestSave.xml?TEI/text/body/div[5]/p/placeName_20190709150155#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[5]/p/placeName"
 		}
@@ -261,10 +261,10 @@ Found 18 May 1770 in excavations in the ancient theatre of Catania
 		},
 		"@language": "en"
 	},
-	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-tests/master/JSONtestSave.xml?TEI/text/body/div/ab/persName_20190401172854",
+	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-tests/master/JSONtestSave.xml?TEI/text/body/div/ab/persName_20190709150155",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2019-04-01T21:28:54.070Z",
-	"dcterms:issued": "2019-07-09T18:53:58.759Z",
+	"dcterms:created": "2019-07-09T19:01:55.124Z",
+	"dcterms:issued": "2019-07-09T19:02:05.511Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ajmacdonald",
 		"@type": [
@@ -276,7 +276,7 @@ Found 18 May 1770 in excavations in the ancient theatre of Catania
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-tests/master/JSONtestSave.xml?TEI/text/body/div/ab/persName_20190401172854#Target",
+		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-tests/master/JSONtestSave.xml?TEI/text/body/div/ab/persName_20190709150155#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-tests/master/JSONtestSave.xml",
@@ -290,7 +290,7 @@ Found 18 May 1770 in excavations in the ancient theatre of Catania
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-tests/master/JSONtestSave.xml?TEI/text/body/div/ab/persName_20190401172854#Selector",
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-tests/master/JSONtestSave.xml?TEI/text/body/div/ab/persName_20190709150155#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/ab/persName"
 		}
@@ -332,10 +332,10 @@ Found 18 May 1770 in excavations in the ancient theatre of Catania
 		},
 		"@language": "en"
 	},
-	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-tests/master/JSONtestSave.xml?TEI/text/body/div[6]/listBibl/bibl/citedRange/ref_20190401172854",
+	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-tests/master/JSONtestSave.xml?TEI/text/body/div[6]/listBibl/bibl/citedRange/ref_20190709150155",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2019-04-01T21:28:54.072Z",
-	"dcterms:issued": "2019-07-09T18:53:58.759Z",
+	"dcterms:created": "2019-07-09T19:01:55.128Z",
+	"dcterms:issued": "2019-07-09T19:02:05.562Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ajmacdonald",
 		"@type": [
@@ -347,7 +347,7 @@ Found 18 May 1770 in excavations in the ancient theatre of Catania
 	},
 	"oa:motivatedBy": "oa:linking",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-tests/master/JSONtestSave.xml?TEI/text/body/div[6]/listBibl/bibl/citedRange/ref_20190401172854#Target",
+		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-tests/master/JSONtestSave.xml?TEI/text/body/div[6]/listBibl/bibl/citedRange/ref_20190709150155#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-tests/master/JSONtestSave.xml",
@@ -361,7 +361,7 @@ Found 18 May 1770 in excavations in the ancient theatre of Catania
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-tests/master/JSONtestSave.xml?TEI/text/body/div[6]/listBibl/bibl/citedRange/ref_20190401172854#Selector",
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-tests/master/JSONtestSave.xml?TEI/text/body/div[6]/listBibl/bibl/citedRange/ref_20190709150155#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[6]/listBibl/bibl/citedRange/ref"
 		}
@@ -404,10 +404,10 @@ Found 18 May 1770 in excavations in the ancient theatre of Catania
 		},
 		"@language": "en"
 	},
-	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-tests/master/JSONtestSave.xml?TEI/text/body/div[5]/p/placeName[2]_20190401172854",
+	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-tests/master/JSONtestSave.xml?TEI/text/body/div[5]/p/placeName[2]_20190709150155",
 	"@type": "oa:Annotation",
-	"dcterms:created": "2019-04-01T21:28:54.072Z",
-	"dcterms:issued": "2019-07-09T18:53:58.759Z",
+	"dcterms:created": "2019-07-09T19:01:55.132Z",
+	"dcterms:issued": "2019-07-09T19:02:05.562Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ajmacdonald",
 		"@type": [
@@ -419,7 +419,7 @@ Found 18 May 1770 in excavations in the ancient theatre of Catania
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-tests/master/JSONtestSave.xml?TEI/text/body/div[5]/p/placeName[2]_20190401172854#Target",
+		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-tests/master/JSONtestSave.xml?TEI/text/body/div[5]/p/placeName[2]_20190709150155#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-tests/master/JSONtestSave.xml",
@@ -433,7 +433,7 @@ Found 18 May 1770 in excavations in the ancient theatre of Catania
 			"schema:softwareVersion": "1.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-tests/master/JSONtestSave.xml?TEI/text/body/div[5]/p/placeName[2]_20190401172854#Selector",
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-tests/master/JSONtestSave.xml?TEI/text/body/div[5]/p/placeName[2]_20190709150155#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[5]/p/placeName[2]"
 		}
@@ -557,7 +557,7 @@ bis
 <abbr>cons</abbr>
 <ex>ularis</ex>
 </expan>
-<g type="interpunct">·</g> feiusdem
+<g type="interpunct">·</g> faeiusdem
 </ab>
 </div>
 <div type="apparatus">
