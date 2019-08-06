@@ -1,36 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://cwrc.ca/schemas/cwrc_tei_lite.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xmlns:cw="http://cwrc.ca/ns/cw#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cw="http://cwrc.ca/ns/cw#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:cnt="http://www.w3.org/2011/content#">
-<rdf:Description rdf:about="https://cwrc-writer.cwrc.ca//editor/documents/null">
-	<cw:mode>0</cw:mode>
-	<cw:allowOverlap>false</cw:allowOverlap>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
-	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
-	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
-	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-11-21T17:31:44.204Z</oa:annotatedAt>
-	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-11-21T17:31:44.204Z</oa:serializedAt>
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
-	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#linking"/>
-	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"target":"http://arachne.uni-koeln.de/item/buchseite/650756"}</cw:cwrcAttributes>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
-	<rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
-	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
-	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
-	<rdf:value>xpointer(//ref[@annotationId="ent_695"])</rdf:value>
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
-</rdf:Description>
-</rdf:RDF>
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xml:lang="en">
 
 <teiHeader>
 <fileDesc>
@@ -191,7 +159,9 @@ Found 18 May 1770 in excavations in the ancient theatre of Catania
 </msDesc>
 </sourceDesc>
 </fileDesc>
-<profileDesc>
+<xenoData>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+</rdf:RDF></xenoData><profileDesc>
 <calendarDesc>
 <calendar xml:id="julian">
 <p>Julian Calendar</p>
@@ -322,7 +292,7 @@ The text (on imported marble) would have been fixed to the base of a statue of t
 <listBibl>
 <bibl type="CIL">
 <citedRange>
-<ref annotationId="ent_695" target="http://arachne.uni-koeln.de/item/buchseite/650756">10.7014</ref>
+<ref target="http://arachne.uni-koeln.de/item/buchseite/650756">10.7014</ref>
 </citedRange>
 <ptr target="https://www.zotero.org/groups/382445/items/GQN8UZSI"></ptr>
 </bibl>
