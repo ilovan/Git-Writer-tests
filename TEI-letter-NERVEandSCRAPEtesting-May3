@@ -45,7 +45,7 @@
 	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-tests/master/TEI-letter-NERVEandSCRAPEtesting-May3?correction_annotation_20190503091510",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2019-05-03T15:15:10.835Z",
-	"dcterms:issued": "2020-01-21T22:50:44.675Z",
+	"dcterms:issued": "2020-01-21T22:51:46.603Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -120,7 +120,7 @@
 	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-tests/master/TEI-letter-NERVEandSCRAPEtesting-May3?date_annotation_20190503091510",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2019-05-03T15:15:10.835Z",
-	"dcterms:issued": "2020-01-21T22:50:44.687Z",
+	"dcterms:issued": "2020-01-21T22:51:46.603Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -195,7 +195,7 @@
 	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-tests/master/TEI-letter-NERVEandSCRAPEtesting-May3?person_annotation_20190503091510",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2019-05-03T15:15:10.835Z",
-	"dcterms:issued": "2020-01-21T22:50:44.687Z",
+	"dcterms:issued": "2020-01-21T22:51:46.603Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -271,7 +271,7 @@
 	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-tests/master/TEI-letter-NERVEandSCRAPEtesting-May3?place_annotation_20190503091510",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2019-05-03T15:15:10.835Z",
-	"dcterms:issued": "2020-01-21T22:50:44.687Z",
+	"dcterms:issued": "2020-01-21T22:51:46.604Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -347,7 +347,7 @@
 	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-tests/master/TEI-letter-NERVEandSCRAPEtesting-May3?place_annotation_20190503091510",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2019-05-03T15:15:10.835Z",
-	"dcterms:issued": "2020-01-21T22:50:44.687Z",
+	"dcterms:issued": "2020-01-21T22:51:46.604Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -423,7 +423,7 @@
 	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-tests/master/TEI-letter-NERVEandSCRAPEtesting-May3?place_annotation_20190503091510",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2019-05-03T15:15:10.835Z",
-	"dcterms:issued": "2020-01-21T22:50:44.688Z",
+	"dcterms:issued": "2020-01-21T22:51:46.604Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -499,7 +499,7 @@
 	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-tests/master/TEI-letter-NERVEandSCRAPEtesting-May3?person_annotation_20190503091510",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2019-05-03T15:15:10.835Z",
-	"dcterms:issued": "2020-01-21T22:50:44.688Z",
+	"dcterms:issued": "2020-01-21T22:51:46.604Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -574,7 +574,7 @@
 	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-tests/master/TEI-letter-NERVEandSCRAPEtesting-May3?place_annotation_20190503091510",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2019-05-03T15:15:10.835Z",
-	"dcterms:issued": "2020-01-21T22:50:44.688Z",
+	"dcterms:issued": "2020-01-21T22:51:46.604Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -649,7 +649,7 @@
 	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-tests/master/TEI-letter-NERVEandSCRAPEtesting-May3?place_annotation_20190503091510",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2019-05-03T15:15:10.835Z",
-	"dcterms:issued": "2020-01-21T22:50:44.688Z",
+	"dcterms:issued": "2020-01-21T22:51:46.604Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -724,7 +724,7 @@
 	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-tests/master/TEI-letter-NERVEandSCRAPEtesting-May3?place_annotation_20190503091510",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2019-05-03T15:15:10.835Z",
-	"dcterms:issued": "2020-01-21T22:50:44.688Z",
+	"dcterms:issued": "2020-01-21T22:51:46.604Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -799,7 +799,7 @@
 	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-tests/master/TEI-letter-NERVEandSCRAPEtesting-May3?person_annotation_20190503091510",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2019-05-03T15:15:10.837Z",
-	"dcterms:issued": "2020-01-21T22:50:44.688Z",
+	"dcterms:issued": "2020-01-21T22:51:46.604Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -874,7 +874,7 @@
 	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-tests/master/TEI-letter-NERVEandSCRAPEtesting-May3?place_annotation_20190503091510",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2019-05-03T15:15:10.837Z",
-	"dcterms:issued": "2020-01-21T22:50:44.689Z",
+	"dcterms:issued": "2020-01-21T22:51:46.605Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -949,7 +949,7 @@
 	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-tests/master/TEI-letter-NERVEandSCRAPEtesting-May3?place_annotation_20190503091510",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2019-05-03T15:15:10.837Z",
-	"dcterms:issued": "2020-01-21T22:50:44.689Z",
+	"dcterms:issued": "2020-01-21T22:51:46.605Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -1024,7 +1024,7 @@
 	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-tests/master/TEI-letter-NERVEandSCRAPEtesting-May3?place_annotation_20190503091510",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2019-05-03T15:15:10.837Z",
-	"dcterms:issued": "2020-01-21T22:50:44.689Z",
+	"dcterms:issued": "2020-01-21T22:51:46.605Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -1099,7 +1099,7 @@
 	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-tests/master/TEI-letter-NERVEandSCRAPEtesting-May3?person_annotation_20190503091510",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2019-05-03T15:15:10.837Z",
-	"dcterms:issued": "2020-01-21T22:50:44.689Z",
+	"dcterms:issued": "2020-01-21T22:51:46.605Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -1159,7 +1159,7 @@
 						<date cert="definite" when="1935-10-21">21.10.35</date>
 					</dateline>
 					<salute>Dearest -</salute>
-				</opener><p>I have had no letter from you since I left <placeName cert="definite" ref="http://www.geonames.org/2673722">Stockholm</placeName>, but I had a nice one from <persName>John</persName> in an envelope you had sent him. I had sent him one addressed to <placeName key="Copenhagen Capital Region Denmark" ref="http://geonames.org/2618425">Copenhagen</placeName> but he hadn't used it.</p><p>When I reached <placeName key="Oslo" ref="http://geonames.org/3143244">Oslo</placeName> yesterday evening, <persName key="Brynjulf Bull" ref="http://www.wikidata.org/entity/Q1777745">Brynjulf Bull</persName> should have been there to meet me, but wasn't. He is not on the telephone, so I took a taxi to his address, which turned out to be a students' club with no one about on Sundays, so I went to a hotel feeling rather non-plussed. But presently he turned up. He had got the <pb n="2"></pb> time of my arrival wrong, and 
+				</opener><p>I have <emph>had</emph> no letter from you since I left <placeName cert="definite" ref="http://www.geonames.org/2673722">Stockholm</placeName>, but I had a nice one from <persName>John</persName> in an envelope you had sent him. I had sent him one addressed to <placeName key="Copenhagen Capital Region Denmark" ref="http://geonames.org/2618425">Copenhagen</placeName> but he hadn't used it.</p><p>When I reached <placeName key="Oslo" ref="http://geonames.org/3143244">Oslo</placeName> yesterday evening, <persName key="Brynjulf Bull" ref="http://www.wikidata.org/entity/Q1777745">Brynjulf Bull</persName> should have been there to meet me, but wasn't. He is not on the telephone, so I took a taxi to his address, which turned out to be a students' club with no one about on Sundays, so I went to a hotel feeling rather non-plussed. But presently he turned up. He had got the <pb n="2"></pb> time of my arrival wrong, and 
 						<corr><sic><sic>when</sic><corr>when</corr></sic></corr>
 					he had found he had missed me he phoned to every hotel in <placeName key="Oslo" ref="http://geonames.org/3143244">Oslo</placeName> till he hit on the right one. He left me at 10, and then I had to do a Sunday Referee article. Today my journey lasts from 9 till 9 - fortunately one of the most beautiful railway journeys in the world. Tomorrow I lecture at <placeName cert="definite" ref="http://www.geonames.org/6548528">Bergen</placeName> to the Anglo-Norwegian Society. Next day I go back to <placeName key="Oslo" ref="http://geonames.org/3143244">Oslo</placeName>, lecture there Fri. and Sat. and then start for home via <placeName key="Bergen" ref="http://geonames.org/3161732">Bergen</placeName>.</p>
 				<pb n="3"></pb>
