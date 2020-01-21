@@ -45,7 +45,7 @@
 	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-tests/master/TEI-letter-NERVEandSCRAPEtesting-May3?correction_annotation_20190503091510",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2019-05-03T15:15:10.835Z",
-	"dcterms:issued": "2020-01-21T22:51:46.603Z",
+	"dcterms:issued": "2020-01-21T22:55:54.309Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -120,7 +120,7 @@
 	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-tests/master/TEI-letter-NERVEandSCRAPEtesting-May3?date_annotation_20190503091510",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2019-05-03T15:15:10.835Z",
-	"dcterms:issued": "2020-01-21T22:51:46.603Z",
+	"dcterms:issued": "2020-01-21T22:55:54.309Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -195,7 +195,7 @@
 	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-tests/master/TEI-letter-NERVEandSCRAPEtesting-May3?person_annotation_20190503091510",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2019-05-03T15:15:10.835Z",
-	"dcterms:issued": "2020-01-21T22:51:46.603Z",
+	"dcterms:issued": "2020-01-21T22:55:54.309Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -271,7 +271,7 @@
 	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-tests/master/TEI-letter-NERVEandSCRAPEtesting-May3?place_annotation_20190503091510",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2019-05-03T15:15:10.835Z",
-	"dcterms:issued": "2020-01-21T22:51:46.604Z",
+	"dcterms:issued": "2020-01-21T22:55:54.309Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -314,7 +314,7 @@
 		"schema:url": "https://cwrc-writer.cwrc.ca",
 		"schema:softwareVersion": "1.0"
 	},
-	"oa:hasCertainty": "cwrc:definite"
+	"oa:hasCertainty": "cwrc:medium"
 }
 ]]></rdf:Description>
 <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
@@ -347,7 +347,7 @@
 	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-tests/master/TEI-letter-NERVEandSCRAPEtesting-May3?place_annotation_20190503091510",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2019-05-03T15:15:10.835Z",
-	"dcterms:issued": "2020-01-21T22:51:46.604Z",
+	"dcterms:issued": "2020-01-21T22:55:54.309Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -423,7 +423,7 @@
 	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-tests/master/TEI-letter-NERVEandSCRAPEtesting-May3?place_annotation_20190503091510",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2019-05-03T15:15:10.835Z",
-	"dcterms:issued": "2020-01-21T22:51:46.604Z",
+	"dcterms:issued": "2020-01-21T22:55:54.309Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -499,7 +499,7 @@
 	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-tests/master/TEI-letter-NERVEandSCRAPEtesting-May3?person_annotation_20190503091510",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2019-05-03T15:15:10.835Z",
-	"dcterms:issued": "2020-01-21T22:51:46.604Z",
+	"dcterms:issued": "2020-01-21T22:55:54.310Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -574,7 +574,7 @@
 	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-tests/master/TEI-letter-NERVEandSCRAPEtesting-May3?place_annotation_20190503091510",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2019-05-03T15:15:10.835Z",
-	"dcterms:issued": "2020-01-21T22:51:46.604Z",
+	"dcterms:issued": "2020-01-21T22:55:54.310Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -649,7 +649,7 @@
 	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-tests/master/TEI-letter-NERVEandSCRAPEtesting-May3?place_annotation_20190503091510",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2019-05-03T15:15:10.835Z",
-	"dcterms:issued": "2020-01-21T22:51:46.604Z",
+	"dcterms:issued": "2020-01-21T22:55:54.310Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -724,7 +724,7 @@
 	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-tests/master/TEI-letter-NERVEandSCRAPEtesting-May3?place_annotation_20190503091510",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2019-05-03T15:15:10.835Z",
-	"dcterms:issued": "2020-01-21T22:51:46.604Z",
+	"dcterms:issued": "2020-01-21T22:55:54.310Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -799,7 +799,7 @@
 	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-tests/master/TEI-letter-NERVEandSCRAPEtesting-May3?person_annotation_20190503091510",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2019-05-03T15:15:10.837Z",
-	"dcterms:issued": "2020-01-21T22:51:46.604Z",
+	"dcterms:issued": "2020-01-21T22:55:54.310Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -874,7 +874,7 @@
 	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-tests/master/TEI-letter-NERVEandSCRAPEtesting-May3?place_annotation_20190503091510",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2019-05-03T15:15:10.837Z",
-	"dcterms:issued": "2020-01-21T22:51:46.605Z",
+	"dcterms:issued": "2020-01-21T22:55:54.310Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -949,7 +949,7 @@
 	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-tests/master/TEI-letter-NERVEandSCRAPEtesting-May3?place_annotation_20190503091510",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2019-05-03T15:15:10.837Z",
-	"dcterms:issued": "2020-01-21T22:51:46.605Z",
+	"dcterms:issued": "2020-01-21T22:55:54.310Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -1024,7 +1024,7 @@
 	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-tests/master/TEI-letter-NERVEandSCRAPEtesting-May3?place_annotation_20190503091510",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2019-05-03T15:15:10.837Z",
-	"dcterms:issued": "2020-01-21T22:51:46.605Z",
+	"dcterms:issued": "2020-01-21T22:55:54.310Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -1099,7 +1099,7 @@
 	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-tests/master/TEI-letter-NERVEandSCRAPEtesting-May3?person_annotation_20190503091510",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2019-05-03T15:15:10.837Z",
-	"dcterms:issued": "2020-01-21T22:51:46.605Z",
+	"dcterms:issued": "2020-01-21T22:55:54.311Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -1153,7 +1153,7 @@
 				<opener>
 					<note>
 						<p>Bad writing due to shaky train</p><p>In train</p><p>
-							<placeName cert="definite" ref="http://www.geonames.org/6453366">Oslo</placeName> to <placeName key="Bergen" ref="http://geonames.org/3161732">Bergen</placeName></p>
+							<placeName cert="medium" ref="http://www.geonames.org/6453366" key="Oslo, Norway">Oslo</placeName> to <placeName key="Bergen" ref="http://geonames.org/3161732">Bergen</placeName></p>
 					</note>
 					<dateline>
 						<date cert="definite" when="1935-10-21">21.10.35</date>
