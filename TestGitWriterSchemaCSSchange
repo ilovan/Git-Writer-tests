@@ -44,7 +44,7 @@
 	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-tests/master/TestGitWriterSchemaCSSchange?note_annotation_20200122102830",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2020-01-22T17:28:30.300Z",
-	"dcterms:issued": "2020-01-22T17:47:56.631Z",
+	"dcterms:issued": "2020-01-22T17:50:15.053Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -117,7 +117,7 @@
 	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-tests/master/TestGitWriterSchemaCSSchange?note_annotation_20200122103153",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2020-01-22T17:31:53.124Z",
-	"dcterms:issued": "2020-01-22T17:47:56.635Z",
+	"dcterms:issued": "2020-01-22T17:50:15.055Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -149,7 +149,7 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": ""
+		"@type": "cwrc:NoteInternal"
 	},
 	"as:generator": {
 		"@id": "https://cwrc-writer.cwrc.ca/",
@@ -190,7 +190,7 @@
 	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-tests/master/TestGitWriterSchemaCSSchange?person_annotation_20200122103511",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2020-01-22T17:35:11.089Z",
-	"dcterms:issued": "2020-01-22T17:47:56.635Z",
+	"dcterms:issued": "2020-01-22T17:50:15.056Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -265,7 +265,7 @@
 	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-tests/master/TestGitWriterSchemaCSSchange?org_annotation_20200122103511",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2020-01-22T17:35:11.094Z",
-	"dcterms:issued": "2020-01-22T17:47:56.636Z",
+	"dcterms:issued": "2020-01-22T17:50:15.056Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -340,7 +340,7 @@
 	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-tests/master/TestGitWriterSchemaCSSchange?place_annotation_20200122103511",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2020-01-22T17:35:11.096Z",
-	"dcterms:issued": "2020-01-22T17:47:56.636Z",
+	"dcterms:issued": "2020-01-22T17:50:15.056Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -415,7 +415,7 @@
 	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-tests/master/TestGitWriterSchemaCSSchange?person_annotation_20200122103511",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2020-01-22T17:35:11.099Z",
-	"dcterms:issued": "2020-01-22T17:47:56.636Z",
+	"dcterms:issued": "2020-01-22T17:50:15.057Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -459,10 +459,160 @@
 		"schema:softwareVersion": "1.0"
 	}
 }
+]]></rdf:Description>
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#"
+	},
+	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-tests/master/TestGitWriterSchemaCSSchange?note_annotation_20200122104839",
+	"@type": "oa:Annotation",
+	"dcterms:created": "2020-01-22T17:48:39.349Z",
+	"dcterms:issued": "2020-01-22T17:50:15.057Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ilovan",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Mihaela Ilovan",
+		"foaf:nick": "ilovan"
+	},
+	"oa:motivatedBy": "oa:describing",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-tests/master/TestGitWriterSchemaCSSchange?note_annotation_20200122104839#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-tests/master/TestGitWriterSchemaCSSchange",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://cwrc-writer.cwrc.ca/",
+			"@type": "as:Application",
+			"rdfs:label": "CWRC Writer",
+			"schema:softwareVersion": "1.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-tests/master/TestGitWriterSchemaCSSchange?note_annotation_20200122104839#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[3]/note"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NoteInternal",
+		"dc:format": "text/plain",
+		"rdf:value": "This is a note on my paragraph that contains a person entity: Margaret Atwood"
+	},
+	"as:generator": {
+		"@id": "https://cwrc-writer.cwrc.ca/",
+		"@type": "as:Application",
+		"rdfs:label": "CWRC Writer",
+		"schema:url": "https://cwrc-writer.cwrc.ca",
+		"schema:softwareVersion": "1.0"
+	}
+}
+]]></rdf:Description>
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#"
+	},
+	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-tests/master/TestGitWriterSchemaCSSchange?note_annotation_20200122104846",
+	"@type": "oa:Annotation",
+	"dcterms:created": "2020-01-22T17:48:46.715Z",
+	"dcterms:issued": "2020-01-22T17:50:15.057Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ilovan",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Mihaela Ilovan",
+		"foaf:nick": "ilovan"
+	},
+	"oa:motivatedBy": "oa:describing",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-tests/master/TestGitWriterSchemaCSSchange?note_annotation_20200122104846#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-tests/master/TestGitWriterSchemaCSSchange",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://cwrc-writer.cwrc.ca/",
+			"@type": "as:Application",
+			"rdfs:label": "CWRC Writer",
+			"schema:softwareVersion": "1.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-tests/master/TestGitWriterSchemaCSSchange?note_annotation_20200122104846#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[3]/note[2]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NoteInternal",
+		"dc:format": "text/plain",
+		"rdf:value": "Let's write something here, with an organization entity: UNICEF."
+	},
+	"as:generator": {
+		"@id": "https://cwrc-writer.cwrc.ca/",
+		"@type": "as:Application",
+		"rdfs:label": "CWRC Writer",
+		"schema:url": "https://cwrc-writer.cwrc.ca",
+		"schema:softwareVersion": "1.0"
+	}
+}
 ]]></rdf:Description></rdf:RDF></xenoData></teiHeader>
     <text>
         <body>
-            <div><p/><p>This is some text.</p><p>Blah Blah.<note type="researchNote">This is a note on my paragraph that contains a person entity: <rs key="Margaret Atwood" type="http://sparql.cwrc.ca/ontologies/cwrc#PersonalName" ref="http://dbpedia.org/resource/Margaret_Atwood">Margaret Atwood</rs></note><note type="researchNote">Let's write something here, with an organization entity: <rs key="UNICEF" type="http://sparql.cwrc.ca/ontologies/cwrc#PersonalName" ref="http://www.wikidata.org/entity/Q740308">UNICEF</rs>.</note><note>Let's write something else here, with a place entity:<rs key="Lisbon" type="http://sparql.cwrc.ca/ontologies/cwrc#PersonalName" ref="http://www.wikidata.org/entity/Q597"> Lisbo</rs>n</note><note>Let's write something else, with another person entity: <rs key="Alice Munro" type="http://sparql.cwrc.ca/ontologies/cwrc#PersonalName" ref="http://dbpedia.org/resource/Alice_Munro">Alice Munro</rs>. </note></p></div>
+            <div><p/><p>This is some text.</p><p>Blah Blah.<note type="researchNote">This is a note on my paragraph that contains a person entity: <rs key="Margaret Atwood" type="http://sparql.cwrc.ca/ontologies/cwrc#PersonalName" ref="http://dbpedia.org/resource/Margaret_Atwood">Margaret Atwood</rs></note><note type="researchNote">Let's write something here, with an organization entity: <rs key="UNICEF" type="http://sparql.cwrc.ca/ontologies/cwrc#PersonalName" ref="http://www.wikidata.org/entity/Q740308">UNICEF</rs>.</note><note>Let's write something else here, with a place entity:<rs key="Lisbon" type="http://sparql.cwrc.ca/ontologies/cwrc#PersonalName" ref="http://www.wikidata.org/entity/Q597"> Lisbo</rs>n</note><note type="researchNote">Let's write something else, with another person entity: <rs key="Alice Munro" type="http://sparql.cwrc.ca/ontologies/cwrc#PersonalName" ref="http://dbpedia.org/resource/Alice_Munro">Alice Munro</rs>. </note></p></div>
         </body>
     </text>
 </TEI>
