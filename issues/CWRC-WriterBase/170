@@ -1,0 +1,1478 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cwrc.ca/schemas/cwrc_entry.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/obsolete/playwrights-noRN.css"?><CWRC xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" SEX="female">
+    <CWRCHEADER>
+        <FILEDESC>
+            <TITLESTMT>
+                <DOCTITLE>Canadian Women Playwrights Project Template</DOCTITLE>
+            </TITLESTMT>
+            <PUBLICATIONSTMT>
+                <AUTHORITY>Canadian Women Playwrights Project</AUTHORITY>
+            </PUBLICATIONSTMT>
+            <SOURCEDESC>Entries created from responses to a survey conducted in collaboration with the Playwrights Guild of Canada, supplemented by original research by project members.</SOURCEDESC>
+        </FILEDESC>
+        <REVISIONDESC>
+            <WORKFLOW RESP="SYS" WORKCATEGORY="published" WORKSTATUS="C">
+                <DATE>2014-06-16</DATE>
+                <ITEM>Template created</ITEM>
+            </WORKFLOW>
+        </REVISIONDESC>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+</rdf:RDF></CWRCHEADER>
+    <ENTRY>
+        <RESEARCHNOTE>[First Name] [Last Name]</RESEARCHNOTE>
+        <HEADING SUBTYPE="1">Bettyjane Wylie</HEADING>
+        <HEADING SUBTYPE="2">Biography</HEADING>
+        <HEADING SUBTYPE="3">Personal Information</HEADING>
+        <PERSONNAME>
+            <P>
+                <BIRTHNAME>
+                    <RESEARCHNOTE>[First Name] [Middle Name]</RESEARCHNOTE>
+                    <GIVEN>Bettyjane</GIVEN>
+                    <GIVEN> </GIVEN>
+                    <RESEARCHNOTE>[Last name at birth]</RESEARCHNOTE>
+                    <SURNAME>McKenty </SURNAME>
+                </BIRTHNAME>
+                <RESEARCHNOTE>[Nickname if present]</RESEARCHNOTE>
+                <NICKNAME>B.J.</NICKNAME>
+            </P>
+        </PERSONNAME>
+        <RESEARCHNOTE>[Date of birth (dd mm yyyy)]</RESEARCHNOTE>
+        <BIRTH>
+            <CHRONSTRUCT>
+                <DATE>Birthday: 21/02/1931</DATE>
+                <CHRONPROSE>, <RESEARCHNOTE>[Place of Birth]</RESEARCHNOTE> <PLACE>Place of Birth: Winnipeg,Manitoba</PLACE></CHRONPROSE>
+            </CHRONSTRUCT>
+        </BIRTH>
+        <RESEARCHNOTE>[Raised]</RESEARCHNOTE>
+        <RESIDENCEANDMOBILITY RELATIONTO="LIVED">
+            <P><PLACE>Place Raised: Winnipeg, Manitoba</PLACE><RESEARCHNOTE>[Current Residence]</RESEARCHNOTE>Current Residence: Toronto, Ontario</P>
+        </RESIDENCEANDMOBILITY>
+        <RESEARCHNOTE>[Do you identify yourself as a regional playwright?]</RESEARCHNOTE>
+        <PRODUCTION>
+            <P>
+                <PLITERARYMOVEMENTS>Identify as a regional playwright: No</PLITERARYMOVEMENTS>
+            </P>
+        </PRODUCTION>
+        <RESEARCHNOTE>[Gender]</RESEARCHNOTE>
+        <CULTURALFORMATION>
+            <P>
+                <SEXUALIDENTITY>
+                    <GENDER>Female</GENDER>
+                </SEXUALIDENTITY>
+            </P>
+            <RESEARCHNOTE>[Sexual Identity/Orientation]</RESEARCHNOTE>
+            <P>
+                <SEXUALIDENTITY>Sexual Identity: Heterosexual</SEXUALIDENTITY>
+            </P>
+            <RESEARCHNOTE>[Region(s)]</RESEARCHNOTE>
+            <P>
+                <RESEARCHNOTE>[National/Ethnic Background]</RESEARCHNOTE>
+                <NATIONALHERITAGE>National/Ethnic Background: Icelandic</NATIONALHERITAGE>
+            </P>
+            <RESEARCHNOTE>Instruction for tagger: Change to racecolour or ethnicity tag if needed</RESEARCHNOTE>
+            <P>
+                <RESEARCHNOTE>[Religious Affiliation]</RESEARCHNOTE>
+                <DENOMINATION>None given</DENOMINATION>
+            </P>
+            <RESEARCHNOTE>Note to tagger: use a single but a separate INTIMATERELATIONSHIPS tag or FAMILY/MEMBER/HUSBAND tag for each relationship </RESEARCHNOTE>
+            <CLASSISSUE>
+                <P></P>
+            </CLASSISSUE>
+        </CULTURALFORMATION>
+        <FAMILY>
+            <P></P>
+            <RESEARCHNOTE>[Relationship Status]</RESEARCHNOTE>
+            <MARRIAGE>
+                <P>Relationship Status: widowed</P>
+            </MARRIAGE>
+            <RESEARCHNOTE>If playwrights choose the "common law" option as their relationship status, it would need to be reflected in the following questions (e.e: rather than "marital relationship type" it would read "common-law relationship type"). This option accounts for (3a2) question in the original survey.</RESEARCHNOTE>
+            <RESEARCHNOTE>[Marital Relationship type]</RESEARCHNOTE>
+            <RESEARCHNOTE>[Different Relationship type]</RESEARCHNOTE>
+            <RESEARCHNOTE>[Name of Current Partner (if applicable)]</RESEARCHNOTE>
+            <MARRIAGE>
+                <P>
+                    <NAME>Current Partner: </NAME>
+                </P>
+            </MARRIAGE>
+            <RESEARCHNOTE>[Name(s) of Previous Partner(s) (if applicable)]</RESEARCHNOTE>
+            <P>Previous Partner(s): William Tennant (Bill) Wylie, deceased<RESEARCHNOTE>[Children]</RESEARCHNOTE><CHILDREN NUMBER="2">Number of Children: 4</CHILDREN></P>
+        </FAMILY>
+        <RECEPTION>
+            <RSELFDESCRIPTION>Website: bettyjanewylie.com <RESEARCHNOTE>[Professional website]</RESEARCHNOTE></RSELFDESCRIPTION>
+        </RECEPTION>
+        <OCCUPATION>
+            <P>Literary Agent: <NAME></NAME><RESEARCHNOTE>Name/contact info of the literary agent</RESEARCHNOTE></P>
+        </OCCUPATION>
+        <HEADING SUBTYPE="3">Education and Training</HEADING>
+        <RESEARCHNOTE>Subcategory of Biography</RESEARCHNOTE>
+        <RESEARCHNOTE>Note to tagger: use mode of education attribute on EDUCATION tag: if there are multiple modes of education then multiple education tags are needed. If there are mentions of schools by name then use SCHOOL tag (once available) and ORGNAME tag within SCHOOLS tag; note in attribute on SCHOOL tag the level of the school. If there are subject(s) of study then use the SUBJECT tag.</RESEARCHNOTE>
+        <HEADING SUBTYPE="4">Theatre-Related Education or Training</HEADING>
+        <EDUCATION>
+            <RESEARCHNOTE>[Theatre Related Education/ Formal Training (Year Started-Year Ended]</RESEARCHNOTE>
+            <RESEARCHNOTE>For all transformed entries: if one of the chronstructs listed below is invalid because it is missing a date or a daterange elemelement, change the CHRONSTRUCT into a DATASTRUCT and the CHRONPROSE inside it into a DATAITEM</RESEARCHNOTE>
+            <CHRONSTRUCT>
+                <DATERANGE>-</DATERANGE>
+                <CHRONPROSE><RESEARCHNOTE>[Theatre Related Education/ Formal Training (Name of Institution)]</RESEARCHNOTE><ORGNAME></ORGNAME>, <RESEARCHNOTE>[Theatre Related Education/ Formal Training (Name of Program)]</RESEARCHNOTE><DEGREE></DEGREE>, <RESEARCHNOTE>[Theatre Related Education/ Formal Training (Did you complete or graduate from the program?)]</RESEARCHNOTE>.<RESEARCHNOTE>If "Yes" then render as "Completed"; if "No" then render as "Incomplete"</RESEARCHNOTE><RESEARCHNOTE>Optional additional program: </RESEARCHNOTE></CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATERANGE>-</DATERANGE>
+                <CHRONPROSE><RESEARCHNOTE>[Theatre Related Education/ Formal Training (Name of Institution)]</RESEARCHNOTE><ORGNAME></ORGNAME>, <RESEARCHNOTE>[Theatre Related Education/ Formal Training (Name of Program)]</RESEARCHNOTE><DEGREE></DEGREE>, <RESEARCHNOTE>[Theatre Related Education/ Formal Training (Did you complete or graduate from the program?)]</RESEARCHNOTE>.<RESEARCHNOTE>If "Yes" then render as "Completed"; if "No" then render as "Incomplete"</RESEARCHNOTE><RESEARCHNOTE>Optional additional program: </RESEARCHNOTE></CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATERANGE>-</DATERANGE>
+                <CHRONPROSE><RESEARCHNOTE>[Theatre Related Education/ Formal Training (Name of Institution)]</RESEARCHNOTE><ORGNAME></ORGNAME>, <RESEARCHNOTE>[Theatre Related Education/ Formal Training (Name of Program)]</RESEARCHNOTE><DEGREE></DEGREE>, <RESEARCHNOTE>[Theatre Related Education/ Formal Training (Did you complete or graduate from the program?)]</RESEARCHNOTE>.<RESEARCHNOTE>If "Yes" then render as "Completed"; if "No" then render as "Incomplete"</RESEARCHNOTE><RESEARCHNOTE>Optional additional program: </RESEARCHNOTE></CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATERANGE>-</DATERANGE>
+                <CHRONPROSE><RESEARCHNOTE>[Theatre Related Education/ Formal Training (Name of Institution)]</RESEARCHNOTE><ORGNAME></ORGNAME>, <RESEARCHNOTE>[Theatre Related Education/ Formal Training (Name of Program)]</RESEARCHNOTE><DEGREE></DEGREE>, <RESEARCHNOTE>[Theatre Related Education/ Formal Training (Did you complete or graduate from the program?)]</RESEARCHNOTE>.<RESEARCHNOTE>If "Yes" then render as "Completed"; if "No" then render as "Incomplete"</RESEARCHNOTE><RESEARCHNOTE>Optional additional program: </RESEARCHNOTE></CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATERANGE>-</DATERANGE>
+                <CHRONPROSE><RESEARCHNOTE>[Theatre Related Education/ Formal Training (Name of Institution)]</RESEARCHNOTE><ORGNAME></ORGNAME>, <RESEARCHNOTE>[Theatre Related Education/ Formal Training (Name of Program)]</RESEARCHNOTE><DEGREE></DEGREE>, <RESEARCHNOTE>[Theatre Related Education/ Formal Training (Did you complete or graduate from the program?)]</RESEARCHNOTE>.<RESEARCHNOTE>If "Yes" then render as "Completed"; if "No" then render as "Incomplete"</RESEARCHNOTE></CHRONPROSE>
+            </CHRONSTRUCT>
+            <HEADING SUBTYPE="4">Non-Theatre-Related Education</HEADING>
+            <CHRONSTRUCT>
+                <DATERANGE><RESEARCHNOTE>[Non-Theatre Related Education/ Formal Training (Year Started-Year Ended]</RESEARCHNOTE>-1951</DATERANGE>
+                <CHRONPROSE><RESEARCHNOTE>[Non-Theatre Related Education/ Formal Training (Name of Institution)]</RESEARCHNOTE><ORGNAME>University of Manitoba</ORGNAME>, <RESEARCHNOTE>[Non-Theatre Related Education/ Formal Training (Name of Program)]</RESEARCHNOTE><DEGREE>B.A. (Hons.) in French and English</DEGREE>, <RESEARCHNOTE>[Theatre Related Education/ Formal Training (Did you complete or graduate from the program?)]</RESEARCHNOTE>Completed.<RESEARCHNOTE>If "Yes" then render as "Completed"; if "No" then render as "Incomplete"</RESEARCHNOTE></CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATERANGE><RESEARCHNOTE>[Non-Theatre Related Education/ Formal Training (Year Started-Year Ended]</RESEARCHNOTE>-1952</DATERANGE>
+                <CHRONPROSE><RESEARCHNOTE>[Non-Theatre Related Education/ Formal Training (Name of Institution)]</RESEARCHNOTE><ORGNAME>University of Manitoba</ORGNAME>, <RESEARCHNOTE>[Non-Theatre Related Education/ Formal Training (Name of Program)]</RESEARCHNOTE><DEGREE>M.A. in English</DEGREE>, <RESEARCHNOTE>[Theatre Related Education/ Formal Training (Did you complete or graduate from the program?)]</RESEARCHNOTE>Completed.<RESEARCHNOTE>If "Yes" then render as "Completed"; if "No" then render as "Incomplete"</RESEARCHNOTE></CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATERANGE><RESEARCHNOTE>[Non-Theatre Related Education/ Formal Training (Year Started-Year Ended]</RESEARCHNOTE>1989-1990</DATERANGE>
+                <CHRONPROSE><RESEARCHNOTE>[Non-Theatre Related Education/ Formal Training (Name of Institution)]</RESEARCHNOTE><ORGNAME>Radcliffe/Harvard</ORGNAME>, <RESEARCHNOTE>[Non-Theatre Related Education/ Formal Training (Name of Program)]</RESEARCHNOTE><DEGREE>Bunting Institute Fellowship</DEGREE>, <RESEARCHNOTE>[Theatre Related Education/ Formal Training (Did you complete or graduate from the program?)]</RESEARCHNOTE>Completed.<RESEARCHNOTE>If "Yes" then render as "Completed"; if "No" then render as "Incomplete"</RESEARCHNOTE></CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATERANGE><RESEARCHNOTE>[Non-Theatre Related Education/ Formal Training (Year Started-Year Ended]</RESEARCHNOTE>-</DATERANGE>
+                <CHRONPROSE><RESEARCHNOTE>[Non-Theatre Related Education/ Formal Training (Name of Institution)]</RESEARCHNOTE><ORGNAME></ORGNAME>, <RESEARCHNOTE>[Non-Theatre Related Education/ Formal Training (Name of Program)]</RESEARCHNOTE><DEGREE></DEGREE>, <RESEARCHNOTE>[Theatre Related Education/ Formal Training (Did you complete or graduate from the program?)]</RESEARCHNOTE>.<RESEARCHNOTE>If "Yes" then render as "Completed"; if "No" then render as "Incomplete"</RESEARCHNOTE><RESEARCHNOTE>Optional additional program: </RESEARCHNOTE></CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATERANGE><RESEARCHNOTE>[Non-Theatre Related Education/ Formal Training (Year Started-Year Ended]</RESEARCHNOTE>-</DATERANGE>
+                <CHRONPROSE><RESEARCHNOTE>[Non-Theatre Related Education/ Formal Training (Name of Institution)]</RESEARCHNOTE><ORGNAME></ORGNAME>, <RESEARCHNOTE>[Non-Theatre Related Education/ Formal Training (Name of Program)]</RESEARCHNOTE><DEGREE></DEGREE>, <RESEARCHNOTE>[Theatre Related Education/ Formal Training (Did you complete or graduate from the program?)]</RESEARCHNOTE>.<RESEARCHNOTE>If "Yes" then render as "Completed"; if "No" then render as "Incomplete"</RESEARCHNOTE></CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATERANGE><RESEARCHNOTE>[Non-Theatre Related Education/ Formal Training (Year Started-Year Ended]</RESEARCHNOTE>-</DATERANGE>
+                <CHRONPROSE><RESEARCHNOTE>[Non-Theatre Related Education/ Formal Training (Name of Institution)]</RESEARCHNOTE><ORGNAME></ORGNAME>, <RESEARCHNOTE>[Non-Theatre Related Education/ Formal Training (Name of Program)]</RESEARCHNOTE><DEGREE></DEGREE>, <RESEARCHNOTE>[Theatre Related Education/ Formal Training (Did you complete or graduate from the program?)]</RESEARCHNOTE>.<RESEARCHNOTE>If "Yes" then render as "Completed"; if "No" then render as "Incomplete"</RESEARCHNOTE></CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATERANGE><RESEARCHNOTE>[Non-Theatre Related Education/ Formal Training (Year Started-Year Ended]</RESEARCHNOTE>-</DATERANGE>
+                <CHRONPROSE><RESEARCHNOTE>[Non-Theatre Related Education/ Formal Training (Name of Institution)]</RESEARCHNOTE><ORGNAME></ORGNAME>, <RESEARCHNOTE>[Non-Theatre Related Education/ Formal Training (Name of Program)]</RESEARCHNOTE><DEGREE></DEGREE>, <RESEARCHNOTE>[Theatre Related Education/ Formal Training (Did you complete or graduate from the program?)]</RESEARCHNOTE>.<RESEARCHNOTE>If "Yes" then render as "Completed"; if "No" then render as "Incomplete"</RESEARCHNOTE></CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATERANGE><RESEARCHNOTE>[Non-Theatre Related Education/ Formal Training (Year Started-Year Ended]</RESEARCHNOTE>-</DATERANGE>
+                <CHRONPROSE><RESEARCHNOTE>[Non-Theatre Related Education/ Formal Training (Name of Institution)]</RESEARCHNOTE><ORGNAME></ORGNAME>, <RESEARCHNOTE>[Non-Theatre Related Education/ Formal Training (Name of Program)]</RESEARCHNOTE><DEGREE></DEGREE>, <RESEARCHNOTE>[Theatre Related Education/ Formal Training (Did you complete or graduate from the program?)]</RESEARCHNOTE>.<RESEARCHNOTE>If "Yes" then render as "Completed"; if "No" then render as "Incomplete"</RESEARCHNOTE><RESEARCHNOTE>Optional additional program: </RESEARCHNOTE></CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATERANGE><RESEARCHNOTE>[Non-Theatre Related Education/ Formal Training (Year Started-Year Ended]</RESEARCHNOTE>-</DATERANGE>
+                <CHRONPROSE><RESEARCHNOTE>[Non-Theatre Related Education/ Formal Training (Name of Institution)]</RESEARCHNOTE><ORGNAME></ORGNAME>, <RESEARCHNOTE>[Non-Theatre Related Education/ Formal Training (Name of Program)]</RESEARCHNOTE><DEGREE></DEGREE>, <RESEARCHNOTE>[Theatre Related Education/ Formal Training (Did you complete or graduate from the program?)]</RESEARCHNOTE>.<RESEARCHNOTE>If "Yes" then render as "Completed"; if "No" then render as "Incomplete"</RESEARCHNOTE></CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATERANGE><RESEARCHNOTE>[Non-Theatre Related Education/ Formal Training (Year Started-Year Ended]</RESEARCHNOTE>-</DATERANGE>
+                <CHRONPROSE><RESEARCHNOTE>[Non-Theatre Related Education/ Formal Training (Name of Institution)]</RESEARCHNOTE><ORGNAME></ORGNAME>, <RESEARCHNOTE>[Non-Theatre Related Education/ Formal Training (Name of Program)]</RESEARCHNOTE><DEGREE></DEGREE>, <RESEARCHNOTE>[Theatre Related Education/ Formal Training (Did you complete or graduate from the program?)]</RESEARCHNOTE>.<RESEARCHNOTE>If "Yes" then render as "Completed"; if "No" then render as "Incomplete"</RESEARCHNOTE></CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATERANGE><RESEARCHNOTE>[Non-Theatre Related Education/ Formal Training (Year Started-Year Ended]</RESEARCHNOTE>-</DATERANGE>
+                <CHRONPROSE><RESEARCHNOTE>[Non-Theatre Related Education/ Formal Training (Name of Institution)]</RESEARCHNOTE><ORGNAME></ORGNAME>, <RESEARCHNOTE>[Non-Theatre Related Education/ Formal Training (Name of Program)]</RESEARCHNOTE><DEGREE></DEGREE>, <RESEARCHNOTE>[Theatre Related Education/ Formal Training (Did you complete or graduate from the program?)]</RESEARCHNOTE>.<RESEARCHNOTE>If "Yes" then render as "Completed"; if "No" then render as "Incomplete"</RESEARCHNOTE></CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATERANGE><RESEARCHNOTE>[Non-Theatre Related Education/ Formal Training (Year Started-Year Ended]</RESEARCHNOTE>-</DATERANGE>
+                <CHRONPROSE><RESEARCHNOTE>[Non-Theatre Related Education/ Formal Training (Name of Institution)]</RESEARCHNOTE><ORGNAME></ORGNAME>, <RESEARCHNOTE>[Non-Theatre Related Education/ Formal Training (Name of Program)]</RESEARCHNOTE><DEGREE></DEGREE>, <RESEARCHNOTE>[Theatre Related Education/ Formal Training (Did you complete or graduate from the program?)]</RESEARCHNOTE>.<RESEARCHNOTE>If "Yes" then render as "Completed"; if "No" then render as "Incomplete"</RESEARCHNOTE></CHRONPROSE>
+            </CHRONSTRUCT>
+        </EDUCATION>
+        <HEADING SUBTYPE="3">Career Highlights</HEADING>
+        <HEADING SUBTYPE="4">Playwriting</HEADING>
+        <OTHERLIFEEVENT>
+            <CHRONSTRUCT>
+                <DATERANGE><RESEARCHNOTE>[Playwriting Highlight (Year)]</RESEARCHNOTE>1989-1990</DATERANGE>
+                <CHRONPROSE>Bunting Institute Fellowship, Radcliffe College<RESEARCHNOTE>[Playwriting Highlight (Highlight Event)]</RESEARCHNOTE></CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATERANGE><RESEARCHNOTE>[Playwriting Highlight (Year)]</RESEARCHNOTE>1989-90</DATERANGE>
+                <CHRONPROSE>Alumni Jubilee Award, University of Manitoba<RESEARCHNOTE>[Playwriting Highlight (Highlight Event)]</RESEARCHNOTE></CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATERANGE><RESEARCHNOTE>[Playwriting Highlight (Year)]</RESEARCHNOTE>1989</DATERANGE>
+                <CHRONPROSE>Canadian Nurses' Association Media Award: "Victorian Spice" (CBC Dramatic Radio Series)<RESEARCHNOTE>[Playwriting Highlight (Highlight Event)]</RESEARCHNOTE></CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATERANGE><RESEARCHNOTE>[Playwriting Highlight (Year)]</RESEARCHNOTE>1995</DATERANGE>
+                <CHRONPROSE>Education Award, Psychological Foundation of Ontario for Successfully Single: How to Live Alone and Like It.<RESEARCHNOTE>[Playwriting Highlight (Highlight Event)]</RESEARCHNOTE></CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATERANGE><RESEARCHNOTE>[Playwriting Highlight (Year)]</RESEARCHNOTE>2003</DATERANGE>
+                <CHRONPROSE>D.Litt. Honorary doctorate, University of Manitoba<RESEARCHNOTE>[Playwriting Highlight (Highlight Event)]</RESEARCHNOTE><RESEARCHNOTE>Optional additional career highlight: Yes</RESEARCHNOTE></CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATERANGE><RESEARCHNOTE>[Playwriting Highlight (Year)]</RESEARCHNOTE>2003</DATERANGE>
+                <CHRONPROSE>Order of Canada<RESEARCHNOTE>[Playwriting Highlight (Highlight Event)]</RESEARCHNOTE></CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATERANGE>
+                    <RESEARCHNOTE>[Playwriting Highlight (Year)]</RESEARCHNOTE>
+                </DATERANGE>
+                <CHRONPROSE>
+                    <RESEARCHNOTE>[Playwriting Highlight (Highlight Event)]</RESEARCHNOTE>
+                </CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATERANGE>
+                    <RESEARCHNOTE>[Playwriting Highlight (Year)]</RESEARCHNOTE>
+                </DATERANGE>
+                <CHRONPROSE>
+                    <RESEARCHNOTE>[Playwriting Highlight (Highlight Event)]</RESEARCHNOTE>
+                </CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATERANGE>
+                    <RESEARCHNOTE>[Playwriting Highlight (Year)]</RESEARCHNOTE>
+                </DATERANGE>
+                <CHRONPROSE>
+                    <RESEARCHNOTE>[Playwriting Highlight (Highlight Event)]</RESEARCHNOTE>
+                </CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATERANGE>
+                    <RESEARCHNOTE>[Playwriting Highlight (Year)]</RESEARCHNOTE>
+                </DATERANGE>
+                <CHRONPROSE>
+                    <RESEARCHNOTE>[Playwriting Highlight (Highlight Event)]</RESEARCHNOTE>
+                    <RESEARCHNOTE>Optional additional career highlight: </RESEARCHNOTE>
+                </CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATERANGE>
+                    <RESEARCHNOTE>[Playwriting Highlight (Year)]</RESEARCHNOTE>
+                </DATERANGE>
+                <CHRONPROSE>
+                    <RESEARCHNOTE>[Playwriting Highlight (Highlight Event)]</RESEARCHNOTE>
+                </CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATERANGE>
+                    <RESEARCHNOTE>[Playwriting Highlight (Year)]</RESEARCHNOTE>
+                </DATERANGE>
+                <CHRONPROSE>
+                    <RESEARCHNOTE>[Playwriting Highlight (Highlight Event)]</RESEARCHNOTE>
+                </CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATERANGE>
+                    <RESEARCHNOTE>[Playwriting Highlight (Year)]</RESEARCHNOTE>
+                </DATERANGE>
+                <CHRONPROSE>
+                    <RESEARCHNOTE>[Playwriting Highlight (Highlight Event)]</RESEARCHNOTE>
+                </CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATERANGE>
+                    <RESEARCHNOTE>[Playwriting Highlight (Year)]</RESEARCHNOTE>
+                </DATERANGE>
+                <CHRONPROSE>
+                    <RESEARCHNOTE>[Playwriting Highlight (Highlight Event)]</RESEARCHNOTE>
+                </CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATERANGE>
+                    <RESEARCHNOTE>[Playwriting Highlight (Year)]</RESEARCHNOTE>
+                </DATERANGE>
+                <CHRONPROSE>
+                    <RESEARCHNOTE>[Playwriting Highlight (Highlight Event)]</RESEARCHNOTE>
+                </CHRONPROSE>
+            </CHRONSTRUCT>
+        </OTHERLIFEEVENT>
+        <HEADING SUBTYPE="4">Theatre</HEADING>
+        <OCCUPATION>
+            <CHRONSTRUCT>
+                <DATERANGE>
+                    <RESEARCHNOTE>[Theatre-Related work (Year)]</RESEARCHNOTE>
+                </DATERANGE>
+                <CHRONPROSE><RESEARCHNOTE>[Theatre-Related work (Activity/Role)]</RESEARCHNOTE><JOBTITLE></JOBTITLE>, <RESEARCHNOTE>[Theatre-Related work (Name of Production)]</RESEARCHNOTE><TITLE LEVEL="MONOGRAPHIC"></TITLE><RESEARCHNOTE>[Theatre-Related work (Theatre Company)]</RESEARCHNOTE><ORGNAME></ORGNAME></CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATERANGE>
+                    <RESEARCHNOTE>[Theatre-Related work (Year)]</RESEARCHNOTE>
+                </DATERANGE>
+                <CHRONPROSE><RESEARCHNOTE>[Theatre-Related work (Activity/Role)]</RESEARCHNOTE><JOBTITLE></JOBTITLE>, <RESEARCHNOTE>[Theatre-Related work (Name of Production)]</RESEARCHNOTE><TITLE LEVEL="MONOGRAPHIC"></TITLE><RESEARCHNOTE>[Theatre-Related work (Theatre Company)]</RESEARCHNOTE><ORGNAME></ORGNAME></CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATERANGE>
+                    <RESEARCHNOTE>[Theatre-Related work (Year)]</RESEARCHNOTE>
+                </DATERANGE>
+                <CHRONPROSE><RESEARCHNOTE>[Theatre-Related work (Activity/Role)]</RESEARCHNOTE><JOBTITLE></JOBTITLE>, <RESEARCHNOTE>[Theatre-Related work (Name of Production)]</RESEARCHNOTE><TITLE LEVEL="MONOGRAPHIC"></TITLE><RESEARCHNOTE>[Theatre-Related work (Theatre Company)]</RESEARCHNOTE><ORGNAME></ORGNAME></CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATERANGE>
+                    <RESEARCHNOTE>[Theatre-Related work (Year)]</RESEARCHNOTE>
+                </DATERANGE>
+                <CHRONPROSE><RESEARCHNOTE>[Theatre-Related work (Activity/Role)]</RESEARCHNOTE><JOBTITLE></JOBTITLE>, <RESEARCHNOTE>[Theatre-Related work (Name of Production)]</RESEARCHNOTE><TITLE LEVEL="MONOGRAPHIC"></TITLE><RESEARCHNOTE>[Theatre-Related work (Theatre Company)]</RESEARCHNOTE><ORGNAME></ORGNAME></CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATERANGE>
+                    <RESEARCHNOTE>[Theatre-Related work (Year)]</RESEARCHNOTE>
+                </DATERANGE>
+                <CHRONPROSE><RESEARCHNOTE>[Theatre-Related work (Activity/Role)]</RESEARCHNOTE><JOBTITLE></JOBTITLE>, <RESEARCHNOTE>[Theatre-Related work (Name of Production)]</RESEARCHNOTE><TITLE LEVEL="MONOGRAPHIC"></TITLE><RESEARCHNOTE>[Theatre-Related work (Theatre Company)]</RESEARCHNOTE><ORGNAME></ORGNAME><RESEARCHNOTE>Optional additional career highlight: </RESEARCHNOTE></CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATERANGE>
+                    <RESEARCHNOTE>[Theatre-Related work (Year)]</RESEARCHNOTE>
+                </DATERANGE>
+                <CHRONPROSE><RESEARCHNOTE>[Theatre-Related work (Activity/Role)]</RESEARCHNOTE><JOBTITLE></JOBTITLE>, <RESEARCHNOTE>[Theatre-Related work (Name of Production)]</RESEARCHNOTE><TITLE LEVEL="MONOGRAPHIC"></TITLE><RESEARCHNOTE>[Theatre-Related work (Theatre Company)]</RESEARCHNOTE><ORGNAME></ORGNAME></CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATERANGE>
+                    <RESEARCHNOTE>[Theatre-Related work (Year)]</RESEARCHNOTE>
+                </DATERANGE>
+                <CHRONPROSE><RESEARCHNOTE>[Theatre-Related work (Activity/Role)]</RESEARCHNOTE><JOBTITLE></JOBTITLE>, <RESEARCHNOTE>[Theatre-Related work (Name of Production)]</RESEARCHNOTE><TITLE LEVEL="MONOGRAPHIC"></TITLE><RESEARCHNOTE>[Theatre-Related work (Theatre Company)]</RESEARCHNOTE><ORGNAME></ORGNAME></CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATERANGE>
+                    <RESEARCHNOTE>[Theatre-Related work (Year)]</RESEARCHNOTE>
+                </DATERANGE>
+                <CHRONPROSE><RESEARCHNOTE>[Theatre-Related work (Activity/Role)]</RESEARCHNOTE><JOBTITLE></JOBTITLE>, <RESEARCHNOTE>[Theatre-Related work (Name of Production)]</RESEARCHNOTE><TITLE LEVEL="MONOGRAPHIC"></TITLE><RESEARCHNOTE>[Theatre-Related work (Theatre Company)]</RESEARCHNOTE><ORGNAME></ORGNAME></CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATERANGE>
+                    <RESEARCHNOTE>[Theatre-Related work (Year)]</RESEARCHNOTE>
+                </DATERANGE>
+                <CHRONPROSE><RESEARCHNOTE>[Theatre-Related work (Activity/Role)]</RESEARCHNOTE><JOBTITLE></JOBTITLE>, <RESEARCHNOTE>[Theatre-Related work (Name of Production)]</RESEARCHNOTE><TITLE LEVEL="MONOGRAPHIC"></TITLE><RESEARCHNOTE>[Theatre-Related work (Theatre Company)]</RESEARCHNOTE><ORGNAME></ORGNAME></CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATERANGE>
+                    <RESEARCHNOTE>[Theatre-Related work (Year)]</RESEARCHNOTE>
+                </DATERANGE>
+                <CHRONPROSE><RESEARCHNOTE>[Theatre-Related work (Activity/Role)]</RESEARCHNOTE><JOBTITLE></JOBTITLE>, <RESEARCHNOTE>[Theatre-Related work (Name of Production)]</RESEARCHNOTE><TITLE LEVEL="MONOGRAPHIC"></TITLE><RESEARCHNOTE>[Theatre-Related work (Theatre Company)]</RESEARCHNOTE><ORGNAME></ORGNAME><RESEARCHNOTE>Optional additional career highlight: </RESEARCHNOTE></CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATERANGE>
+                    <RESEARCHNOTE>[Theatre-Related work (Year)]</RESEARCHNOTE>
+                </DATERANGE>
+                <CHRONPROSE><RESEARCHNOTE>[Theatre-Related work (Activity/Role)]</RESEARCHNOTE><JOBTITLE></JOBTITLE>, <RESEARCHNOTE>[Theatre-Related work (Name of Production)]</RESEARCHNOTE><TITLE LEVEL="MONOGRAPHIC"></TITLE><RESEARCHNOTE>[Theatre-Related work (Theatre Company)]</RESEARCHNOTE><ORGNAME></ORGNAME></CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATERANGE>
+                    <RESEARCHNOTE>[Theatre-Related work (Year)]</RESEARCHNOTE>
+                </DATERANGE>
+                <CHRONPROSE><RESEARCHNOTE>[Theatre-Related work (Activity/Role)]</RESEARCHNOTE><JOBTITLE></JOBTITLE>, <RESEARCHNOTE>[Theatre-Related work (Name of Production)]</RESEARCHNOTE><TITLE LEVEL="MONOGRAPHIC"></TITLE><RESEARCHNOTE>[Theatre-Related work (Theatre Company)]</RESEARCHNOTE><ORGNAME></ORGNAME></CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATERANGE>
+                    <RESEARCHNOTE>[Theatre-Related work (Year)]</RESEARCHNOTE>
+                </DATERANGE>
+                <CHRONPROSE><RESEARCHNOTE>[Theatre-Related work (Activity/Role)]</RESEARCHNOTE><JOBTITLE></JOBTITLE>, <RESEARCHNOTE>[Theatre-Related work (Name of Production)]</RESEARCHNOTE><TITLE LEVEL="MONOGRAPHIC"></TITLE><RESEARCHNOTE>[Theatre-Related work (Theatre Company)]</RESEARCHNOTE><ORGNAME></ORGNAME></CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATERANGE>
+                    <RESEARCHNOTE>[Theatre-Related work (Year)]</RESEARCHNOTE>
+                </DATERANGE>
+                <CHRONPROSE><RESEARCHNOTE>[Theatre-Related work (Activity/Role)]</RESEARCHNOTE><JOBTITLE></JOBTITLE>, <RESEARCHNOTE>[Theatre-Related work (Name of Production)]</RESEARCHNOTE><TITLE LEVEL="MONOGRAPHIC"></TITLE><RESEARCHNOTE>[Theatre-Related work (Theatre Company)]</RESEARCHNOTE><ORGNAME></ORGNAME></CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATERANGE>
+                    <RESEARCHNOTE>[Theatre-Related work (Year)]</RESEARCHNOTE>
+                </DATERANGE>
+                <CHRONPROSE><RESEARCHNOTE>[Theatre-Related work (Activity/Role)]</RESEARCHNOTE><JOBTITLE></JOBTITLE>, <RESEARCHNOTE>[Theatre-Related work (Name of Production)]</RESEARCHNOTE><TITLE LEVEL="MONOGRAPHIC"></TITLE><RESEARCHNOTE>[Theatre-Related work (Theatre Company)]</RESEARCHNOTE><ORGNAME></ORGNAME></CHRONPROSE>
+            </CHRONSTRUCT>
+        </OCCUPATION>
+        <HEADING SUBTYPE="4">Non-Theatre</HEADING>
+        <OCCUPATION>
+            <CHRONSTRUCT>
+                <DATERANGE>1972-present day (2014)<RESEARCHNOTE>[Non-Theatre-Related work (Year)]</RESEARCHNOTE></DATERANGE>
+                <CHRONPROSE><RESEARCHNOTE>[Non-Theatre-Related work (Description of Activity/Role)]</RESEARCHNOTE>Publications: The Write Track: How to Succeed as a Freelance Writer in Canada. Toronto: Dundurn Press, 2001  Beginnings: A Book for Widows. 4th ed. Toronto: McClelland &amp; Stewart, 1997.  Life's Losses: Living Through Sudden Change, Bereavement. Toronto: Macmillan Canada, 1996. plus many more  The Better Half: Women's Voices. Windsor, ON: Black Moss Press, 1995.  Reading Between the Lines: The Diaries of Women. Toronto: Key Porter Books, 1995.  Letters to Icelanders: Exploring the Northern Soul. CGI Books, 2000</CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATERANGE>
+                    <RESEARCHNOTE>[Non-Theatre-Related work (Year)]</RESEARCHNOTE>
+                </DATERANGE>
+                <CHRONPROSE><RESEARCHNOTE>[Non-Theatre-Related work (Description of Activity/Role)]</RESEARCHNOTE>Television: Coming of Age that aired on TMN (1994) and Global (1995), and won two Gemini Awards.</CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATERANGE>
+                    <RESEARCHNOTE>[Non-Theatre-Related work (Year)]</RESEARCHNOTE>
+                </DATERANGE>
+                <CHRONPROSE><RESEARCHNOTE>[Non-Theatre-Related work (Description of Activity/Role)]</RESEARCHNOTE>Founding member of Periodical Writers Association of Canada, now Professional Writers Association of canada; founding Memer of Plahwrights canada, now Plsywrights Guild of Canada; chair of the Writers' Union of Canada,1988-89.</CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATERANGE>
+                    <RESEARCHNOTE>[Non-Theatre-Related work (Year)]</RESEARCHNOTE>
+                </DATERANGE>
+                <CHRONPROSE>
+                    <RESEARCHNOTE>[Non-Theatre-Related work (Description of Activity/Role)]</RESEARCHNOTE>
+                </CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATERANGE>
+                    <RESEARCHNOTE>[Non-Theatre-Related work (Year)]</RESEARCHNOTE>
+                </DATERANGE>
+                <CHRONPROSE>
+                    <RESEARCHNOTE>[Non-Theatre-Related work (Description of Activity/Role)]</RESEARCHNOTE>
+                    <RESEARCHNOTE>Optional additional career highlight: </RESEARCHNOTE>
+                </CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATERANGE>
+                    <RESEARCHNOTE>[Non-Theatre-Related work (Year)]</RESEARCHNOTE>
+                </DATERANGE>
+                <CHRONPROSE>
+                    <RESEARCHNOTE>[Non-Theatre-Related work (Description of Activity/Role)]</RESEARCHNOTE>
+                </CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATERANGE>
+                    <RESEARCHNOTE>[Non-Theatre-Related work (Year)]</RESEARCHNOTE>
+                </DATERANGE>
+                <CHRONPROSE>
+                    <RESEARCHNOTE>[Non-Theatre-Related work (Description of Activity/Role)]</RESEARCHNOTE>
+                </CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATERANGE>
+                    <RESEARCHNOTE>[Non-Theatre-Related work (Year)]</RESEARCHNOTE>
+                </DATERANGE>
+                <CHRONPROSE>
+                    <RESEARCHNOTE>[Non-Theatre-Related work (Description of Activity/Role)]</RESEARCHNOTE>
+                </CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATERANGE>
+                    <RESEARCHNOTE>[Non-Theatre-Related work (Year)]</RESEARCHNOTE>
+                </DATERANGE>
+                <CHRONPROSE>
+                    <RESEARCHNOTE>[Non-Theatre-Related work (Description of Activity/Role)]</RESEARCHNOTE>
+                </CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATERANGE>
+                    <RESEARCHNOTE>[Non-Theatre-Related work (Year)]</RESEARCHNOTE>
+                </DATERANGE>
+                <CHRONPROSE>
+                    <RESEARCHNOTE>[Non-Theatre-Related work (Description of Activity/Role)]</RESEARCHNOTE>
+                </CHRONPROSE>
+                <RESEARCHNOTE>Optional additional career highlight: </RESEARCHNOTE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATERANGE>
+                    <RESEARCHNOTE>[Non-Theatre-Related work (Year)]</RESEARCHNOTE>
+                </DATERANGE>
+                <CHRONPROSE>
+                    <RESEARCHNOTE>[Non-Theatre-Related work (Description of Activity/Role)]</RESEARCHNOTE>
+                </CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATERANGE>
+                    <RESEARCHNOTE>[Non-Theatre-Related work (Year)]</RESEARCHNOTE>
+                </DATERANGE>
+                <CHRONPROSE>
+                    <RESEARCHNOTE>[Non-Theatre-Related work (Description of Activity/Role)]</RESEARCHNOTE>
+                </CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATERANGE>
+                    <RESEARCHNOTE>[Non-Theatre-Related work (Year)]</RESEARCHNOTE>
+                </DATERANGE>
+                <CHRONPROSE>
+                    <RESEARCHNOTE>[Non-Theatre-Related work (Description of Activity/Role)]</RESEARCHNOTE>
+                </CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATERANGE>
+                    <RESEARCHNOTE>[Non-Theatre-Related work (Year)]</RESEARCHNOTE>
+                </DATERANGE>
+                <CHRONPROSE>
+                    <RESEARCHNOTE>[Non-Theatre-Related work (Description of Activity/Role)]</RESEARCHNOTE>
+                </CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATERANGE>
+                    <RESEARCHNOTE>[Non-Theatre-Related work (Year)]</RESEARCHNOTE>
+                </DATERANGE>
+                <CHRONPROSE>
+                    <RESEARCHNOTE>[Non-Theatre-Related work (Description of Activity/Role)]</RESEARCHNOTE>
+                </CHRONPROSE>
+            </CHRONSTRUCT>
+        </OCCUPATION>
+        <RECEPTION>
+            <HEADING SUBTYPE="3">Awards and Honours</HEADING>
+            <RESEARCHNOTE>[Subcategory of Biography]</RESEARCHNOTE>
+            <HEADING SUBTYPE="4">Theatre-Related</HEADING>
+            <CHRONSTRUCT>
+                <DATE>?</DATE>
+                <CHRONPROSE><RRECOGNITIONSANDAWARDS><RRECOGNITIONNAME>Gemini 2, for best support actor and actress</RRECOGNITIONNAME></RRECOGNITIONSANDAWARDS>, screenplay, <TITLE LEVEL="MONOGRAPHIC">Coming of Age</TITLE></CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATE>
+                    <RESEARCHNOTE>[Theatre-Related Award (Year)]</RESEARCHNOTE>
+                </DATE>
+                <CHRONPROSE><RESEARCHNOTE>[Theatre-Related Award (Name of Award)]</RESEARCHNOTE><RRECOGNITIONSANDAWARDS><RRECOGNITIONNAME></RRECOGNITIONNAME></RRECOGNITIONSANDAWARDS>, <RESEARCHNOTE>[Theatre-Related Award (Awarded for (e.g. acting, directing, etc.))]</RESEARCHNOTE>, <TITLE LEVEL="MONOGRAPHIC"></TITLE></CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATE>
+                    <RESEARCHNOTE>[Theatre-Related Award (Year)]</RESEARCHNOTE>
+                </DATE>
+                <CHRONPROSE><RESEARCHNOTE>[Theatre-Related Award (Name of Award)]</RESEARCHNOTE><RRECOGNITIONSANDAWARDS><RRECOGNITIONNAME></RRECOGNITIONNAME></RRECOGNITIONSANDAWARDS>, <RESEARCHNOTE>[Theatre-Related Award (Awarded for (e.g. acting, directing, etc.))]</RESEARCHNOTE>, <TITLE LEVEL="MONOGRAPHIC"></TITLE></CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATE>
+                    <RESEARCHNOTE>[Theatre-Related Award (Year)]</RESEARCHNOTE>
+                </DATE>
+                <CHRONPROSE><RESEARCHNOTE>[Theatre-Related Award (Name of Award)]</RESEARCHNOTE><RRECOGNITIONSANDAWARDS><RRECOGNITIONNAME></RRECOGNITIONNAME></RRECOGNITIONSANDAWARDS>, <RESEARCHNOTE>[Theatre-Related Award (Awarded for (e.g. acting, directing, etc.))]</RESEARCHNOTE>, <TITLE LEVEL="MONOGRAPHIC"></TITLE></CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATE>
+                    <RESEARCHNOTE>[Theatre-Related Award (Year)]</RESEARCHNOTE>
+                </DATE>
+                <CHRONPROSE><RESEARCHNOTE>[Theatre-Related Award (Name of Award)]</RESEARCHNOTE><RRECOGNITIONSANDAWARDS><RRECOGNITIONNAME></RRECOGNITIONNAME></RRECOGNITIONSANDAWARDS>, <RESEARCHNOTE>[Theatre-Related Award (Awarded for (e.g. acting, directing, etc.))]</RESEARCHNOTE>, <TITLE LEVEL="MONOGRAPHIC"></TITLE><RESEARCHNOTE>Optional additional award(s): </RESEARCHNOTE></CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATE>
+                    <RESEARCHNOTE>[Theatre-Related Award (Year)]</RESEARCHNOTE>
+                </DATE>
+                <CHRONPROSE><RESEARCHNOTE>[Theatre-Related Award (Name of Award)]</RESEARCHNOTE><RRECOGNITIONSANDAWARDS><RRECOGNITIONNAME></RRECOGNITIONNAME></RRECOGNITIONSANDAWARDS>, <RESEARCHNOTE>[Theatre-Related Award (Awarded for (e.g. acting, directing, etc.))]</RESEARCHNOTE>, <TITLE LEVEL="MONOGRAPHIC"></TITLE></CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATE>
+                    <RESEARCHNOTE>[Theatre-Related Award (Year)]</RESEARCHNOTE>
+                </DATE>
+                <CHRONPROSE><RESEARCHNOTE>[Theatre-Related Award (Name of Award)]</RESEARCHNOTE><RRECOGNITIONSANDAWARDS><RRECOGNITIONNAME></RRECOGNITIONNAME></RRECOGNITIONSANDAWARDS>, <RESEARCHNOTE>[Theatre-Related Award (Awarded for (e.g. acting, directing, etc.))]</RESEARCHNOTE>, <TITLE LEVEL="MONOGRAPHIC"></TITLE></CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATE>
+                    <RESEARCHNOTE>[Theatre-Related Award (Year)]</RESEARCHNOTE>
+                </DATE>
+                <CHRONPROSE><RESEARCHNOTE>[Theatre-Related Award (Name of Award)]</RESEARCHNOTE><RRECOGNITIONSANDAWARDS><RRECOGNITIONNAME></RRECOGNITIONNAME></RRECOGNITIONSANDAWARDS>, <RESEARCHNOTE>[Theatre-Related Award (Awarded for (e.g. acting, directing, etc.))]</RESEARCHNOTE>, <TITLE LEVEL="MONOGRAPHIC"></TITLE></CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATE>
+                    <RESEARCHNOTE>[Theatre-Related Award (Year)]</RESEARCHNOTE>
+                </DATE>
+                <CHRONPROSE><RESEARCHNOTE>[Theatre-Related Award (Name of Award)]</RESEARCHNOTE><RRECOGNITIONSANDAWARDS><RRECOGNITIONNAME></RRECOGNITIONNAME></RRECOGNITIONSANDAWARDS>, <RESEARCHNOTE>[Theatre-Related Award (Awarded for (e.g. acting, directing, etc.))]</RESEARCHNOTE>, <TITLE LEVEL="MONOGRAPHIC"></TITLE></CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATE>
+                    <RESEARCHNOTE>[Theatre-Related Award (Year)]</RESEARCHNOTE>
+                </DATE>
+                <CHRONPROSE><RESEARCHNOTE>[Theatre-Related Award (Name of Award)]</RESEARCHNOTE><RRECOGNITIONSANDAWARDS><RRECOGNITIONNAME></RRECOGNITIONNAME></RRECOGNITIONSANDAWARDS>, <RESEARCHNOTE>[Theatre-Related Award (Awarded for (e.g. acting, directing, etc.))]</RESEARCHNOTE>, <TITLE LEVEL="MONOGRAPHIC"></TITLE><RESEARCHNOTE>Optional additional award(s): </RESEARCHNOTE></CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATE>
+                    <RESEARCHNOTE>[Theatre-Related Award (Year)]</RESEARCHNOTE>
+                </DATE>
+                <CHRONPROSE><RESEARCHNOTE>[Theatre-Related Award (Name of Award)]</RESEARCHNOTE><RRECOGNITIONSANDAWARDS><RRECOGNITIONNAME></RRECOGNITIONNAME></RRECOGNITIONSANDAWARDS>, <RESEARCHNOTE>[Theatre-Related Award (Awarded for (e.g. acting, directing, etc.))]</RESEARCHNOTE>, <TITLE LEVEL="MONOGRAPHIC"></TITLE></CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATE>
+                    <RESEARCHNOTE>[Theatre-Related Award (Year)]</RESEARCHNOTE>
+                </DATE>
+                <CHRONPROSE><RESEARCHNOTE>[Theatre-Related Award (Name of Award)]</RESEARCHNOTE><RRECOGNITIONSANDAWARDS><RRECOGNITIONNAME></RRECOGNITIONNAME></RRECOGNITIONSANDAWARDS>, <RESEARCHNOTE>[Theatre-Related Award (Awarded for (e.g. acting, directing, etc.))]</RESEARCHNOTE>, <TITLE LEVEL="MONOGRAPHIC"></TITLE></CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATE>
+                    <RESEARCHNOTE>[Theatre-Related Award (Year)]</RESEARCHNOTE>
+                </DATE>
+                <CHRONPROSE><RESEARCHNOTE>[Theatre-Related Award (Name of Award)]</RESEARCHNOTE><RRECOGNITIONSANDAWARDS><RRECOGNITIONNAME></RRECOGNITIONNAME></RRECOGNITIONSANDAWARDS>, <RESEARCHNOTE>[Theatre-Related Award (Awarded for (e.g. acting, directing, etc.))]</RESEARCHNOTE>, <TITLE LEVEL="MONOGRAPHIC"></TITLE></CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATE>
+                    <RESEARCHNOTE>[Theatre-Related Award (Year)]</RESEARCHNOTE>
+                </DATE>
+                <CHRONPROSE><RESEARCHNOTE>[Theatre-Related Award (Name of Award)]</RESEARCHNOTE><RRECOGNITIONSANDAWARDS><RRECOGNITIONNAME></RRECOGNITIONNAME></RRECOGNITIONSANDAWARDS>, <RESEARCHNOTE>[Theatre-Related Award (Awarded for (e.g. acting, directing, etc.))]</RESEARCHNOTE>, <TITLE LEVEL="MONOGRAPHIC"></TITLE></CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATE>
+                    <RESEARCHNOTE>[Theatre-Related Award (Year)]</RESEARCHNOTE>
+                </DATE>
+                <CHRONPROSE><RESEARCHNOTE>[Theatre-Related Award (Name of Award)]</RESEARCHNOTE><RRECOGNITIONSANDAWARDS><RRECOGNITIONNAME></RRECOGNITIONNAME></RRECOGNITIONSANDAWARDS>, <RESEARCHNOTE>[Theatre-Related Award (Awarded for (e.g. acting, directing, etc.))]</RESEARCHNOTE>, <TITLE LEVEL="MONOGRAPHIC"></TITLE></CHRONPROSE>
+            </CHRONSTRUCT>
+        </RECEPTION>
+        <OTHERLIFEEVENT>
+            <HEADING SUBTYPE="4">Other</HEADING>
+            <RESEARCHNOTE>For non-literary awards or non-theatre-related books</RESEARCHNOTE>
+            <CHRONSTRUCT>
+                <DATE><RESEARCHNOTE>[Other (Year)]</RESEARCHNOTE>2003</DATE>
+                <CHRONPROSE><AWARDSNONLITERARY><RESEARCHNOTE>[Other (Name of Award/Honour)]</RESEARCHNOTE>Order of Canada</AWARDSNONLITERARY>, <RESEARCHNOTE>[Other (Received for)]</RESEARCHNOTE> my writing</CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATE><RESEARCHNOTE>[Other (Year)]</RESEARCHNOTE>2003</DATE>
+                <CHRONPROSE><AWARDSNONLITERARY><RESEARCHNOTE>[Other (Name of Award/Honour)]</RESEARCHNOTE>D/Litt. University of Manitoba</AWARDSNONLITERARY>, <RESEARCHNOTE>[Other (Received for)]</RESEARCHNOTE> My writing career</CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATE>
+                    <RESEARCHNOTE>[Other (Year)]</RESEARCHNOTE>
+                </DATE>
+                <CHRONPROSE><AWARDSNONLITERARY><RESEARCHNOTE>[Other (Name of Award/Honour)]</RESEARCHNOTE></AWARDSNONLITERARY>, <RESEARCHNOTE>[Other (Received for)]</RESEARCHNOTE></CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATE>
+                    <RESEARCHNOTE>[Other (Year)]</RESEARCHNOTE>
+                </DATE>
+                <CHRONPROSE><AWARDSNONLITERARY><RESEARCHNOTE>[Other (Name of Award/Honour)]</RESEARCHNOTE></AWARDSNONLITERARY>, <RESEARCHNOTE>[Other (Received for)]</RESEARCHNOTE></CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATE>
+                    <RESEARCHNOTE>[Other (Year)]</RESEARCHNOTE>
+                </DATE>
+                <CHRONPROSE><AWARDSNONLITERARY><RESEARCHNOTE>[Other (Name of Award/Honour)]</RESEARCHNOTE></AWARDSNONLITERARY>, <RESEARCHNOTE>[Other (Received for)]</RESEARCHNOTE><RESEARCHNOTE>Optional additional award(s): </RESEARCHNOTE></CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATE>
+                    <RESEARCHNOTE>[Other (Year)]</RESEARCHNOTE>
+                </DATE>
+                <CHRONPROSE><AWARDSNONLITERARY><RESEARCHNOTE>[Other (Name of Award/Honour)]</RESEARCHNOTE></AWARDSNONLITERARY>, <RESEARCHNOTE>[Other (Received for)]</RESEARCHNOTE></CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATE>
+                    <RESEARCHNOTE>[Other (Year)]</RESEARCHNOTE>
+                </DATE>
+                <CHRONPROSE><AWARDSNONLITERARY><RESEARCHNOTE>[Other (Name of Award/Honour)]</RESEARCHNOTE></AWARDSNONLITERARY>, <RESEARCHNOTE>[Other (Received for)]</RESEARCHNOTE></CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATE>
+                    <RESEARCHNOTE>[Other (Year)]</RESEARCHNOTE>
+                </DATE>
+                <CHRONPROSE><AWARDSNONLITERARY><RESEARCHNOTE>[Other (Name of Award/Honour)]</RESEARCHNOTE></AWARDSNONLITERARY>, <RESEARCHNOTE>[Other (Received for)]</RESEARCHNOTE></CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATE>
+                    <RESEARCHNOTE>[Other (Year)]</RESEARCHNOTE>
+                </DATE>
+                <CHRONPROSE><AWARDSNONLITERARY><RESEARCHNOTE>[Other (Name of Award/Honour)]</RESEARCHNOTE></AWARDSNONLITERARY>, <RESEARCHNOTE>[Other (Received for)]</RESEARCHNOTE></CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATE>
+                    <RESEARCHNOTE>[Other (Year)]</RESEARCHNOTE>
+                </DATE>
+                <CHRONPROSE><AWARDSNONLITERARY><RESEARCHNOTE>[Other (Name of Award/Honour)]</RESEARCHNOTE></AWARDSNONLITERARY>, <RESEARCHNOTE>[Other (Received for)]</RESEARCHNOTE><RESEARCHNOTE>Optional additional award(s): </RESEARCHNOTE></CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATE>
+                    <RESEARCHNOTE>[Other (Year)]</RESEARCHNOTE>
+                </DATE>
+                <CHRONPROSE><AWARDSNONLITERARY><RESEARCHNOTE>[Other (Name of Award/Honour)]</RESEARCHNOTE></AWARDSNONLITERARY>, <RESEARCHNOTE>[Other (Received for)]</RESEARCHNOTE></CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATE>
+                    <RESEARCHNOTE>[Other (Year)]</RESEARCHNOTE>
+                </DATE>
+                <CHRONPROSE><AWARDSNONLITERARY><RESEARCHNOTE>[Other (Name of Award/Honour)]</RESEARCHNOTE></AWARDSNONLITERARY>, <RESEARCHNOTE>[Other (Received for)]</RESEARCHNOTE></CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATE>
+                    <RESEARCHNOTE>[Other (Year)]</RESEARCHNOTE>
+                </DATE>
+                <CHRONPROSE><AWARDSNONLITERARY><RESEARCHNOTE>[Other (Name of Award/Honour)]</RESEARCHNOTE></AWARDSNONLITERARY>, <RESEARCHNOTE>[Other (Received for)]</RESEARCHNOTE></CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATE>
+                    <RESEARCHNOTE>[Other (Year)]</RESEARCHNOTE>
+                </DATE>
+                <CHRONPROSE><AWARDSNONLITERARY><RESEARCHNOTE>[Other (Name of Award/Honour)]</RESEARCHNOTE></AWARDSNONLITERARY>, <RESEARCHNOTE>[Other (Received for)]</RESEARCHNOTE></CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATE>
+                    <RESEARCHNOTE>[Other (Year)]</RESEARCHNOTE>
+                </DATE>
+                <CHRONPROSE><AWARDSNONLITERARY><RESEARCHNOTE>[Other (Name of Award/Honour)]</RESEARCHNOTE></AWARDSNONLITERARY>, <RESEARCHNOTE>[Other (Received for)]</RESEARCHNOTE></CHRONPROSE>
+            </CHRONSTRUCT>
+        </OTHERLIFEEVENT>
+        <HEADING SUBTYPE="3">Other Information</HEADING>
+        <RESEARCHNOTE>Subcategory of Biography or Writing depending on nature of information; tags will need to be modified according to the speci</RESEARCHNOTE>
+        <OCCUPATION>
+            <HEADING SUBTYPE="4">Other Life/Career Highlights</HEADING>
+            <DATASTRUCT>
+                <DATAITEM><RESEARCHNOTE>[Other Life/Career Highlights]</RESEARCHNOTE><RESEARCHNOTE>GRH Note to editor: This section was a catch-all in the Career Highlights section of the survey. Depending on what information is provided, it may be more appropriate to move this info into the "Other Information" section below after the Awards section (before plays)</RESEARCHNOTE>I have short bios in my entries as a member of PGC and of TWUC. There is lots of information about me on the net and I have my own domain.  You don't have all my plays, and very few of my books. I can't remember all the dates, not without searching.  No time for that.</DATAITEM>
+            </DATASTRUCT>
+            <P>check my blog: bettyjanewylie.com  (cobwebblog)</P>
+        </OCCUPATION>
+        <FAMILY>
+            <HEADING SUBTYPE="4">Other Information about Relationships and Family</HEADING>
+            <RESEARCHNOTE>[Other Information about Relationships and Family]</RESEARCHNOTE>
+            <P>My youngest child,Matthew, is challenged and has influenced and been the inspiration for a lot of my writing: a chamber opera, a one-jhnader play, a biography.</P>
+        </FAMILY>
+        <HEADING SUBTYPE="2">Plays</HEADING>
+        <TEXTSCOPE>
+            <RESEARCHNOTE>Ensure Textscope Placeholder is filled in; eventually dbref tag will need attribute</RESEARCHNOTE>
+            <TEXTUALFEATURES>
+                <HEADING SUBTYPE="3">
+                    <TITLE LEVEL="MONOGRAPHIC">A Native of the James Family</TITLE>
+                </HEADING>
+                <P><RESEARCHNOTE>[Summary of Play]</RESEARCHNOTE>Alice James (sister of the novelist Henry), on her death bed, in a morphine haze, reviews her life with the help of Henry and her companion Katharine Loring, as well as characters from Wonderland, Prince Charming and the fairy Godmother, and her doctors. Based on Alice's diary.</P>
+                <HEADING SUBTYPE="4">General Descriptive Information</HEADING>
+                <P>
+                    <RESEARCHNOTE>[Year Written]</RESEARCHNOTE>
+                    <DATE>Year Written: 1990</DATE>
+                </P>
+                <P><RESEARCHNOTE>[Geographic Setting]</RESEARCHNOTE>Geographic Setting: Boston and London England </P>
+                <P><RESEARCHNOTE>[Historical Period]</RESEARCHNOTE>Historical Period: 19th Century/Victorian</P>
+                <P><RESEARCHNOTE>[Genre/Form of Play]</RESEARCHNOTE>Genre/Form of Play: </P>
+                <HEADING SUBTYPE="4"><RESEARCHNOTE>[General Description of Performers in play]</RESEARCHNOTE>General Description of Performers in Play:</HEADING>
+                <P><RESEARCHNOTE>[(# Adult:male)]</RESEARCHNOTE>Number of Male Adults: 3 </P>
+                <P><RESEARCHNOTE>[(# Adult:female)]</RESEARCHNOTE>Number of Female Adults: 3 </P>
+                <P><RESEARCHNOTE>[Specific casting requirements]</RESEARCHNOTE>Does this play have any specific casting requirements: No</P>
+                <P><RESEARCHNOTE>[Does this play include monologues that are suitable for actors who are auditioning?]</RESEARCHNOTE>Does this play include monologues that are suitable for actors who are auditioning: No</P>
+                <P><RESEARCHNOTE>[Does this play include monologues that are suitable for young actors?]</RESEARCHNOTE>Does this play include monologues that are suitable for young actors: No</P>
+            </TEXTUALFEATURES>
+            <PRODUCTION>
+                <RESEARCHNOTE>Has the play been published for distribution to the public in any format: Yes</RESEARCHNOTE>
+                <HEADING SUBTYPE="4">First Production</HEADING>
+                <RESEARCHNOTE>Has the play been published for distribution to the public in any format: Yes</RESEARCHNOTE>
+                <HEADING SUBTYPE="4">Publication</HEADING>
+                <LISTBIBCIT>
+                    <BIBCIT REF=""><RESEARCHNOTE>[Title]</RESEARCHNOTE><TITLE LEVEL="MONOGRAPHIC">A Native of the James Family</TITLE>, <RESEARCHNOTE>[Name of Publisher]</RESEARCHNOTE>Publisher: <ORGNAME>Playwrights Guild of Canada</ORGNAME>, <RESEARCHNOTE>[Year of First Publication]</RESEARCHNOTE><DATE>1997</DATE><RESEARCHNOTE>[Year of Most Recent Edition (if different)]</RESEARCHNOTE><DATE></DATE>. <RESEARCHNOTE>[ISBN]</RESEARCHNOTE><IDNO TYPE="ISBN">ISBN: 978-1-55173-483-5</IDNO></BIBCIT>
+                </LISTBIBCIT>
+            </PRODUCTION>
+            <RECEPTION>
+                <HEADING SUBTYPE="4">Other Information</HEADING>
+                <RESEARCHNOTE>In the original survey, awards for playwriting was it's own category, where all of the awards/grants for every play could be listed. Now each award/grant pertaining to a specific play will be located UNDER that play's information. GRH: If the playwright has included this info in their survey it will likely be listed at the bottom of this document and should be moved into this section.</RESEARCHNOTE>
+                <RESEARCHNOTE>This "other" category does not have a corresponding question number because it was invented AFTER the survey was sent out. It is meant to grab infomation from the original "Other" category that contains information from specific to a play written by the playwright. It makes sense to have this information in the "play section" like this, rather than have only one "other" category.</RESEARCHNOTE>
+            </RECEPTION>
+        </TEXTSCOPE>
+        <RESEARCHNOTE>Optional additional play: Yes</RESEARCHNOTE>
+        <TEXTSCOPE>
+            <RESEARCHNOTE>Ensure Textscope Placeholder is filled in; eventually dbref tag will need attribute</RESEARCHNOTE>
+            <TEXTUALFEATURES>
+                <HEADING SUBTYPE="3">
+                    <TITLE LEVEL="MONOGRAPHIC">A Place on Earth</TITLE>
+                </HEADING>
+                <P><RESEARCHNOTE>[Summary of Play]</RESEARCHNOTE>A widow lives alone in a tacky rooming house and her only companion is a puppet who talks to her. The play takes her through a crucial day in her life. Raped a few days earlier, she is preparing for her venture to the police station to press charges.</P>
+                <HEADING SUBTYPE="4">General Descriptive Information</HEADING>
+                <P>
+                    <RESEARCHNOTE>[Year Written]</RESEARCHNOTE>
+                    <DATE>Year Written: 1980 ?</DATE>
+                </P>
+                <P><RESEARCHNOTE>[Geographic Setting]</RESEARCHNOTE>Geographic Setting: A rooming house in a city</P>
+                <P><RESEARCHNOTE>[Historical Period]</RESEARCHNOTE>Historical Period: Late 20th Century, Contemporary</P>
+                <P><RESEARCHNOTE>[Genre/Form of Play]</RESEARCHNOTE>Genre/Form of Play: Monologue</P>
+                <HEADING SUBTYPE="4"><RESEARCHNOTE>[General Description of Performers in play]</RESEARCHNOTE>General Description of Performers in Play:</HEADING>
+                <P><RESEARCHNOTE>[(# Senior:female)]</RESEARCHNOTE>Number of Female Seniors: 1 </P>
+                <P><RESEARCHNOTE>[Specific casting requirements]</RESEARCHNOTE>Does this play have any specific casting requirements: No</P>
+                <P><RESEARCHNOTE>[Does this play include monologues that are suitable for actors who are auditioning?]</RESEARCHNOTE>Does this play include monologues that are suitable for actors who are auditioning: Yes</P>
+                <P><RESEARCHNOTE>[Does this play include monologues that are suitable for young actors?]</RESEARCHNOTE>Does this play include monologues that are suitable for young actors: No</P>
+            </TEXTUALFEATURES>
+            <PRODUCTION>
+                <RESEARCHNOTE>Has the play been published for distribution to the public in any format: Yes</RESEARCHNOTE>
+                <HEADING SUBTYPE="4">First Production</HEADING>
+                <RESEARCHNOTE>Has the play been published for distribution to the public in any format: Yes</RESEARCHNOTE>
+                <HEADING SUBTYPE="4">Publication</HEADING>
+                <LISTBIBCIT>
+                    <BIBCIT REF=""><RESEARCHNOTE>[Title]</RESEARCHNOTE><TITLE LEVEL="MONOGRAPHIC">A Place on Earth</TITLE>, <RESEARCHNOTE>[Name of Publisher]</RESEARCHNOTE>Publisher: <ORGNAME>Playwrights Guild of Canada</ORGNAME>, <RESEARCHNOTE>[Year of First Publication]</RESEARCHNOTE><DATE>?</DATE><RESEARCHNOTE>[Year of Most Recent Edition (if different)]</RESEARCHNOTE><DATE></DATE>. <RESEARCHNOTE>[ISBN]</RESEARCHNOTE><IDNO TYPE="ISBN">ISBN: 978-1-55155-796-0</IDNO></BIBCIT>
+                </LISTBIBCIT>
+            </PRODUCTION>
+            <RECEPTION>
+                <HEADING SUBTYPE="4">Other Information</HEADING>
+                <RESEARCHNOTE>In the original survey, awards for playwriting was it's own category, where all of the awards/grants for every play could be listed. Now each award/grant pertaining to a specific play will be located UNDER that play's information. GRH: If the playwright has included this info in their survey it will likely be listed at the bottom of this document and should be moved into this section.</RESEARCHNOTE>
+                <RESEARCHNOTE>This "other" category does not have a corresponding question number because it was invented AFTER the survey was sent out. It is meant to grab infomation from the original "Other" category that contains information from specific to a play written by the playwright. It makes sense to have this information in the "play section" like this, rather than have only one "other" category.</RESEARCHNOTE>
+            </RECEPTION>
+        </TEXTSCOPE>
+        <RESEARCHNOTE>Optional additional play: Yes</RESEARCHNOTE>
+        <TEXTSCOPE>
+            <RESEARCHNOTE>Ensure Textscope Placeholder is filled in; eventually dbref tag will need attribute</RESEARCHNOTE>
+            <TEXTUALFEATURES>
+                <HEADING SUBTYPE="3">
+                    <TITLE LEVEL="MONOGRAPHIC">An Enemy of the People</TITLE>
+                </HEADING>
+                <P><RESEARCHNOTE>[Summary of Play]</RESEARCHNOTE>An adaptation of the Henrik Ibsen play, set in Saskatchewan in the 1960s.</P>
+                <HEADING SUBTYPE="4">General Descriptive Information</HEADING>
+                <P>
+                    <RESEARCHNOTE>[Year Written]</RESEARCHNOTE>
+                    <DATE>Year Written: 1972</DATE>
+                </P>
+                <P><RESEARCHNOTE>[Geographic Setting]</RESEARCHNOTE>Geographic Setting: Saskatchewan </P>
+                <P><RESEARCHNOTE>[Historical Period]</RESEARCHNOTE>Historical Period: Late 20th Century</P>
+                <P><RESEARCHNOTE>[Genre/Form of Play]</RESEARCHNOTE>Genre/Form of Play: Adaptation</P>
+                <HEADING SUBTYPE="4"><RESEARCHNOTE>[General Description of Performers in play]</RESEARCHNOTE>General Description of Performers in Play:</HEADING>
+                <P><RESEARCHNOTE>[(# Adult:male)]</RESEARCHNOTE>Number of Male Adults: 8 </P>
+                <P><RESEARCHNOTE>[(# Adult:female)]</RESEARCHNOTE>Number of Female Adults: 3 </P>
+                <P><RESEARCHNOTE>[Specific casting requirements]</RESEARCHNOTE>Does this play have any specific casting requirements: No</P>
+                <P><RESEARCHNOTE>[Does this play include monologues that are suitable for actors who are auditioning?]</RESEARCHNOTE>Does this play include monologues that are suitable for actors who are auditioning: No</P>
+                <P><RESEARCHNOTE>[Does this play include monologues that are suitable for young actors?]</RESEARCHNOTE>Does this play include monologues that are suitable for young actors: No</P>
+            </TEXTUALFEATURES>
+            <PRODUCTION>
+                <RESEARCHNOTE>Has the play been published for distribution to the public in any format: Yes</RESEARCHNOTE>
+                <HEADING SUBTYPE="4">First Production</HEADING>
+                <RESEARCHNOTE>Has the play been published for distribution to the public in any format: Yes</RESEARCHNOTE>
+                <HEADING SUBTYPE="4">Publication</HEADING>
+                <LISTBIBCIT>
+                    <BIBCIT REF=""><RESEARCHNOTE>[Title]</RESEARCHNOTE><TITLE LEVEL="MONOGRAPHIC">An Enemy of the People</TITLE>, <RESEARCHNOTE>[Name of Publisher]</RESEARCHNOTE>Publisher: <ORGNAME>Playwrights Guild of Canada</ORGNAME>, <RESEARCHNOTE>[Year of First Publication]</RESEARCHNOTE><DATE>?</DATE><RESEARCHNOTE>[Year of Most Recent Edition (if different)]</RESEARCHNOTE><DATE></DATE>. <RESEARCHNOTE>[ISBN]</RESEARCHNOTE><IDNO TYPE="ISBN">ISBN: 978-1-55155-740-3</IDNO></BIBCIT>
+                </LISTBIBCIT>
+            </PRODUCTION>
+            <RECEPTION>
+                <HEADING SUBTYPE="4">Other Information</HEADING>
+                <RESEARCHNOTE>In the original survey, awards for playwriting was it's own category, where all of the awards/grants for every play could be listed. Now each award/grant pertaining to a specific play will be located UNDER that play's information. GRH: If the playwright has included this info in their survey it will likely be listed at the bottom of this document and should be moved into this section.</RESEARCHNOTE>
+                <RESEARCHNOTE>This "other" category does not have a corresponding question number because it was invented AFTER the survey was sent out. It is meant to grab infomation from the original "Other" category that contains information from specific to a play written by the playwright. It makes sense to have this information in the "play section" like this, rather than have only one "other" category.</RESEARCHNOTE>
+            </RECEPTION>
+        </TEXTSCOPE>
+        <RESEARCHNOTE>Optional additional play: Yes</RESEARCHNOTE>
+        <TEXTSCOPE>
+            <RESEARCHNOTE>Ensure Textscope Placeholder is filled in; eventually dbref tag will need attribute</RESEARCHNOTE>
+            <TEXTUALFEATURES>
+                <HEADING SUBTYPE="3">
+                    <TITLE LEVEL="MONOGRAPHIC">Androgyne</TITLE>
+                </HEADING>
+                <P><RESEARCHNOTE>[Summary of Play]</RESEARCHNOTE>A young woman tries out as a boy for the boy's parts playing the girls in Shakespeare's plays, and falls in love with her leading man. Estranged, because she was knocked up by a rapist, she and her faithful dresser continue a life in the theatre, older, wiser, and never doubting the power of love.</P>
+                <HEADING SUBTYPE="4">General Descriptive Information</HEADING>
+                <P>
+                    <RESEARCHNOTE>[Year Written]</RESEARCHNOTE>
+                    <DATE>Year Written: </DATE>
+                </P>
+                <P><RESEARCHNOTE>[Geographic Setting]</RESEARCHNOTE>Geographic Setting:  </P>
+                <P><RESEARCHNOTE>[Historical Period]</RESEARCHNOTE>Historical Period: Renaissance/Early Modern</P>
+                <P><RESEARCHNOTE>[Genre/Form of Play]</RESEARCHNOTE>Genre/Form of Play: Comedy, One-Act</P>
+                <HEADING SUBTYPE="4"><RESEARCHNOTE>[General Description of Performers in play]</RESEARCHNOTE>General Description of Performers in Play:</HEADING>
+                <P><RESEARCHNOTE>[(# Adult:male)]</RESEARCHNOTE>Number of Male Adults: 1 </P>
+                <P><RESEARCHNOTE>[(# Adult:female)]</RESEARCHNOTE>Number of Female Adults: 2 </P>
+                <P><RESEARCHNOTE>[Specific casting requirements]</RESEARCHNOTE>Does this play have any specific casting requirements: No</P>
+                <P><RESEARCHNOTE>[Does this play include monologues that are suitable for actors who are auditioning?]</RESEARCHNOTE>Does this play include monologues that are suitable for actors who are auditioning: Yes</P>
+                <P><RESEARCHNOTE>[Does this play include monologues that are suitable for young actors?]</RESEARCHNOTE>Does this play include monologues that are suitable for young actors: No</P>
+            </TEXTUALFEATURES>
+            <PRODUCTION>
+                <RESEARCHNOTE>Has the play been published for distribution to the public in any format: Yes</RESEARCHNOTE>
+                <HEADING SUBTYPE="4">First Production</HEADING>
+                <RESEARCHNOTE>Has the play been published for distribution to the public in any format: Yes</RESEARCHNOTE>
+                <HEADING SUBTYPE="4">Publication</HEADING>
+                <LISTBIBCIT>
+                    <BIBCIT REF=""><RESEARCHNOTE>[Title]</RESEARCHNOTE><TITLE LEVEL="MONOGRAPHIC">Androgyne</TITLE>, <RESEARCHNOTE>[Name of Publisher]</RESEARCHNOTE>Publisher: <ORGNAME>Playwrights Guild of Canada</ORGNAME>, <RESEARCHNOTE>[Year of First Publication]</RESEARCHNOTE><DATE>1997</DATE><RESEARCHNOTE>[Year of Most Recent Edition (if different)]</RESEARCHNOTE><DATE></DATE>. <RESEARCHNOTE>[ISBN]</RESEARCHNOTE><IDNO TYPE="ISBN">ISBN: 978-1-55173-421-7</IDNO></BIBCIT>
+                </LISTBIBCIT>
+            </PRODUCTION>
+            <RECEPTION>
+                <HEADING SUBTYPE="4">Other Information</HEADING>
+                <RESEARCHNOTE>In the original survey, awards for playwriting was it's own category, where all of the awards/grants for every play could be listed. Now each award/grant pertaining to a specific play will be located UNDER that play's information. GRH: If the playwright has included this info in their survey it will likely be listed at the bottom of this document and should be moved into this section.</RESEARCHNOTE>
+                <RESEARCHNOTE>This "other" category does not have a corresponding question number because it was invented AFTER the survey was sent out. It is meant to grab infomation from the original "Other" category that contains information from specific to a play written by the playwright. It makes sense to have this information in the "play section" like this, rather than have only one "other" category.</RESEARCHNOTE>
+            </RECEPTION>
+        </TEXTSCOPE>
+        <RESEARCHNOTE>Optional additional play: Yes</RESEARCHNOTE>
+        <TEXTSCOPE>
+            <RESEARCHNOTE>Ensure Textscope Placeholder is filled in; eventually dbref tag will need attribute</RESEARCHNOTE>
+            <TEXTUALFEATURES>
+                <HEADING SUBTYPE="3">
+                    <TITLE LEVEL="MONOGRAPHIC">Angel</TITLE>
+                </HEADING>
+                <P><RESEARCHNOTE>[Summary of Play]</RESEARCHNOTE>The Angel of Death comes to take an old woman away, but she tricks him into letting her review her life. There are a couple of things she needs to find out, and does, with surprising results.</P>
+                <HEADING SUBTYPE="4">General Descriptive Information</HEADING>
+                <P>
+                    <RESEARCHNOTE>[Year Written]</RESEARCHNOTE>
+                    <DATE>Year Written: </DATE>
+                </P>
+                <P><RESEARCHNOTE>[Geographic Setting]</RESEARCHNOTE>Geographic Setting: limbo - a nursing home </P>
+                <P><RESEARCHNOTE>[Historical Period]</RESEARCHNOTE>Historical Period: Contemporary</P>
+                <P><RESEARCHNOTE>[Genre/Form of Play]</RESEARCHNOTE>Genre/Form of Play: Comedy, One-Act</P>
+                <HEADING SUBTYPE="4"><RESEARCHNOTE>[General Description of Performers in play]</RESEARCHNOTE>General Description of Performers in Play:</HEADING>
+                <P><RESEARCHNOTE>[(# Adult:male)]</RESEARCHNOTE>Number of Male Adults: 1 </P>
+                <P><RESEARCHNOTE>[(# Adult:female)]</RESEARCHNOTE>Number of Female Adults: 1 </P>
+                <P><RESEARCHNOTE>[Specific casting requirements]</RESEARCHNOTE>Does this play have any specific casting requirements: No</P>
+                <P><RESEARCHNOTE>[Does this play include monologues that are suitable for actors who are auditioning?]</RESEARCHNOTE>Does this play include monologues that are suitable for actors who are auditioning: Yes</P>
+                <P><RESEARCHNOTE>[Does this play include monologues that are suitable for young actors?]</RESEARCHNOTE>Does this play include monologues that are suitable for young actors: No</P>
+            </TEXTUALFEATURES>
+            <PRODUCTION>
+                <RESEARCHNOTE>Has the play been published for distribution to the public in any format: Yes</RESEARCHNOTE>
+                <HEADING SUBTYPE="4">First Production</HEADING>
+                <RESEARCHNOTE>Has the play been published for distribution to the public in any format: Yes</RESEARCHNOTE>
+                <HEADING SUBTYPE="4">Publication</HEADING>
+                <LISTBIBCIT>
+                    <BIBCIT REF=""><RESEARCHNOTE>[Title]</RESEARCHNOTE><TITLE LEVEL="MONOGRAPHIC">Angel</TITLE>, <RESEARCHNOTE>[Name of Publisher]</RESEARCHNOTE>Publisher: <ORGNAME>Playwrights Guild of Canada</ORGNAME>, <RESEARCHNOTE>[Year of First Publication]</RESEARCHNOTE><DATE>1997</DATE><RESEARCHNOTE>[Year of Most Recent Edition (if different)]</RESEARCHNOTE><DATE></DATE>. <RESEARCHNOTE>[ISBN]</RESEARCHNOTE><IDNO TYPE="ISBN">ISBN: 978-1-55173-481-1</IDNO></BIBCIT>
+                </LISTBIBCIT>
+            </PRODUCTION>
+            <RECEPTION>
+                <HEADING SUBTYPE="4">Other Information</HEADING>
+                <RESEARCHNOTE>In the original survey, awards for playwriting was it's own category, where all of the awards/grants for every play could be listed. Now each award/grant pertaining to a specific play will be located UNDER that play's information. GRH: If the playwright has included this info in their survey it will likely be listed at the bottom of this document and should be moved into this section.</RESEARCHNOTE>
+                <RESEARCHNOTE>This "other" category does not have a corresponding question number because it was invented AFTER the survey was sent out. It is meant to grab infomation from the original "Other" category that contains information from specific to a play written by the playwright. It makes sense to have this information in the "play section" like this, rather than have only one "other" category.</RESEARCHNOTE>
+            </RECEPTION>
+        </TEXTSCOPE>
+        <RESEARCHNOTE>Optional additional play: Yes</RESEARCHNOTE>
+        <TEXTSCOPE>
+            <RESEARCHNOTE>Ensure Textscope Placeholder is filled in; eventually dbref tag will need attribute</RESEARCHNOTE>
+            <TEXTUALFEATURES>
+                <HEADING SUBTYPE="3">
+                    <TITLE LEVEL="MONOGRAPHIC">Beowulf</TITLE>
+                </HEADING>
+                <P><RESEARCHNOTE>[Summary of Play]</RESEARCHNOTE>Beowulf the hero fights the monster Grendel to save Hothgar, King of the Danes and then Grendel's mother. Years later, old and a king himself, Beowulf fights a dragon and dies</P>
+                <HEADING SUBTYPE="4">General Descriptive Information</HEADING>
+                <P>
+                    <RESEARCHNOTE>[Year Written]</RESEARCHNOTE>
+                    <DATE>Year Written: 1975</DATE>
+                </P>
+                <P><RESEARCHNOTE>[Geographic Setting]</RESEARCHNOTE>Geographic Setting: Denmark? </P>
+                <P><RESEARCHNOTE>[Historical Period]</RESEARCHNOTE>Historical Period: Medieval</P>
+                <P><RESEARCHNOTE>[Genre/Form of Play]</RESEARCHNOTE>Genre/Form of Play: Musical</P>
+                <HEADING SUBTYPE="4"><RESEARCHNOTE>[General Description of Performers in play]</RESEARCHNOTE>General Description of Performers in Play:</HEADING>
+                <P><RESEARCHNOTE>[(# Adult:male)]</RESEARCHNOTE>Number of Male Adults: 9 </P>
+                <P><RESEARCHNOTE>[(# Adult:female)]</RESEARCHNOTE>Number of Female Adults: 3 </P>
+                <P><RESEARCHNOTE>[Specific casting requirements]</RESEARCHNOTE>Does this play have any specific casting requirements: No</P>
+                <P><RESEARCHNOTE>[Does this play include monologues that are suitable for actors who are auditioning?]</RESEARCHNOTE>Does this play include monologues that are suitable for actors who are auditioning: No</P>
+                <P><RESEARCHNOTE>[Does this play include monologues that are suitable for young actors?]</RESEARCHNOTE>Does this play include monologues that are suitable for young actors: No</P>
+            </TEXTUALFEATURES>
+            <PRODUCTION>
+                <RESEARCHNOTE>Has the play been published for distribution to the public in any format: Yes</RESEARCHNOTE>
+                <HEADING SUBTYPE="4">First Production</HEADING>
+                <RESEARCHNOTE>Has the play been published for distribution to the public in any format: Yes</RESEARCHNOTE>
+                <HEADING SUBTYPE="4">Publication</HEADING>
+                <LISTBIBCIT>
+                    <BIBCIT REF=""><RESEARCHNOTE>[Title]</RESEARCHNOTE><TITLE LEVEL="MONOGRAPHIC">Beowulf</TITLE>, <RESEARCHNOTE>[Name of Publisher]</RESEARCHNOTE>Publisher: <ORGNAME>Playwrights Guild of Canada</ORGNAME>, <RESEARCHNOTE>[Year of First Publication]</RESEARCHNOTE><DATE>1997</DATE><RESEARCHNOTE>[Year of Most Recent Edition (if different)]</RESEARCHNOTE><DATE></DATE>. <RESEARCHNOTE>[ISBN]</RESEARCHNOTE><IDNO TYPE="ISBN">ISBN: 978-1-55173-384-5</IDNO></BIBCIT>
+                </LISTBIBCIT>
+            </PRODUCTION>
+            <RECEPTION>
+                <HEADING SUBTYPE="4">Other Information</HEADING>
+                <RESEARCHNOTE>In the original survey, awards for playwriting was it's own category, where all of the awards/grants for every play could be listed. Now each award/grant pertaining to a specific play will be located UNDER that play's information. GRH: If the playwright has included this info in their survey it will likely be listed at the bottom of this document and should be moved into this section.</RESEARCHNOTE>
+                <RESEARCHNOTE>This "other" category does not have a corresponding question number because it was invented AFTER the survey was sent out. It is meant to grab infomation from the original "Other" category that contains information from specific to a play written by the playwright. It makes sense to have this information in the "play section" like this, rather than have only one "other" category.</RESEARCHNOTE>
+            </RECEPTION>
+        </TEXTSCOPE>
+        <RESEARCHNOTE>Optional additional play: Yes</RESEARCHNOTE>
+        <TEXTSCOPE>
+            <RESEARCHNOTE>Ensure Textscope Placeholder is filled in; eventually dbref tag will need attribute</RESEARCHNOTE>
+            <TEXTUALFEATURES>
+                <HEADING SUBTYPE="3">
+                    <TITLE LEVEL="MONOGRAPHIC">Boy in a Cage</TITLE>
+                </HEADING>
+                <P><RESEARCHNOTE>[Summary of Play]</RESEARCHNOTE>A teenage boy is brought by his mother to a guidance counsellor to try to get him admitted to high school in spite of being mentally challenged. When he meets a girl who is interested in him, everyone turns on him. What right does he have to be normal?</P>
+                <HEADING SUBTYPE="4">General Descriptive Information</HEADING>
+                <P>
+                    <RESEARCHNOTE>[Year Written]</RESEARCHNOTE>
+                    <DATE>Year Written: 1985??</DATE>
+                </P>
+                <P><RESEARCHNOTE>[Geographic Setting]</RESEARCHNOTE>Geographic Setting:  </P>
+                <P><RESEARCHNOTE>[Historical Period]</RESEARCHNOTE>Historical Period: Contemporary</P>
+                <P><RESEARCHNOTE>[Genre/Form of Play]</RESEARCHNOTE>Genre/Form of Play: Musical</P>
+                <HEADING SUBTYPE="4"><RESEARCHNOTE>[General Description of Performers in play]</RESEARCHNOTE>General Description of Performers in Play:</HEADING>
+                <P><RESEARCHNOTE>[(# Adult:male)]</RESEARCHNOTE>Number of Male Adults: 2 </P>
+                <P><RESEARCHNOTE>[(# Adult:female)]</RESEARCHNOTE>Number of Female Adults: 2 </P>
+                <P><RESEARCHNOTE>[Specific casting requirements]</RESEARCHNOTE>Does this play have any specific casting requirements: Yes</P>
+                <P><RESEARCHNOTE>[Specific casting requirements (Age)]</RESEARCHNOTE>Age: school age - chorus </P>
+                <P><RESEARCHNOTE>[Specific casting requirements (Gender)]</RESEARCHNOTE>Gender: M&amp; </P>
+            </TEXTUALFEATURES>
+            <PRODUCTION>
+                <RESEARCHNOTE>Has the play been published for distribution to the public in any format: Yes</RESEARCHNOTE>
+                <HEADING SUBTYPE="4">First Production</HEADING>
+                <RESEARCHNOTE>Has the play been published for distribution to the public in any format: Yes</RESEARCHNOTE>
+                <HEADING SUBTYPE="4">Publication</HEADING>
+                <LISTBIBCIT>
+                    <BIBCIT REF=""><RESEARCHNOTE>[Title]</RESEARCHNOTE><TITLE LEVEL="MONOGRAPHIC">Boy in a Cage</TITLE>, <RESEARCHNOTE>[Name of Publisher]</RESEARCHNOTE>Publisher: <ORGNAME>Playwrights Guild of Canada</ORGNAME>, <RESEARCHNOTE>[Year of First Publication]</RESEARCHNOTE><DATE></DATE><RESEARCHNOTE>[Year of Most Recent Edition (if different)]</RESEARCHNOTE><DATE></DATE>. <RESEARCHNOTE>[ISBN]</RESEARCHNOTE><IDNO TYPE=" ISBN">ISBN: 978-1-55155-632-1</IDNO></BIBCIT>
+                </LISTBIBCIT>
+            </PRODUCTION>
+            <RECEPTION>
+                <HEADING SUBTYPE="4">Other Information</HEADING>
+                <RESEARCHNOTE>In the original survey, awards for playwriting was it's own category, where all of the awards/grants for every play could be listed. Now each award/grant pertaining to a specific play will be located UNDER that play's information. GRH: If the playwright has included this info in their survey it will likely be listed at the bottom of this document and should be moved into this section.</RESEARCHNOTE>
+                <RESEARCHNOTE>This "other" category does not have a corresponding question number because it was invented AFTER the survey was sent out. It is meant to grab infomation from the original "Other" category that contains information from specific to a play written by the playwright. It makes sense to have this information in the "play section" like this, rather than have only one "other" category.</RESEARCHNOTE>
+            </RECEPTION>
+        </TEXTSCOPE>
+        <RESEARCHNOTE>Optional additional play: Yes</RESEARCHNOTE>
+        <TEXTSCOPE>
+            <RESEARCHNOTE>Ensure Textscope Placeholder is filled in; eventually dbref tag will need attribute</RESEARCHNOTE>
+            <TEXTUALFEATURES>
+                <HEADING SUBTYPE="3">
+                    <TITLE LEVEL="MONOGRAPHIC">Don't Just Stand There- Jiggle!</TITLE>
+                </HEADING>
+                <P><RESEARCHNOTE>[Summary of Play]</RESEARCHNOTE>A collection of entertaining puppet plays featuring magical and mystical characters and dealing with such themes as courage, friendship and loyalty.</P>
+                <HEADING SUBTYPE="4">General Descriptive Information</HEADING>
+                <P>
+                    <RESEARCHNOTE>[Year Written]</RESEARCHNOTE>
+                    <DATE>Year Written: </DATE>
+                </P>
+                <P><RESEARCHNOTE>[Geographic Setting]</RESEARCHNOTE>Geographic Setting:  </P>
+                <P><RESEARCHNOTE>[Historical Period]</RESEARCHNOTE>Historical Period: </P>
+                <P><RESEARCHNOTE>[Genre/Form of Play]</RESEARCHNOTE>Genre/Form of Play: Puppet</P>
+                <HEADING SUBTYPE="4"><RESEARCHNOTE>[General Description of Performers in play]</RESEARCHNOTE>General Description of Performers in Play:</HEADING>
+                <P><RESEARCHNOTE>[Specific casting requirements]</RESEARCHNOTE>Does this play have any specific casting requirements: Yes</P>
+                <P><RESEARCHNOTE>[Specific casting requirements (Requirement)]</RESEARCHNOTE>Requirement: 7 Other Cast- Puppet </P>
+            </TEXTUALFEATURES>
+            <PRODUCTION>
+                <RESEARCHNOTE>Has the play been published for distribution to the public in any format: Yes</RESEARCHNOTE>
+                <HEADING SUBTYPE="4">First Production</HEADING>
+                <RESEARCHNOTE>Has the play been published for distribution to the public in any format: Yes</RESEARCHNOTE>
+                <HEADING SUBTYPE="4">Publication</HEADING>
+                <LISTBIBCIT>
+                    <BIBCIT REF=""><RESEARCHNOTE>[Title]</RESEARCHNOTE><TITLE LEVEL="MONOGRAPHIC">Don't Just Stand There- Jiggle!</TITLE>, <RESEARCHNOTE>[Name of Publisher]</RESEARCHNOTE>Publisher: <ORGNAME>Black Moss Press</ORGNAME>, <RESEARCHNOTE>[Year of First Publication]</RESEARCHNOTE><DATE>1980</DATE><RESEARCHNOTE>[Year of Most Recent Edition (if different)]</RESEARCHNOTE><DATE></DATE>. <RESEARCHNOTE>[ISBN]</RESEARCHNOTE><IDNO TYPE="ISBN">ISBN: 9780887530654</IDNO></BIBCIT>
+                </LISTBIBCIT>
+            </PRODUCTION>
+            <RECEPTION>
+                <HEADING SUBTYPE="4">Other Information</HEADING>
+                <RESEARCHNOTE>In the original survey, awards for playwriting was it's own category, where all of the awards/grants for every play could be listed. Now each award/grant pertaining to a specific play will be located UNDER that play's information. GRH: If the playwright has included this info in their survey it will likely be listed at the bottom of this document and should be moved into this section.</RESEARCHNOTE>
+                <RESEARCHNOTE>This "other" category does not have a corresponding question number because it was invented AFTER the survey was sent out. It is meant to grab infomation from the original "Other" category that contains information from specific to a play written by the playwright. It makes sense to have this information in the "play section" like this, rather than have only one "other" category.</RESEARCHNOTE>
+            </RECEPTION>
+        </TEXTSCOPE>
+        <RESEARCHNOTE>Optional additional play: Yes</RESEARCHNOTE>
+        <TEXTSCOPE>
+            <RESEARCHNOTE>Ensure Textscope Placeholder is filled in; eventually dbref tag will need attribute</RESEARCHNOTE>
+            <TEXTUALFEATURES>
+                <HEADING SUBTYPE="3">
+                    <TITLE LEVEL="MONOGRAPHIC">Double Vision</TITLE>
+                </HEADING>
+                <P><RESEARCHNOTE>[Summary of Play]</RESEARCHNOTE>Three women are in crisis. Grandmother Lara is facing encroaching infirmity, her daughter Eileen is divorced and unhappy, while granddaughter Corrie is coping with a difficult adolescence.</P>
+                <HEADING SUBTYPE="4">General Descriptive Information</HEADING>
+                <P>
+                    <RESEARCHNOTE>[Year Written]</RESEARCHNOTE>
+                    <DATE>Year Written: </DATE>
+                </P>
+                <P><RESEARCHNOTE>[Geographic Setting]</RESEARCHNOTE>Geographic Setting:  </P>
+                <P><RESEARCHNOTE>[Historical Period]</RESEARCHNOTE>Historical Period: </P>
+                <P><RESEARCHNOTE>[Genre/Form of Play]</RESEARCHNOTE>Genre/Form of Play: One-Act</P>
+                <HEADING SUBTYPE="4"><RESEARCHNOTE>[General Description of Performers in play]</RESEARCHNOTE>General Description of Performers in Play:</HEADING>
+                <P><RESEARCHNOTE>[(# Adult:female)]</RESEARCHNOTE>Number of Female Adults: 3 </P>
+            </TEXTUALFEATURES>
+            <PRODUCTION>
+                <RESEARCHNOTE>Has the play been published for distribution to the public in any format: Yes</RESEARCHNOTE>
+                <HEADING SUBTYPE="4">First Production</HEADING>
+                <RESEARCHNOTE>Has the play been published for distribution to the public in any format: Yes</RESEARCHNOTE>
+                <HEADING SUBTYPE="4">Publication</HEADING>
+                <LISTBIBCIT>
+                    <BIBCIT REF=""><RESEARCHNOTE>[Title]</RESEARCHNOTE><TITLE LEVEL="MONOGRAPHIC">Double Vision</TITLE>, <RESEARCHNOTE>[Name of Publisher]</RESEARCHNOTE>Publisher: <ORGNAME>Playwrights Guild of Canada</ORGNAME>, <RESEARCHNOTE>[Year of First Publication]</RESEARCHNOTE><DATE></DATE><RESEARCHNOTE>[Year of Most Recent Edition (if different)]</RESEARCHNOTE><DATE></DATE>. <RESEARCHNOTE>[ISBN]</RESEARCHNOTE><IDNO TYPE="ISBN">ISBN: 978-1-55155-144-9</IDNO></BIBCIT>
+                </LISTBIBCIT>
+            </PRODUCTION>
+            <RECEPTION>
+                <HEADING SUBTYPE="4">Other Information</HEADING>
+                <RESEARCHNOTE>In the original survey, awards for playwriting was it's own category, where all of the awards/grants for every play could be listed. Now each award/grant pertaining to a specific play will be located UNDER that play's information. GRH: If the playwright has included this info in their survey it will likely be listed at the bottom of this document and should be moved into this section.</RESEARCHNOTE>
+                <RESEARCHNOTE>This "other" category does not have a corresponding question number because it was invented AFTER the survey was sent out. It is meant to grab infomation from the original "Other" category that contains information from specific to a play written by the playwright. It makes sense to have this information in the "play section" like this, rather than have only one "other" category.</RESEARCHNOTE>
+            </RECEPTION>
+        </TEXTSCOPE>
+        <RESEARCHNOTE>Optional additional play: Yes</RESEARCHNOTE>
+        <TEXTSCOPE>
+            <RESEARCHNOTE>Ensure Textscope Placeholder is filled in; eventually dbref tag will need attribute</RESEARCHNOTE>
+            <TEXTUALFEATURES>
+                <HEADING SUBTYPE="3">
+                    <TITLE LEVEL="MONOGRAPHIC">Grace Under Pressure</TITLE>
+                </HEADING>
+                <P><RESEARCHNOTE>[Summary of Play]</RESEARCHNOTE>A small town investment club goes to the city to celebrate its earnings, but each member has a private agenda that causes complications to the others. Six identical briefcases and three identical jars filled with very different contents add to the amusing confusion.</P>
+                <HEADING SUBTYPE="4">General Descriptive Information</HEADING>
+                <P>
+                    <RESEARCHNOTE>[Year Written]</RESEARCHNOTE>
+                    <DATE>Year Written: </DATE>
+                </P>
+                <P><RESEARCHNOTE>[Geographic Setting]</RESEARCHNOTE>Geographic Setting:  </P>
+                <P><RESEARCHNOTE>[Historical Period]</RESEARCHNOTE>Historical Period: </P>
+                <P><RESEARCHNOTE>[Genre/Form of Play]</RESEARCHNOTE>Genre/Form of Play: </P>
+                <HEADING SUBTYPE="4"><RESEARCHNOTE>[General Description of Performers in play]</RESEARCHNOTE>General Description of Performers in Play:</HEADING>
+                <P><RESEARCHNOTE>[(# Adult:male)]</RESEARCHNOTE>Number of Male Adults: 4 </P>
+                <P><RESEARCHNOTE>[(# Adult:female)]</RESEARCHNOTE>Number of Female Adults: 2 </P>
+            </TEXTUALFEATURES>
+            <PRODUCTION>
+                <RESEARCHNOTE>Has the play been published for distribution to the public in any format: Yes</RESEARCHNOTE>
+                <HEADING SUBTYPE="4">First Production</HEADING>
+                <RESEARCHNOTE>Has the play been published for distribution to the public in any format: Yes</RESEARCHNOTE>
+                <HEADING SUBTYPE="4">Publication</HEADING>
+                <LISTBIBCIT>
+                    <BIBCIT REF=""><RESEARCHNOTE>[Title]</RESEARCHNOTE><TITLE LEVEL="MONOGRAPHIC">Grace Under Pressure</TITLE>, <RESEARCHNOTE>[Name of Publisher]</RESEARCHNOTE>Publisher: <ORGNAME>Playwrights Guild of Canada</ORGNAME>, <RESEARCHNOTE>[Year of First Publication]</RESEARCHNOTE><DATE></DATE><RESEARCHNOTE>[Year of Most Recent Edition (if different)]</RESEARCHNOTE><DATE></DATE>. <RESEARCHNOTE>[ISBN]</RESEARCHNOTE><IDNO TYPE="ISBN">ISBN: 978-1-55155-219-4</IDNO></BIBCIT>
+                </LISTBIBCIT>
+            </PRODUCTION>
+            <RECEPTION>
+                <HEADING SUBTYPE="4">Other Information</HEADING>
+                <RESEARCHNOTE>In the original survey, awards for playwriting was it's own category, where all of the awards/grants for every play could be listed. Now each award/grant pertaining to a specific play will be located UNDER that play's information. GRH: If the playwright has included this info in their survey it will likely be listed at the bottom of this document and should be moved into this section.</RESEARCHNOTE>
+                <RESEARCHNOTE>This "other" category does not have a corresponding question number because it was invented AFTER the survey was sent out. It is meant to grab infomation from the original "Other" category that contains information from specific to a play written by the playwright. It makes sense to have this information in the "play section" like this, rather than have only one "other" category.</RESEARCHNOTE>
+            </RECEPTION>
+        </TEXTSCOPE>
+        <RESEARCHNOTE>Optional additional play: Yes</RESEARCHNOTE>
+        <TEXTSCOPE>
+            <RESEARCHNOTE>Ensure Textscope Placeholder is filled in; eventually dbref tag will need attribute</RESEARCHNOTE>
+            <TEXTUALFEATURES>
+                <HEADING SUBTYPE="3">
+                    <TITLE LEVEL="MONOGRAPHIC">How to Speak Male</TITLE>
+                </HEADING>
+                <P><RESEARCHNOTE>[Summary of Play]</RESEARCHNOTE>The first session of a night school class designed to teach what men really mean when they talk - the true messages of the male language. You may find that your audiences want to take notes.</P>
+                <HEADING SUBTYPE="4">General Descriptive Information</HEADING>
+                <P>
+                    <RESEARCHNOTE>[Year Written]</RESEARCHNOTE>
+                    <DATE>Year Written: </DATE>
+                </P>
+                <P><RESEARCHNOTE>[Geographic Setting]</RESEARCHNOTE>Geographic Setting:  </P>
+                <P><RESEARCHNOTE>[Historical Period]</RESEARCHNOTE>Historical Period: </P>
+                <P><RESEARCHNOTE>[Genre/Form of Play]</RESEARCHNOTE>Genre/Form of Play: </P>
+                <HEADING SUBTYPE="4"><RESEARCHNOTE>[General Description of Performers in play]</RESEARCHNOTE>General Description of Performers in Play:</HEADING>
+                <HEADING SUBTYPE="4"><RESEARCHNOTE>[(# Child:male)]</RESEARCHNOTE>Number of Male Children:  </HEADING>
+                <P><RESEARCHNOTE>[(# Adult:male)]</RESEARCHNOTE>Number of Male Adults: 2 </P>
+                <P><RESEARCHNOTE>[(# Adult:female)]</RESEARCHNOTE>Number of Female Adults: 3 </P>
+            </TEXTUALFEATURES>
+            <PRODUCTION>
+                <RESEARCHNOTE>Has the play been published for distribution to the public in any format: Yes</RESEARCHNOTE>
+                <HEADING SUBTYPE="4">First Production</HEADING>
+                <RESEARCHNOTE>Has the play been published for distribution to the public in any format: Yes</RESEARCHNOTE>
+                <HEADING SUBTYPE="4">Publication</HEADING>
+                <LISTBIBCIT>
+                    <BIBCIT REF=""><RESEARCHNOTE>[Title]</RESEARCHNOTE><TITLE LEVEL="MONOGRAPHIC">How to Speak Male</TITLE>, <RESEARCHNOTE>[Name of Publisher]</RESEARCHNOTE>Publisher: <ORGNAME>Playwrights Guild of Canada</ORGNAME>, <RESEARCHNOTE>[Year of First Publication]</RESEARCHNOTE><DATE></DATE><RESEARCHNOTE>[Year of Most Recent Edition (if different)]</RESEARCHNOTE><DATE></DATE>. <RESEARCHNOTE>[ISBN]</RESEARCHNOTE><IDNO TYPE="ISBN">ISBN: 978-1-55155-245-3</IDNO></BIBCIT>
+                </LISTBIBCIT>
+            </PRODUCTION>
+            <RECEPTION>
+                <HEADING SUBTYPE="4">Other Information</HEADING>
+                <RESEARCHNOTE>In the original survey, awards for playwriting was it's own category, where all of the awards/grants for every play could be listed. Now each award/grant pertaining to a specific play will be located UNDER that play's information. GRH: If the playwright has included this info in their survey it will likely be listed at the bottom of this document and should be moved into this section.</RESEARCHNOTE>
+                <RESEARCHNOTE>This "other" category does not have a corresponding question number because it was invented AFTER the survey was sent out. It is meant to grab infomation from the original "Other" category that contains information from specific to a play written by the playwright. It makes sense to have this information in the "play section" like this, rather than have only one "other" category.</RESEARCHNOTE>
+            </RECEPTION>
+        </TEXTSCOPE>
+        <RESEARCHNOTE>Optional additional play: Yes</RESEARCHNOTE>
+        <TEXTSCOPE>
+            <RESEARCHNOTE>Ensure Textscope Placeholder is filled in; eventually dbref tag will need attribute</RESEARCHNOTE>
+            <TEXTUALFEATURES>
+                <HEADING SUBTYPE="3">
+                    <TITLE LEVEL="MONOGRAPHIC">Jason</TITLE>
+                </HEADING>
+                <P><RESEARCHNOTE>[Summary of Play]</RESEARCHNOTE>Jason is a mentally challenged young man applying for permission to rent an apartment in subsidized housing. He is being interviewed. (The audience is his "jury"). Whilke answering questions he reveals more of himself than is expected.</P>
+                <HEADING SUBTYPE="4">General Descriptive Information</HEADING>
+                <P>
+                    <RESEARCHNOTE>[Year Written]</RESEARCHNOTE>
+                    <DATE>Year Written: </DATE>
+                </P>
+                <P><RESEARCHNOTE>[Geographic Setting]</RESEARCHNOTE>Geographic Setting:  </P>
+                <P><RESEARCHNOTE>[Historical Period]</RESEARCHNOTE>Historical Period: </P>
+                <P><RESEARCHNOTE>[Genre/Form of Play]</RESEARCHNOTE>Genre/Form of Play: </P>
+                <HEADING SUBTYPE="4"><RESEARCHNOTE>[General Description of Performers in play]</RESEARCHNOTE>General Description of Performers in Play:</HEADING>
+                <P><RESEARCHNOTE>[(# Adult:male)]</RESEARCHNOTE>Number of Male Adults: 1 </P>
+            </TEXTUALFEATURES>
+            <PRODUCTION>
+                <RESEARCHNOTE>Has the play been published for distribution to the public in any format: Yes</RESEARCHNOTE>
+                <HEADING SUBTYPE="4">First Production</HEADING>
+                <RESEARCHNOTE>Has the play been published for distribution to the public in any format: Yes</RESEARCHNOTE>
+                <HEADING SUBTYPE="4">Publication</HEADING>
+                <LISTBIBCIT>
+                    <BIBCIT REF=""><RESEARCHNOTE>[Title]</RESEARCHNOTE><TITLE LEVEL="MONOGRAPHIC">Jason</TITLE>, <RESEARCHNOTE>[Name of Publisher]</RESEARCHNOTE>Publisher: <ORGNAME>Playwrights Guild of Canada</ORGNAME>, <RESEARCHNOTE>[Year of First Publication]</RESEARCHNOTE><DATE>1997</DATE><RESEARCHNOTE>[Year of Most Recent Edition (if different)]</RESEARCHNOTE><DATE></DATE>. <RESEARCHNOTE>[ISBN]</RESEARCHNOTE><IDNO TYPE="ISBN">ISBN: 978-1-55173-479-8</IDNO></BIBCIT>
+                </LISTBIBCIT>
+            </PRODUCTION>
+            <RECEPTION>
+                <HEADING SUBTYPE="4">Other Information</HEADING>
+                <RESEARCHNOTE>In the original survey, awards for playwriting was it's own category, where all of the awards/grants for every play could be listed. Now each award/grant pertaining to a specific play will be located UNDER that play's information. GRH: If the playwright has included this info in their survey it will likely be listed at the bottom of this document and should be moved into this section.</RESEARCHNOTE>
+                <RESEARCHNOTE>This "other" category does not have a corresponding question number because it was invented AFTER the survey was sent out. It is meant to grab infomation from the original "Other" category that contains information from specific to a play written by the playwright. It makes sense to have this information in the "play section" like this, rather than have only one "other" category.</RESEARCHNOTE>
+            </RECEPTION>
+        </TEXTSCOPE>
+        <RESEARCHNOTE>Optional additional play: Yes</RESEARCHNOTE>
+        <TEXTSCOPE>
+            <RESEARCHNOTE>Ensure Textscope Placeholder is filled in; eventually dbref tag will need attribute</RESEARCHNOTE>
+            <TEXTUALFEATURES>
+                <HEADING SUBTYPE="3">
+                    <TITLE LEVEL="MONOGRAPHIC">Kingsayer</TITLE>
+                </HEADING>
+                <P><RESEARCHNOTE>[Summary of Play]</RESEARCHNOTE>Games, songs and sayings summon up the demanding world of childhood and the maturity that threatens it.</P>
+                <HEADING SUBTYPE="4">General Descriptive Information</HEADING>
+                <P>
+                    <RESEARCHNOTE>[Year Written]</RESEARCHNOTE>
+                    <DATE>Year Written: </DATE>
+                </P>
+                <P><RESEARCHNOTE>[Geographic Setting]</RESEARCHNOTE>Geographic Setting:  </P>
+                <P><RESEARCHNOTE>[Historical Period]</RESEARCHNOTE>Historical Period: </P>
+                <P><RESEARCHNOTE>[Genre/Form of Play]</RESEARCHNOTE>Genre/Form of Play: One-Act</P>
+                <HEADING SUBTYPE="4"><RESEARCHNOTE>[General Description of Performers in play]</RESEARCHNOTE>General Description of Performers in Play:</HEADING>
+                <P><RESEARCHNOTE>[(# Adult:male)]</RESEARCHNOTE>Number of Male Adults: 4 </P>
+                <P><RESEARCHNOTE>[(# Adult:female)]</RESEARCHNOTE>Number of Female Adults: 3 </P>
+            </TEXTUALFEATURES>
+            <PRODUCTION>
+                <RESEARCHNOTE>Has the play been published for distribution to the public in any format: Yes</RESEARCHNOTE>
+                <HEADING SUBTYPE="4">First Production</HEADING>
+                <RESEARCHNOTE>Has the play been published for distribution to the public in any format: Yes</RESEARCHNOTE>
+                <HEADING SUBTYPE="4">Publication</HEADING>
+                <LISTBIBCIT>
+                    <BIBCIT REF=""><RESEARCHNOTE>[Title]</RESEARCHNOTE><TITLE LEVEL="MONOGRAPHIC">Kingsayer</TITLE>, <RESEARCHNOTE>[Name of Publisher]</RESEARCHNOTE>Publisher: <ORGNAME>Playwrights Guild of Canada</ORGNAME>, <RESEARCHNOTE>[Year of First Publication]</RESEARCHNOTE><DATE></DATE><RESEARCHNOTE>[Year of Most Recent Edition (if different)]</RESEARCHNOTE><DATE></DATE>. <RESEARCHNOTE>[ISBN]</RESEARCHNOTE><IDNO TYPE="ISBN">ISBN: 978-1-55155-786-1</IDNO></BIBCIT>
+                </LISTBIBCIT>
+            </PRODUCTION>
+            <RECEPTION>
+                <HEADING SUBTYPE="4">Other Information</HEADING>
+                <RESEARCHNOTE>In the original survey, awards for playwriting was it's own category, where all of the awards/grants for every play could be listed. Now each award/grant pertaining to a specific play will be located UNDER that play's information. GRH: If the playwright has included this info in their survey it will likely be listed at the bottom of this document and should be moved into this section.</RESEARCHNOTE>
+                <RESEARCHNOTE>This "other" category does not have a corresponding question number because it was invented AFTER the survey was sent out. It is meant to grab infomation from the original "Other" category that contains information from specific to a play written by the playwright. It makes sense to have this information in the "play section" like this, rather than have only one "other" category.</RESEARCHNOTE>
+            </RECEPTION>
+        </TEXTSCOPE>
+        <RESEARCHNOTE>Optional additional play: Yes</RESEARCHNOTE>
+        <TEXTSCOPE>
+            <RESEARCHNOTE>Ensure Textscope Placeholder is filled in; eventually dbref tag will need attribute</RESEARCHNOTE>
+            <TEXTUALFEATURES>
+                <HEADING SUBTYPE="3">
+                    <TITLE LEVEL="MONOGRAPHIC">Mark</TITLE>
+                </HEADING>
+                <P><RESEARCHNOTE>[Summary of Play]</RESEARCHNOTE>A doctor and his family must learn to face the fact of his terminal illness. Tackles the subject of death with uncompromising honesty.</P>
+                <HEADING SUBTYPE="4">General Descriptive Information</HEADING>
+                <P>
+                    <RESEARCHNOTE>[Year Written]</RESEARCHNOTE>
+                    <DATE>Year Written: </DATE>
+                </P>
+                <P><RESEARCHNOTE>[Geographic Setting]</RESEARCHNOTE>Geographic Setting:  </P>
+                <P><RESEARCHNOTE>[Historical Period]</RESEARCHNOTE>Historical Period: </P>
+                <P><RESEARCHNOTE>[Genre/Form of Play]</RESEARCHNOTE>Genre/Form of Play: One-Act</P>
+                <HEADING SUBTYPE="4"><RESEARCHNOTE>[General Description of Performers in play]</RESEARCHNOTE>General Description of Performers in Play:</HEADING>
+                <P><RESEARCHNOTE>[(# Adult:male)]</RESEARCHNOTE>Number of Male Adults: 2 </P>
+                <P><RESEARCHNOTE>[(# Adult:female)]</RESEARCHNOTE>Number of Female Adults: 2 </P>
+            </TEXTUALFEATURES>
+            <PRODUCTION>
+                <RESEARCHNOTE>Has the play been published for distribution to the public in any format: Yes</RESEARCHNOTE>
+                <HEADING SUBTYPE="4">First Production</HEADING>
+                <RESEARCHNOTE>Has the play been published for distribution to the public in any format: Yes</RESEARCHNOTE>
+                <HEADING SUBTYPE="4">Publication</HEADING>
+                <LISTBIBCIT>
+                    <BIBCIT REF=""><RESEARCHNOTE>[Title]</RESEARCHNOTE><TITLE LEVEL="MONOGRAPHIC">Mark</TITLE>, <RESEARCHNOTE>[Name of Publisher]</RESEARCHNOTE>Publisher: <ORGNAME>Playwrights Guild of Canada</ORGNAME>, <RESEARCHNOTE>[Year of First Publication]</RESEARCHNOTE><DATE></DATE><RESEARCHNOTE>[Year of Most Recent Edition (if different)]</RESEARCHNOTE><DATE></DATE>. <RESEARCHNOTE>[ISBN]</RESEARCHNOTE><IDNO TYPE="ISBN">ISBN: 978-1-55155-776-2</IDNO></BIBCIT>
+                </LISTBIBCIT>
+            </PRODUCTION>
+            <RECEPTION>
+                <HEADING SUBTYPE="4">Other Information</HEADING>
+                <RESEARCHNOTE>In the original survey, awards for playwriting was it's own category, where all of the awards/grants for every play could be listed. Now each award/grant pertaining to a specific play will be located UNDER that play's information. GRH: If the playwright has included this info in their survey it will likely be listed at the bottom of this document and should be moved into this section.</RESEARCHNOTE>
+                <RESEARCHNOTE>This "other" category does not have a corresponding question number because it was invented AFTER the survey was sent out. It is meant to grab infomation from the original "Other" category that contains information from specific to a play written by the playwright. It makes sense to have this information in the "play section" like this, rather than have only one "other" category.</RESEARCHNOTE>
+            </RECEPTION>
+        </TEXTSCOPE>
+        <RESEARCHNOTE>Optional additional play: Yes</RESEARCHNOTE>
+        <TEXTSCOPE>
+            <RESEARCHNOTE>Ensure Textscope Placeholder is filled in; eventually dbref tag will need attribute</RESEARCHNOTE>
+            <TEXTUALFEATURES>
+                <HEADING SUBTYPE="3">
+                    <TITLE LEVEL="MONOGRAPHIC">Speculum</TITLE>
+                </HEADING>
+                <P><RESEARCHNOTE>[Summary of Play]</RESEARCHNOTE>A woman, a widow, not very old, meets a new man who pulls her out of mourning into another kind of pain... and strength. A monologue, over a period of weeks, as she copes with the encounters.</P>
+                <HEADING SUBTYPE="4">General Descriptive Information</HEADING>
+                <P>
+                    <RESEARCHNOTE>[Year Written]</RESEARCHNOTE>
+                    <DATE>Year Written: </DATE>
+                </P>
+                <P><RESEARCHNOTE>[Geographic Setting]</RESEARCHNOTE>Geographic Setting:  </P>
+                <P><RESEARCHNOTE>[Historical Period]</RESEARCHNOTE>Historical Period: </P>
+                <P><RESEARCHNOTE>[Genre/Form of Play]</RESEARCHNOTE>Genre/Form of Play: One-Act</P>
+                <HEADING SUBTYPE="4"><RESEARCHNOTE>[General Description of Performers in play]</RESEARCHNOTE>General Description of Performers in Play:</HEADING>
+                <P><RESEARCHNOTE>[(# Adult:female)]</RESEARCHNOTE>Number of Female Adults: 1 </P>
+            </TEXTUALFEATURES>
+            <PRODUCTION>
+                <RESEARCHNOTE>Has the play been published for distribution to the public in any format: Yes</RESEARCHNOTE>
+                <HEADING SUBTYPE="4">First Production</HEADING>
+                <RESEARCHNOTE>Has the play been published for distribution to the public in any format: Yes</RESEARCHNOTE>
+                <HEADING SUBTYPE="4">Publication</HEADING>
+                <LISTBIBCIT>
+                    <BIBCIT REF=""><RESEARCHNOTE>[Title]</RESEARCHNOTE><TITLE LEVEL="MONOGRAPHIC">Speculum</TITLE>, <RESEARCHNOTE>[Name of Publisher]</RESEARCHNOTE>Publisher: <ORGNAME>Playwrights Guild of Canada</ORGNAME>, <RESEARCHNOTE>[Year of First Publication]</RESEARCHNOTE><DATE>1997</DATE><RESEARCHNOTE>[Year of Most Recent Edition (if different)]</RESEARCHNOTE><DATE></DATE>. <RESEARCHNOTE>[ISBN]</RESEARCHNOTE><IDNO TYPE="ISBN">ISBN: 978-1-55173-432-3</IDNO></BIBCIT>
+                </LISTBIBCIT>
+            </PRODUCTION>
+            <RECEPTION>
+                <HEADING SUBTYPE="4">Other Information</HEADING>
+                <RESEARCHNOTE>In the original survey, awards for playwriting was it's own category, where all of the awards/grants for every play could be listed. Now each award/grant pertaining to a specific play will be located UNDER that play's information. GRH: If the playwright has included this info in their survey it will likely be listed at the bottom of this document and should be moved into this section.</RESEARCHNOTE>
+                <RESEARCHNOTE>This "other" category does not have a corresponding question number because it was invented AFTER the survey was sent out. It is meant to grab infomation from the original "Other" category that contains information from specific to a play written by the playwright. It makes sense to have this information in the "play section" like this, rather than have only one "other" category.</RESEARCHNOTE>
+            </RECEPTION>
+        </TEXTSCOPE>
+        <RESEARCHNOTE>If there are more plays that you would like to add, please send an email to playguild01@gmail.com to let us know, or comment: More Plays to be Added: Steps The Horsburgh Scandal: The Play The Old Woman and the Pedlar The Old Woman and the Pedlar (included in an anthology titled "Playhouse: Six Fantasy Plays for Children") The Second Shepherds' Play Time Bomb Veranda  More Productions to be Added: Jason Kingsayer Mark Speculum Steps The Horsburgh Scandal: The Play The Old Woman and the Pedlar The Old Woman and the Pedlar (included in an anthology titled "Playhouse: Six Fantasy Plays for Children") The Second Shepherds' Play Time Bomb Veranda</RESEARCHNOTE>
+        <RECEPTION>
+            <HEADING SUBTYPE="4">Playwriting Awards</HEADING>
+            <RESEARCHNOTE>All the awards listed below should be moved to the "Other Information" section for the corresponding plays. </RESEARCHNOTE>
+            <CHRONSTRUCT>
+                <DATE><RESEARCHNOTE>[Playwriting Award (Year)]</RESEARCHNOTE>?</DATE>
+                <CHRONPROSE><RESEARCHNOTE>[Playwriting Award (Name of Award)]</RESEARCHNOTE><RRECOGNITIONSANDAWARDS><RRECOGNITIONNAME>?</RRECOGNITIONNAME></RRECOGNITIONSANDAWARDS>, <RESEARCHNOTE>[Playwriting Award (Received for (name of play, etc.))]</RESEARCHNOTE>A PLACE ON EARTH</CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATE><RESEARCHNOTE>[Playwriting Award (Year)]</RESEARCHNOTE>1990?</DATE>
+                <CHRONPROSE><RESEARCHNOTE>[Playwriting Award (Name of Award)]</RESEARCHNOTE><RRECOGNITIONSANDAWARDS><RRECOGNITIONNAME>Canadain association of Nordic Studies Original Play award</RRECOGNITIONNAME></RRECOGNITIONSANDAWARDS>, <RESEARCHNOTE>[Playwriting Award (Received for (name of play, etc.))]</RESEARCHNOTE>VERANDA</CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATE>
+                    <RESEARCHNOTE>[Playwriting Award (Year)]</RESEARCHNOTE>
+                </DATE>
+                <CHRONPROSE><RESEARCHNOTE>[Playwriting Award (Name of Award)]</RESEARCHNOTE><RRECOGNITIONSANDAWARDS><RRECOGNITIONNAME></RRECOGNITIONNAME></RRECOGNITIONSANDAWARDS>, <RESEARCHNOTE>[Playwriting Award (Received for (name of play, etc.))]</RESEARCHNOTE></CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATE>
+                    <RESEARCHNOTE>[Playwriting Award (Year)]</RESEARCHNOTE>
+                </DATE>
+                <CHRONPROSE><RESEARCHNOTE>[Playwriting Award (Name of Award)]</RESEARCHNOTE><RRECOGNITIONSANDAWARDS><RRECOGNITIONNAME></RRECOGNITIONNAME></RRECOGNITIONSANDAWARDS>, <RESEARCHNOTE>[Playwriting Award (Received for (name of play, etc.))]</RESEARCHNOTE></CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATE>
+                    <RESEARCHNOTE>[Playwriting Award (Year)]</RESEARCHNOTE>
+                </DATE>
+                <CHRONPROSE><RESEARCHNOTE>[Playwriting Award (Name of Award)]</RESEARCHNOTE><RRECOGNITIONSANDAWARDS><RRECOGNITIONNAME></RRECOGNITIONNAME></RRECOGNITIONSANDAWARDS>, <RESEARCHNOTE>[Playwriting Award (Received for (name of play, etc.))]</RESEARCHNOTE></CHRONPROSE>
+            </CHRONSTRUCT>
+            <RESEARCHNOTE>Optional additional playwriting award(s): </RESEARCHNOTE>
+            <RESEARCHNOTE>All the awards listed below should be moved to the "Other Information" section for the corresponding plays. </RESEARCHNOTE>
+            <CHRONSTRUCT>
+                <DATE>
+                    <RESEARCHNOTE>[Playwriting Award (Year)]</RESEARCHNOTE>
+                </DATE>
+                <CHRONPROSE><RESEARCHNOTE>[Playwriting Award (Name of Award)]</RESEARCHNOTE><RRECOGNITIONSANDAWARDS><RRECOGNITIONNAME></RRECOGNITIONNAME></RRECOGNITIONSANDAWARDS>, <RESEARCHNOTE>[Playwriting Award (Received for (name of play, etc.))]</RESEARCHNOTE></CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATE>
+                    <RESEARCHNOTE>[Playwriting Award (Year)]</RESEARCHNOTE>
+                </DATE>
+                <CHRONPROSE><RESEARCHNOTE>[Playwriting Award (Name of Award)]</RESEARCHNOTE><RRECOGNITIONSANDAWARDS><RRECOGNITIONNAME></RRECOGNITIONNAME></RRECOGNITIONSANDAWARDS>, <RESEARCHNOTE>[Playwriting Award (Received for (name of play, etc.))]</RESEARCHNOTE></CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATE>
+                    <RESEARCHNOTE>[Playwriting Award (Year)]</RESEARCHNOTE>
+                </DATE>
+                <CHRONPROSE><RESEARCHNOTE>[Playwriting Award (Name of Award)]</RESEARCHNOTE><RRECOGNITIONSANDAWARDS><RRECOGNITIONNAME></RRECOGNITIONNAME></RRECOGNITIONSANDAWARDS>, <RESEARCHNOTE>[Playwriting Award (Received for (name of play, etc.))]</RESEARCHNOTE></CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATE>
+                    <RESEARCHNOTE>[Playwriting Award (Year)]</RESEARCHNOTE>
+                </DATE>
+                <CHRONPROSE><RESEARCHNOTE>[Playwriting Award (Name of Award)]</RESEARCHNOTE><RRECOGNITIONSANDAWARDS><RRECOGNITIONNAME></RRECOGNITIONNAME></RRECOGNITIONSANDAWARDS>, <RESEARCHNOTE>[Playwriting Award (Received for (name of play, etc.))]</RESEARCHNOTE></CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATE>
+                    <RESEARCHNOTE>[Playwriting Award (Year)]</RESEARCHNOTE>
+                </DATE>
+                <CHRONPROSE><RESEARCHNOTE>[Playwriting Award (Name of Award)]</RESEARCHNOTE><RRECOGNITIONSANDAWARDS><RRECOGNITIONNAME></RRECOGNITIONNAME></RRECOGNITIONSANDAWARDS>, <RESEARCHNOTE>[Playwriting Award (Received for (name of play, etc.))]</RESEARCHNOTE></CHRONPROSE>
+            </CHRONSTRUCT>
+            <RESEARCHNOTE>Optional additional play: </RESEARCHNOTE>
+            <RESEARCHNOTE>All the awards listed below should be moved to the "Other Information" section for the corresponding plays. </RESEARCHNOTE>
+            <CHRONSTRUCT>
+                <DATE>
+                    <RESEARCHNOTE>[Playwriting Award (Year)]</RESEARCHNOTE>
+                </DATE>
+                <CHRONPROSE><RESEARCHNOTE>[Playwriting Award (Name of Award)]</RESEARCHNOTE><RRECOGNITIONSANDAWARDS><RRECOGNITIONNAME></RRECOGNITIONNAME></RRECOGNITIONSANDAWARDS>, <RESEARCHNOTE>[Playwriting Award (Received for (name of play, etc.))]</RESEARCHNOTE></CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATE>
+                    <RESEARCHNOTE>[Playwriting Award (Year)]</RESEARCHNOTE>
+                </DATE>
+                <CHRONPROSE><RESEARCHNOTE>[Playwriting Award (Name of Award)]</RESEARCHNOTE><RRECOGNITIONSANDAWARDS><RRECOGNITIONNAME></RRECOGNITIONNAME></RRECOGNITIONSANDAWARDS>, <RESEARCHNOTE>[Playwriting Award (Received for (name of play, etc.))]</RESEARCHNOTE></CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATE>
+                    <RESEARCHNOTE>[Playwriting Award (Year)]</RESEARCHNOTE>
+                </DATE>
+                <CHRONPROSE><RESEARCHNOTE>[Playwriting Award (Name of Award)]</RESEARCHNOTE><RRECOGNITIONSANDAWARDS><RRECOGNITIONNAME></RRECOGNITIONNAME></RRECOGNITIONSANDAWARDS>, <RESEARCHNOTE>[Playwriting Award (Received for (name of play, etc.))]</RESEARCHNOTE></CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATE>
+                    <RESEARCHNOTE>[Playwriting Award (Year)]</RESEARCHNOTE>
+                </DATE>
+                <CHRONPROSE><RESEARCHNOTE>[Playwriting Award (Name of Award)]</RESEARCHNOTE><RRECOGNITIONSANDAWARDS><RRECOGNITIONNAME></RRECOGNITIONNAME></RRECOGNITIONSANDAWARDS>, <RESEARCHNOTE>[Playwriting Award (Received for (name of play, etc.))]</RESEARCHNOTE></CHRONPROSE>
+            </CHRONSTRUCT>
+            <CHRONSTRUCT>
+                <DATE>
+                    <RESEARCHNOTE>[Playwriting Award (Year)]</RESEARCHNOTE>
+                </DATE>
+                <CHRONPROSE><RESEARCHNOTE>[Playwriting Award (Name of Award)]</RESEARCHNOTE><RRECOGNITIONSANDAWARDS><RRECOGNITIONNAME></RRECOGNITIONNAME></RRECOGNITIONSANDAWARDS>, <RESEARCHNOTE>[Playwriting Award (Received for (name of play, etc.))]</RESEARCHNOTE></CHRONPROSE>
+            </CHRONSTRUCT>
+        </RECEPTION>
+        <PRODUCTION>
+            <HEADING SUBTYPE="4">First Production</HEADING>
+            <CHRONSTRUCT>
+                <DATE><RESEARCHNOTE>[Date of First Production (YYYY/MM)]</RESEARCHNOTE>1990</DATE>
+                <CHRONPROSE>
+                    <RESEARCHNOTE>[Play Title at First Production]</RESEARCHNOTE>
+                    <PPERFORMANCE><TITLE LEVEL="MONOGRAPHIC">A Native of the James Family</TITLE>, produced at<RESEARCHNOTE>Theatre Calgary(14b1)</RESEARCHNOTE><RESEARCHNOTE>[First Production (Place (city or town))]</RESEARCHNOTE><ORGNAME></ORGNAME> in <PLACE>Boston, MA</PLACE>, by<RESEARCHNOTE>[Production Venue (Company that First Produced)]</RESEARCHNOTE> <ORGNAME></ORGNAME>.</PPERFORMANCE>
+                </CHRONPROSE>
+            </CHRONSTRUCT>
+            <RESEARCHNOTE>[Informtation on Cast and Crew]</RESEARCHNOTE>
+            <RESEARCHNOTE>GRH note to editor: Place person names into NAME tags</RESEARCHNOTE>
+            <P></P>
+            <RESEARCHNOTE>Note to taggers: use "TCHARACTERNAME (for character names): NAME" for the cast. use internal NAME tags within TCHARACTERNAME tags only when the characters are based on historical figures</RESEARCHNOTE>
+        </PRODUCTION>
+        <RESEARCHNOTE>Optional additional first production: Yes</RESEARCHNOTE>
+        <PRODUCTION>
+            <HEADING SUBTYPE="4">First Production</HEADING>
+            <CHRONSTRUCT>
+                <DATE><RESEARCHNOTE>[Date of First Production (YYYY/MM)]</RESEARCHNOTE>1982</DATE>
+                <CHRONPROSE>
+                    <RESEARCHNOTE>[Play Title at First Production]</RESEARCHNOTE>
+                    <PPERFORMANCE><TITLE LEVEL="MONOGRAPHIC">A Place on Earth</TITLE>, produced at<RESEARCHNOTE>Theatre Calgary(14b1)</RESEARCHNOTE><RESEARCHNOTE>[First Production (Place (city or town))]</RESEARCHNOTE><ORGNAME></ORGNAME> in <PLACE>Toronto, Ontario</PLACE>, by<RESEARCHNOTE>[Production Venue (Company that First Produced)]</RESEARCHNOTE> <ORGNAME>Toronto Workshop Productions</ORGNAME>.</PPERFORMANCE>
+                </CHRONPROSE>
+            </CHRONSTRUCT>
+            <RESEARCHNOTE>[Informtation on Cast and Crew]</RESEARCHNOTE>
+            <RESEARCHNOTE>GRH note to tagger: Place person names into NAME tags</RESEARCHNOTE>
+            <P></P>
+            <RESEARCHNOTE>Note to taggers: use "TCHARACTERNAME (for character names): NAME" for the cast. use internal NAME tags within TCHARACTERNAME tags only when the characters are based on historical figures</RESEARCHNOTE>
+        </PRODUCTION>
+        <RESEARCHNOTE>Optional additional first production: Yes</RESEARCHNOTE>
+        <PRODUCTION>
+            <HEADING SUBTYPE="4">First Production</HEADING>
+            <CHRONSTRUCT>
+                <DATE><RESEARCHNOTE>[Date of First Production (YYYY/MM)]</RESEARCHNOTE>1963</DATE>
+                <CHRONPROSE>
+                    <RESEARCHNOTE>[Play Title at First Production]</RESEARCHNOTE>
+                    <PPERFORMANCE><TITLE LEVEL="MONOGRAPHIC">An Enemy of the People</TITLE>, produced at<RESEARCHNOTE>Theatre Calgary(14b1)</RESEARCHNOTE><RESEARCHNOTE>[First Production (Place (city or town))]</RESEARCHNOTE><ORGNAME>Manitoba Theatre Centre</ORGNAME> in <PLACE>Winnipeg, Manitoba</PLACE>, by<RESEARCHNOTE>[Production Venue (Company that First Produced)]</RESEARCHNOTE> <ORGNAME></ORGNAME>.</PPERFORMANCE>
+                </CHRONPROSE>
+            </CHRONSTRUCT>
+            <RESEARCHNOTE>[Informtation on Cast and Crew]</RESEARCHNOTE>
+            <RESEARCHNOTE>GRH note to editor: Place names into NAME tags</RESEARCHNOTE>
+            <P></P>
+            <RESEARCHNOTE>Note to taggers: use "TCHARACTERNAME (for character names): NAME" for the cast. use internal NAME tags within TCHARACTERNAME tags only when the characters are based on historical figures</RESEARCHNOTE>
+        </PRODUCTION>
+        <RESEARCHNOTE>Optional additional first production: Yes</RESEARCHNOTE>
+        <PRODUCTION>
+            <HEADING SUBTYPE="4">First Production</HEADING>
+            <CHRONSTRUCT>
+                <DATE><RESEARCHNOTE>[Date of First Production (YYYY/MM)]</RESEARCHNOTE>1995</DATE>
+                <CHRONPROSE>
+                    <RESEARCHNOTE>[Play Title at First Production]</RESEARCHNOTE>
+                    <PPERFORMANCE><TITLE LEVEL="MONOGRAPHIC">Androgyne</TITLE>, produced at<RESEARCHNOTE>Theatre Calgary(14b1)</RESEARCHNOTE><RESEARCHNOTE>[First Production (Place (city or town))]</RESEARCHNOTE><ORGNAME></ORGNAME> in <PLACE>Toronto, Ontario</PLACE>, by<RESEARCHNOTE>[Production Venue (Company that First Produced)]</RESEARCHNOTE> <ORGNAME>Summerworks</ORGNAME>.</PPERFORMANCE>
+                </CHRONPROSE>
+            </CHRONSTRUCT>
+            <RESEARCHNOTE>[Informtation on Cast and Crew]</RESEARCHNOTE>
+            <RESEARCHNOTE>GRH note to editor: Place names into NAME tags</RESEARCHNOTE>
+            <P></P>
+            <RESEARCHNOTE>Note to taggers: use "TCHARACTERNAME (for character names): NAME" for the cast. use internal NAME tags within TCHARACTERNAME tags only when the characters are based on historical figures</RESEARCHNOTE>
+        </PRODUCTION>
+        <RESEARCHNOTE>Optional additional first production: Yes</RESEARCHNOTE>
+        <PRODUCTION>
+            <HEADING SUBTYPE="4">First Production</HEADING>
+            <CHRONSTRUCT>
+                <DATE><RESEARCHNOTE>[Date of First Production (YYYY/MM)]</RESEARCHNOTE>1991</DATE>
+                <CHRONPROSE>
+                    <RESEARCHNOTE>[Play Title at First Production]</RESEARCHNOTE>
+                    <PPERFORMANCE><TITLE LEVEL="MONOGRAPHIC">Angel</TITLE>, produced at<RESEARCHNOTE>Theatre Calgary(14b1)</RESEARCHNOTE><RESEARCHNOTE>[First Production (Place (city or town))]</RESEARCHNOTE><ORGNAME></ORGNAME> in <PLACE>Toronto, Ontario</PLACE>, by<RESEARCHNOTE>[Production Venue (Company that First Produced)]</RESEARCHNOTE> <ORGNAME>Actors' Equity Showcase</ORGNAME>.</PPERFORMANCE>
+                </CHRONPROSE>
+            </CHRONSTRUCT>
+            <RESEARCHNOTE>[Informtation on Cast and Crew]</RESEARCHNOTE>
+            <RESEARCHNOTE>GRH note to editor: Place names into NAME tags</RESEARCHNOTE>
+            <P></P>
+            <RESEARCHNOTE>Note to taggers: use "TCHARACTERNAME (for character names): NAME" for the cast. use internal NAME tags within TCHARACTERNAME tags only when the characters are based on historical figures</RESEARCHNOTE>
+        </PRODUCTION>
+        <RESEARCHNOTE>Optional additional first production: Yes</RESEARCHNOTE>
+        <PRODUCTION>
+            <HEADING SUBTYPE="4">First Production</HEADING>
+            <CHRONSTRUCT>
+                <DATE><RESEARCHNOTE>[Date of First Production (YYYY/MM)]</RESEARCHNOTE>1977</DATE>
+                <CHRONPROSE>
+                    <RESEARCHNOTE>[Play Title at First Production]</RESEARCHNOTE>
+                    <PPERFORMANCE><TITLE LEVEL="MONOGRAPHIC">Beowulf</TITLE>, produced at<RESEARCHNOTE>Theatre Calgary(14b1)</RESEARCHNOTE><RESEARCHNOTE>[First Production (Place (city or town))]</RESEARCHNOTE><ORGNAME></ORGNAME> in <PLACE>New York, NY</PLACE>, by<RESEARCHNOTE>[Production Venue (Company that First Produced)]</RESEARCHNOTE> <ORGNAME>AMAS</ORGNAME>.</PPERFORMANCE>
+                </CHRONPROSE>
+            </CHRONSTRUCT>
+            <RESEARCHNOTE>[Informtation on Cast and Crew]</RESEARCHNOTE>
+            <RESEARCHNOTE>GRH note to editor: Place names into NAME tags</RESEARCHNOTE>
+            <P></P>
+            <RESEARCHNOTE>Note to taggers: use "TCHARACTERNAME (for character names): NAME" for the cast. use internal NAME tags within TCHARACTERNAME tags only when the characters are based on historical figures</RESEARCHNOTE>
+        </PRODUCTION>
+        <RESEARCHNOTE>Optional additional first production: Yes</RESEARCHNOTE>
+        <PRODUCTION>
+            <HEADING SUBTYPE="4">First Production</HEADING>
+            <CHRONSTRUCT>
+                <DATE><RESEARCHNOTE>[Date of First Production (YYYY/MM)]</RESEARCHNOTE>1995</DATE>
+                <CHRONPROSE>
+                    <RESEARCHNOTE>[Play Title at First Production]</RESEARCHNOTE>
+                    <PPERFORMANCE><TITLE LEVEL="MONOGRAPHIC">Boy in a Cage</TITLE>, produced at<RESEARCHNOTE>Theatre Calgary(14b1)</RESEARCHNOTE><RESEARCHNOTE>[First Production (Place (city or town))]</RESEARCHNOTE><ORGNAME></ORGNAME> in <PLACE>Saskatchewan</PLACE>, by<RESEARCHNOTE>[Production Venue (Company that First Produced)]</RESEARCHNOTE> <ORGNAME>Prairie Opera</ORGNAME>.</PPERFORMANCE>
+                </CHRONPROSE>
+            </CHRONSTRUCT>
+            <RESEARCHNOTE>[Informtation on Cast and Crew]</RESEARCHNOTE>
+            <RESEARCHNOTE>GRH note to editor: Place names into NAME tags</RESEARCHNOTE>
+            <P></P>
+            <RESEARCHNOTE>Note to taggers: use "TCHARACTERNAME (for character names): NAME" for the cast. use internal NAME tags within TCHARACTERNAME tags only when the characters are based on historical figures</RESEARCHNOTE>
+        </PRODUCTION>
+        <RESEARCHNOTE>Optional additional first production: Yes</RESEARCHNOTE>
+        <PRODUCTION>
+            <HEADING SUBTYPE="4">First Production</HEADING>
+            <CHRONSTRUCT>
+                <DATE><RESEARCHNOTE>[Date of First Production (YYYY/MM)]</RESEARCHNOTE>1986</DATE>
+                <CHRONPROSE>
+                    <RESEARCHNOTE>[Play Title at First Production]</RESEARCHNOTE>
+                    <PPERFORMANCE><TITLE LEVEL="MONOGRAPHIC">Double Vision</TITLE>, produced at<RESEARCHNOTE>Theatre Calgary(14b1)</RESEARCHNOTE><RESEARCHNOTE>[First Production (Place (city or town))]</RESEARCHNOTE><ORGNAME>a school</ORGNAME> in <PLACE>Toronto, Ontario</PLACE>, by<RESEARCHNOTE>[Production Venue (Company that First Produced)]</RESEARCHNOTE> <ORGNAME>Theatre Direct</ORGNAME>.</PPERFORMANCE>
+                </CHRONPROSE>
+            </CHRONSTRUCT>
+            <RESEARCHNOTE>[Informtation on Cast and Crew]</RESEARCHNOTE>
+            <RESEARCHNOTE>GRH note to editor: Place names into NAME tags</RESEARCHNOTE>
+            <P></P>
+            <RESEARCHNOTE>Note to taggers: use "TCHARACTERNAME (for character names): NAME" for the cast. use internal NAME tags within TCHARACTERNAME tags only when the characters are based on historical figures</RESEARCHNOTE>
+        </PRODUCTION>
+        <RESEARCHNOTE>Optional additional first production: Yes</RESEARCHNOTE>
+        <PRODUCTION>
+            <HEADING SUBTYPE="4">First Production</HEADING>
+            <CHRONSTRUCT>
+                <DATE><RESEARCHNOTE>[Date of First Production (YYYY/MM)]</RESEARCHNOTE>1992</DATE>
+                <CHRONPROSE>
+                    <RESEARCHNOTE>[Play Title at First Production]</RESEARCHNOTE>
+                    <PPERFORMANCE><TITLE LEVEL="MONOGRAPHIC">Grace Under Pressure</TITLE>, produced at<RESEARCHNOTE>Theatre Calgary(14b1)</RESEARCHNOTE><RESEARCHNOTE>[First Production (Place (city or town))]</RESEARCHNOTE><ORGNAME>a small city</ORGNAME> in <PLACE>Iowa</PLACE>, by<RESEARCHNOTE>[Production Venue (Company that First Produced)]</RESEARCHNOTE> <ORGNAME>Waterloo Playhouse</ORGNAME>.</PPERFORMANCE>
+                </CHRONPROSE>
+            </CHRONSTRUCT>
+            <RESEARCHNOTE>[Informtation on Cast and Crew]</RESEARCHNOTE>
+            <RESEARCHNOTE>GRH note to editor: Place names into NAME tags</RESEARCHNOTE>
+            <P></P>
+            <RESEARCHNOTE>Note to taggers: use "TCHARACTERNAME (for character names): NAME" for the cast. use internal NAME tags within TCHARACTERNAME tags only when the characters are based on historical figures</RESEARCHNOTE>
+        </PRODUCTION>
+        <RESEARCHNOTE>Optional additional first production: Yes</RESEARCHNOTE>
+        <PRODUCTION>
+            <HEADING SUBTYPE="4">First Production</HEADING>
+            <CHRONSTRUCT>
+                <DATE><RESEARCHNOTE>[Date of First Production (YYYY/MM)]</RESEARCHNOTE>1991</DATE>
+                <CHRONPROSE>
+                    <RESEARCHNOTE>[Play Title at First Production]</RESEARCHNOTE>
+                    <PPERFORMANCE><TITLE LEVEL="MONOGRAPHIC">How to Speak Male</TITLE>, produced at<RESEARCHNOTE>Theatre Calgary(14b1)</RESEARCHNOTE><RESEARCHNOTE>[First Production (Place (city or town))]</RESEARCHNOTE><ORGNAME>a night school classroom</ORGNAME> in <PLACE>Toronto, Ontario</PLACE>, by<RESEARCHNOTE>[Production Venue (Company that First Produced)]</RESEARCHNOTE> <ORGNAME>Solar Stage</ORGNAME>.</PPERFORMANCE>
+                </CHRONPROSE>
+            </CHRONSTRUCT>
+            <RESEARCHNOTE>[Informtation on Cast and Crew]</RESEARCHNOTE>
+            <RESEARCHNOTE>GRH note to editor: Place names into NAME tags</RESEARCHNOTE>
+            <P></P>
+            <RESEARCHNOTE>Note to taggers: use "TCHARACTERNAME (for character names): NAME" for the cast. use internal NAME tags within TCHARACTERNAME tags only when the characters are based on historical figures</RESEARCHNOTE>
+        </PRODUCTION>
+    </ENTRY>
+</CWRC>
