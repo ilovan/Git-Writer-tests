@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cwrc.ca/schemas/orlando_event.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/orlando_v2_cwrc-writer.css"?><EVENT xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <ORLANDOHEADER>
+        <FILEDESC>
+            <TITLESTMT>
+                <DOCTITLE>[Insert label/title of event here]</DOCTITLE>
+            </TITLESTMT>
+            <PUBLICATIONSTMT>
+                <AUTHORITY>Canadian Writing Research Collaboratory</AUTHORITY>
+            </PUBLICATIONSTMT>
+            <SOURCEDESC>Created from original research by members of [insert project name here]</SOURCEDESC>
+        </FILEDESC>
+        <XENODATA><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#"
+	},
+	"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-tests/master/Orlando event?place_annotation_20200720111822864",
+	"@type": "oa:Annotation",
+	"dcterms:created": "2020-07-20T17:18:22.864Z",
+	"dcterms:issued": "2020-07-20T17:19:13.323Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ilovan",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Mihaela Ilovan",
+		"foaf:nick": "ilovan"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-tests/master/Orlando event?place_annotation_20200720111822864#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-tests/master/Orlando event",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://cwrc-writer.cwrc.ca/",
+			"@type": "as:Application",
+			"rdfs:label": "CWRC Writer",
+			"schema:softwareVersion": "1.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/ilovan/Git-Writer-tests/master/Orlando event?place_annotation_20200720111822864#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "EVENT/CHRONEVENT/SHORTPROSE/P/PLACE"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "geo:SpatialThing",
+		"@id": "http://geonames.org/5985919",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://cwrc-writer.cwrc.ca/",
+		"@type": "as:Application",
+		"rdfs:label": "CWRC Writer",
+		"schema:url": "https://cwrc-writer.cwrc.ca",
+		"schema:softwareVersion": "1.0"
+	}
+}
+]]></rdf:Description></rdf:RDF></XENODATA><REVISIONDESC>
+            <RESPONSIBILITY RESP="SYS" WORKSTATUS="SUB" WORKVALUE="I">
+                <DATE VALUE="2015-03-18">18 March 2015</DATE>
+                <ITEM>Event document template complete</ITEM>
+            </RESPONSIBILITY>
+        </REVISIONDESC>
+    </ORLANDOHEADER>
+    <CHRONEVENT>
+        <CHRONSTRUCT CHRONCOLUMN="NATIONALINTERNATIONAL" RELEVANCE="DECADE" RESP="SYS">
+            <DATE CALENDAR="NEWSTYLE" CERTAINTY="CERT" VALUE="1822">[Insert date here, e.g., 1822]</DATE>
+            <CHRONPROSE>[Insert summary of event here, including location if relevant and known]
+                <PLACE REF="http://www.geonames.org/---------/">location of the event</PLACE> <RESEARCHNOTE>Please look up the GeoNames entry of your location at http://www.geonames.org/. Select it from the list of results. On the resulting map, you will most likely be told that there are multiple results in the area. Click on this notice. Out of the resulting list, select the appropriate entry, usually the first or second entry. Once you click on it, you will see a numerical id at the top-right coner of the resulting popup. Copy it and paste it in the value of the REF attribute to replace the dotted line. (e.g., the REF attribute value for Edmonton is "http://www.geonames.org/5946768/")</RESEARCHNOTE> </CHRONPROSE>
+        </CHRONSTRUCT>
+        <SHORTPROSE>
+            <P>[Insert details of event here, including <PLACE REF="http://geonames.org/5985919" REG="Jasper Alberta Canada"><ADDRESS>Place</ADDRESS></PLACE>. ]</P>
+        </SHORTPROSE>
+        <RESEARCHNOTES>
+            <RESEARCHNOTE>[If needed, insert research note here]</RESEARCHNOTE>
+        </RESEARCHNOTES>
+        <BIBCITS>
+            <BIBCIT>[Insert bibliographic citation information here]</BIBCIT>
+        </BIBCITS>
+        <KEYWORDCLASSES>
+            <KEYWORDCLASS>[Insert keyword here]</KEYWORDCLASS>
+        </KEYWORDCLASSES>
+    </CHRONEVENT>
+</EVENT>
