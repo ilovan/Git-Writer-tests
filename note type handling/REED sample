@@ -30,7 +30,7 @@
 	"@id": "https://raw.githubusercontent.com/ilovan/Git-writer-tests/master/note type handling/REED sample?date_annotation_20200724142504881",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2020-07-24T20:25:04.881Z",
-	"dcterms:issued": "2020-07-24T20:29:24.903Z",
+	"dcterms:issued": "2020-07-24T20:30:17.835Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -104,7 +104,7 @@
 	"@id": "https://raw.githubusercontent.com/ilovan/Git-writer-tests/master/note type handling/REED sample?date_annotation_20200724142504882",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2020-07-24T20:25:04.882Z",
-	"dcterms:issued": "2020-07-24T20:29:24.906Z",
+	"dcterms:issued": "2020-07-24T20:30:17.835Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -178,7 +178,7 @@
 	"@id": "https://raw.githubusercontent.com/ilovan/Git-writer-tests/master/note type handling/REED sample?person_annotation_20200724142504882",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2020-07-24T20:25:04.882Z",
-	"dcterms:issued": "2020-07-24T20:29:24.907Z",
+	"dcterms:issued": "2020-07-24T20:30:17.835Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -254,7 +254,7 @@
 	"@id": "https://raw.githubusercontent.com/ilovan/Git-writer-tests/master/note type handling/REED sample?person_annotation_20200724142504882",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2020-07-24T20:25:04.882Z",
-	"dcterms:issued": "2020-07-24T20:29:24.907Z",
+	"dcterms:issued": "2020-07-24T20:30:17.836Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -330,7 +330,7 @@
 	"@id": "https://raw.githubusercontent.com/ilovan/Git-writer-tests/master/note type handling/REED sample?person_annotation_20200724142504883",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2020-07-24T20:25:04.883Z",
-	"dcterms:issued": "2020-07-24T20:29:24.907Z",
+	"dcterms:issued": "2020-07-24T20:30:17.836Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -406,7 +406,7 @@
 	"@id": "https://raw.githubusercontent.com/ilovan/Git-writer-tests/master/note type handling/REED sample?person_annotation_20200724142504883",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2020-07-24T20:25:04.883Z",
-	"dcterms:issued": "2020-07-24T20:29:24.907Z",
+	"dcterms:issued": "2020-07-24T20:30:17.836Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -482,7 +482,7 @@
 	"@id": "https://raw.githubusercontent.com/ilovan/Git-writer-tests/master/note type handling/REED sample?date_annotation_20200724142504883",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2020-07-24T20:25:04.883Z",
-	"dcterms:issued": "2020-07-24T20:29:24.907Z",
+	"dcterms:issued": "2020-07-24T20:30:17.836Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -556,7 +556,7 @@
 	"@id": "https://raw.githubusercontent.com/ilovan/Git-writer-tests/master/note type handling/REED sample?person_annotation_20200724142504883",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2020-07-24T20:25:04.883Z",
-	"dcterms:issued": "2020-07-24T20:29:24.908Z",
+	"dcterms:issued": "2020-07-24T20:30:17.836Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -632,7 +632,7 @@
 	"@id": "https://raw.githubusercontent.com/ilovan/Git-writer-tests/master/note type handling/REED sample?date_annotation_20200724142504884",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2020-07-24T20:25:04.884Z",
-	"dcterms:issued": "2020-07-24T20:29:24.908Z",
+	"dcterms:issued": "2020-07-24T20:30:17.836Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -706,7 +706,7 @@
 	"@id": "https://raw.githubusercontent.com/ilovan/Git-writer-tests/master/note type handling/REED sample?person_annotation_20200724142504884",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2020-07-24T20:25:04.884Z",
-	"dcterms:issued": "2020-07-24T20:29:24.908Z",
+	"dcterms:issued": "2020-07-24T20:30:17.836Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -782,7 +782,7 @@
 	"@id": "https://raw.githubusercontent.com/ilovan/Git-writer-tests/master/note type handling/REED sample?org_annotation_20200724142504884",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2020-07-24T20:25:04.884Z",
-	"dcterms:issued": "2020-07-24T20:29:24.908Z",
+	"dcterms:issued": "2020-07-24T20:30:17.837Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -858,7 +858,7 @@
 	"@id": "https://raw.githubusercontent.com/ilovan/Git-writer-tests/master/note type handling/REED sample?date_annotation_20200724142504884",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2020-07-24T20:25:04.884Z",
-	"dcterms:issued": "2020-07-24T20:29:24.908Z",
+	"dcterms:issued": "2020-07-24T20:30:17.837Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -932,7 +932,7 @@
 	"@id": "https://raw.githubusercontent.com/ilovan/Git-writer-tests/master/note type handling/REED sample?person_annotation_20200724142504885",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2020-07-24T20:25:04.885Z",
-	"dcterms:issued": "2020-07-24T20:29:24.908Z",
+	"dcterms:issued": "2020-07-24T20:30:17.837Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -1008,7 +1008,7 @@
 	"@id": "https://raw.githubusercontent.com/ilovan/Git-writer-tests/master/note type handling/REED sample?person_annotation_20200724142504885",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2020-07-24T20:25:04.885Z",
-	"dcterms:issued": "2020-07-24T20:29:24.909Z",
+	"dcterms:issued": "2020-07-24T20:30:17.837Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -1084,7 +1084,7 @@
 	"@id": "https://raw.githubusercontent.com/ilovan/Git-writer-tests/master/note type handling/REED sample?person_annotation_20200724142504885",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2020-07-24T20:25:04.885Z",
-	"dcterms:issued": "2020-07-24T20:29:24.909Z",
+	"dcterms:issued": "2020-07-24T20:30:17.837Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -1160,7 +1160,7 @@
 	"@id": "https://raw.githubusercontent.com/ilovan/Git-writer-tests/master/note type handling/REED sample?date_annotation_20200724142504885",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2020-07-24T20:25:04.885Z",
-	"dcterms:issued": "2020-07-24T20:29:24.909Z",
+	"dcterms:issued": "2020-07-24T20:30:17.837Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -1234,7 +1234,7 @@
 	"@id": "https://raw.githubusercontent.com/ilovan/Git-writer-tests/master/note type handling/REED sample?person_annotation_20200724142504886",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2020-07-24T20:25:04.886Z",
-	"dcterms:issued": "2020-07-24T20:29:24.909Z",
+	"dcterms:issued": "2020-07-24T20:30:17.837Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -1310,7 +1310,7 @@
 	"@id": "https://raw.githubusercontent.com/ilovan/Git-writer-tests/master/note type handling/REED sample?date_annotation_20200724142504886",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2020-07-24T20:25:04.886Z",
-	"dcterms:issued": "2020-07-24T20:29:24.909Z",
+	"dcterms:issued": "2020-07-24T20:30:17.837Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -1384,7 +1384,7 @@
 	"@id": "https://raw.githubusercontent.com/ilovan/Git-writer-tests/master/note type handling/REED sample?note_annotation_20200724142855712",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2020-07-24T20:28:55.712Z",
-	"dcterms:issued": "2020-07-24T20:29:24.909Z",
+	"dcterms:issued": "2020-07-24T20:30:17.838Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
