@@ -41,7 +41,7 @@
 	"@id": "https://raw.githubusercontent.com/ilovan/Git-writer-tests/master/note type handling/Orlando event sample?note_annotation_20200724142215166",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2020-07-24T20:22:15.166Z",
-	"dcterms:issued": "2020-07-24T20:23:07.507Z",
+	"dcterms:issued": "2020-07-24T20:24:50.198Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
